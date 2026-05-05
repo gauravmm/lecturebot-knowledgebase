@@ -44,8 +44,12 @@ indexing, and the `search` / `fetch_doc` tool surface.
   one stage.
 - `lecture_knowledge/` — installable Python package exposing
   `search(query, corpus, k)` and `fetch_doc(id)` over the built
-  index. Loaded lazily; cold first call ~6s (model load), warm
-  queries 10–25 ms. Two consumption surfaces:
+  index. In-process: loaded lazily, cold first call ~6s (model
+  load), warm queries 10–25 ms. The MCP server pays that cost up
+  front via `retrieve.warmup()` so the first user query is already
+  warm. Embedding model is pinned to CPU (faiss is CPU-only here
+  and the small bge-base avoids contention with co-located GPU
+  jobs). Two consumption surfaces:
   - In-process Python: `from lecture_knowledge.retrieve import
     search, fetch_doc`. Cheapest path; the chat-layer workstream
     can use this if it wants tight coupling.

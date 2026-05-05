@@ -22,6 +22,7 @@ from __future__ import annotations
 
 import argparse
 import sys
+import time
 from typing import Any
 
 from mcp.server.fastmcp import FastMCP
@@ -80,9 +81,19 @@ def main() -> None:
     parser.add_argument("--port", type=int, default=8765, help="HTTP transport only.")
     args = parser.parse_args()
 
+    # Stdio transport owns stdout for JSON-RPC; route logs to stderr.
+    log = sys.stderr if args.transport == "stdio" else sys.stdout
+    print("lecture-knowledge: warming up retrieval engine…", file=log, flush=True)
+    t0 = time.monotonic()
+    retrieve.warmup()
+    print(
+        f"lecture-knowledge: warm in {time.monotonic() - t0:.1f}s",
+        file=log,
+        flush=True,
+    )
+
     if args.transport == "stdio":
-        # Banner must go to stderr — stdout is the JSON-RPC channel.
-        print("lecture-knowledge MCP server → stdio", file=sys.stderr)
+        print("lecture-knowledge MCP server → stdio", file=sys.stderr, flush=True)
         mcp.run(transport="stdio")
     else:
         mcp.settings.host = args.host

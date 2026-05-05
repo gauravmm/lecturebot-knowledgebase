@@ -59,7 +59,9 @@ def _load() -> dict[str, Any]:
 
         faiss_index = faiss.read_index(str(DENSE_DIR / "faiss.index"))
 
-        model = SentenceTransformer(EMBEDDING_MODEL_ID)
+        # CPU is intentional: faiss is CPU-only here, bge-base is small,
+        # and pinning to CPU avoids contention with co-located GPU jobs.
+        model = SentenceTransformer(EMBEDDING_MODEL_ID, device="cpu")
 
         _state.update(
             n=n,
@@ -158,6 +160,20 @@ def search(
 
     top = sorted(boosted.items(), key=lambda kv: kv[1], reverse=True)[:k]
     return [_attach_snippet_and_score(_row_to_hit(row), row, score) for row, score in top]
+
+
+def warmup() -> None:
+    """Eagerly load both indexes + the embedding model and run one
+    throwaway query end-to-end.
+
+    Intended for long-lived processes (the MCP server) that should
+    pay the cold-start cost up front rather than at first user query.
+    Loads the BM25 dump, the FAISS index, and the SentenceTransformer
+    weights, then issues a single tiny `search` so the torch/FAISS
+    code paths are exercised once.
+    """
+    _load()
+    search("warmup", k=1)
 
 
 def fetch_doc(chunk_id: str) -> dict[str, Any]:
