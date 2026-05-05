@@ -1,0 +1,19 @@
+{
+  "corpus": "essays",
+  "doc_id": "stratechery-nvidia-waves-and-moats-2024",
+  "title": "Nvidia Waves and Moats",
+  "author": "Ben Thompson",
+  "publisher": "Stratechery",
+  "category": "stratechery",
+  "source_url": "https://stratechery.com/2024/nvidia-waves-and-moats/",
+  "fetched_at": "2026-05-05",
+  "published_at": "2024-08",
+  "license": "Subscriber-archive (free Weekly Articles only); quote with attribution + link, do not redistribute the body text.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "1b0d3dde50d29f6279a07fe1caa76c52a938211ffab87d301dc315fda8a7cb27",
+      "bytes": 317052
+    }
+  ]
+}

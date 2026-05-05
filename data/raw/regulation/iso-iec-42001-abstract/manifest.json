@@ -1,0 +1,20 @@
+{
+  "corpus": "regulation",
+  "doc_id": "iso-iec-42001-abstract",
+  "title": "ISO/IEC 42001:2023 — Information technology — AI Management System (public abstract / scope summary)",
+  "author": "ISO/IEC JTC 1/SC 42",
+  "publisher": "ISO",
+  "category": "iso",
+  "format": "html-iso",
+  "source_url": "https://www.iso.org/standard/42001",
+  "fetched_at": "2026-05-05",
+  "published_at": "2023-12",
+  "license": "Abstract / scope summary only — ISO/IEC 42001 standard text is copyrighted and not redistributed here.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "51ba1b41bfd8f312e66a145d807d6142925b3d5fd1d560d6c4093f360d8f50cc",
+      "bytes": 121796
+    }
+  ]
+}

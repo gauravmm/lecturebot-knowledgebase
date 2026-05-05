@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "jvqFAi7vkBc",
+  "title": "Sam Altman: OpenAI, GPT-5, Sora, Board Saga, Elon Musk, Ilya, Power & AGI | Lex Fridman Podcast #419",
+  "channel": "Lex Fridman",
+  "channel_id": "UCSHZKyawb77ixDdsGog4iWA",
+  "source_url": "https://youtu.be/jvqFAi7vkBc",
+  "fetched_at": "2026-05-05",
+  "published_at": "2024-03-18",
+  "duration_seconds": 6910,
+  "subs_kind": "manual",
+  "subs_lang": "en",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en.vtt",
+      "sha256": "4261873a6e0cae9fedd19807d9112ce2da79ef6edce9682a9ac61acda130e0c5",
+      "bytes": 190967
+    },
+    {
+      "path": "info.json",
+      "sha256": "4ee842d401ff12e697722d47b3e104276cb53ee18f9351c3a7dfc94637213879",
+      "bytes": 598220
+    }
+  ]
+}

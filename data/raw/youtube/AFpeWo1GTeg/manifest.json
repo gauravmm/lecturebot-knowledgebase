@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "AFpeWo1GTeg",
+  "title": "Demis Hassabis: We're Three Quarters of the Way to AGI",
+  "channel": "Sequoia Capital",
+  "channel_id": "UCWrF0oN6unbXrWsTN7RctTw",
+  "source_url": "https://youtu.be/AFpeWo1GTeg",
+  "fetched_at": "2026-05-05",
+  "published_at": "2026-04-29",
+  "duration_seconds": 1611,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "a4b0e1f2e648847bec17f8f6e5e4e94d3e808a0fb35947bd803b3c45deabdea2",
+      "bytes": 264888
+    },
+    {
+      "path": "info.json",
+      "sha256": "bd422df2d546fde507022f34c7a6fb939d403366cd706ccf4e412f306889c101",
+      "bytes": 540754
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "z_-nLK4Ps1Q",
+  "title": "The Breakthroughs Needed for AGI Have Already Been Made: OpenAI Former Research Head Bob McGrew",
+  "channel": "Sequoia Capital",
+  "channel_id": "UCWrF0oN6unbXrWsTN7RctTw",
+  "source_url": "https://youtu.be/z_-nLK4Ps1Q",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-06-17",
+  "duration_seconds": 2931,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "ai-strategy",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "fc16880d3755a83fa1cc6513966d3cbc607db6a6aa98596add4b8eddf162c747",
+      "bytes": 467990
+    },
+    {
+      "path": "info.json",
+      "sha256": "b0753233b9cff9420d53064c900fc9b468e85574f7ff6bdb055a75af5868f079",
+      "bytes": 537967
+    }
+  ]
+}

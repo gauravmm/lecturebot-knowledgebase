@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "tIeHLnjs5U8",
+  "title": "Backpropagation calculus | Deep Learning Chapter 4",
+  "channel": "3Blue1Brown",
+  "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+  "source_url": "https://youtu.be/tIeHLnjs5U8",
+  "fetched_at": "2026-05-03",
+  "published_at": "2017-11-03",
+  "duration_seconds": 617,
+  "subs_kind": "manual",
+  "subs_lang": "en",
+  "topic_tag": "llm-mechanics",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en.vtt",
+      "sha256": "7a0f4b9768d1b68216a34faa68d3aadcff849e863fde8a7715c74a64a69ee487",
+      "bytes": 13288
+    },
+    {
+      "path": "info.json",
+      "sha256": "fe4468f61b8377333893cc353126dfec6fea051fbb4e8180efa4b0abbb06dea8",
+      "bytes": 142945
+    }
+  ]
+}

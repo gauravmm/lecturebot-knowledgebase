@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "5UJ0uWqO1Ho",
+  "title": "Stanford Webinar - Human-Centered AI: Designing Systems People Trust",
+  "channel": "Stanford Online",
+  "channel_id": "UCBa5G_ESCn8Yd4vw5U-gIcg",
+  "source_url": "https://youtu.be/5UJ0uWqO1Ho",
+  "fetched_at": "2026-05-05",
+  "published_at": "2026-02-02",
+  "duration_seconds": 3354,
+  "subs_kind": "manual",
+  "subs_lang": "en-US",
+  "topic_tag": "ai-strategy",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-US.vtt",
+      "sha256": "700277b12cdc36e8a67547a724c4756934da53b952e45f2c5c791e6c732c1174",
+      "bytes": 85852
+    },
+    {
+      "path": "info.json",
+      "sha256": "68404b15c609dd59903aa7b4a6364cd6769111868b5330eee49d354a62076e76",
+      "bytes": 549118
+    }
+  ]
+}

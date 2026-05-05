@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "cFIlta1GkiE",
+  "title": "Elon Musk: Digital Superintelligence, Multiplanetary Life, How to Be Useful",
+  "channel": "Y Combinator",
+  "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
+  "source_url": "https://youtu.be/cFIlta1GkiE",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-06-19",
+  "duration_seconds": 2981,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "67d2e3b98989a08c73e0180148082c5f4cb33abef5731c89cd02d69cfde75609",
+      "bytes": 414813
+    },
+    {
+      "path": "info.json",
+      "sha256": "b37fd27228df03b0b1d16a119a24fad92575bf8c2072d7a1e2f3bd036bec4ff3",
+      "bytes": 548716
+    }
+  ]
+}

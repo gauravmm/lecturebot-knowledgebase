@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "xRh2sVcNXQ8",
+  "title": "Marc Andreessen's 2026 Outlook: AI Timelines, US vs. China, and The Price of AI",
+  "channel": "a16z",
+  "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+  "source_url": "https://youtu.be/xRh2sVcNXQ8",
+  "fetched_at": "2026-05-05",
+  "published_at": "2026-01-07",
+  "duration_seconds": 4878,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "ai-strategy",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "a1a35661ecc44c7bf3d4304b7cc248e1dcdc7f190c47cda192e16f2b47b5d08c",
+      "bytes": 1000982
+    },
+    {
+      "path": "info.json",
+      "sha256": "344deea95eb8916daa9f618ea4159fe355705c10685e12b36a215b69deede30b",
+      "bytes": 571139
+    }
+  ]
+}

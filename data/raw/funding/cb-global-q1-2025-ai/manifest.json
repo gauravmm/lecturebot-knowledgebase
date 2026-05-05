@@ -1,0 +1,19 @@
+{
+  "corpus": "funding",
+  "doc_id": "cb-global-q1-2025-ai",
+  "title": "Global Startup Funding Strong In Q1 2025, Led By AI",
+  "publisher": "Crunchbase News",
+  "category": "quarterly_recap",
+  "geography": "global",
+  "year_or_period": "2025-Q1",
+  "source_url": "https://news.crunchbase.com/venture/global-funding-strong-q1-2025-ai-data/",
+  "fetched_at": "2026-05-05",
+  "license": "Public web — Crunchbase News article. Quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "7d5820a78c06582368e10f2e6bbe65b584a76a0a9b23d1be628c16896ac269a6",
+      "bytes": 156089
+    }
+  ]
+}

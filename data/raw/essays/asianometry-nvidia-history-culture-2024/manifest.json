@@ -1,0 +1,19 @@
+{
+  "corpus": "essays",
+  "doc_id": "asianometry-nvidia-history-culture-2024",
+  "title": "Nvidia's Unique History and Culture",
+  "author": "Jon Y (interview with Tae Kim)",
+  "publisher": "Asianometry",
+  "category": "asianometry",
+  "source_url": "https://www.asianometry.com/p/nvidias-unique-history-and-culture",
+  "fetched_at": "2026-05-05",
+  "published_at": "2024-12",
+  "license": "Public web; quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "f93c670c6e43efba441c424270b283e7817ce717f03d605d6631080f4f8b5c5a",
+      "bytes": 202185
+    }
+  ]
+}

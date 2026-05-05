@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "JN3KPFbWCy8",
+  "title": "Elon Musk: War, AI, Aliens, Politics, Physics, Video Games, and Humanity | Lex Fridman Podcast #400",
+  "channel": "Lex Fridman",
+  "channel_id": "UCSHZKyawb77ixDdsGog4iWA",
+  "source_url": "https://youtu.be/JN3KPFbWCy8",
+  "fetched_at": "2026-05-05",
+  "published_at": "2023-11-09",
+  "duration_seconds": 8206,
+  "subs_kind": "manual",
+  "subs_lang": "en",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en.vtt",
+      "sha256": "6b827c7be6b7644733b71cb19cfa0337b8970731052e93c72b2f7ff81cbaed41",
+      "bytes": 203193
+    },
+    {
+      "path": "info.json",
+      "sha256": "c743ae1533af0a2fcfc3eee85ea7497bea5addd0d0deade1364745a3f9bdda01",
+      "bytes": 610486
+    }
+  ]
+}

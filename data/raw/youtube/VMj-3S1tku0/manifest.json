@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "VMj-3S1tku0",
+  "title": "The spelled-out intro to neural networks and backpropagation: building micrograd",
+  "channel": "Andrej Karpathy",
+  "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
+  "source_url": "https://youtu.be/VMj-3S1tku0",
+  "fetched_at": "2026-05-05",
+  "published_at": "2022-08-16",
+  "duration_seconds": 8752,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "llm-mechanics",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "6d0cfb2a0590a087df26ec7aa72d34d2313d9c51a6da430f964f530329ca8e9f",
+      "bytes": 1257030
+    },
+    {
+      "path": "info.json",
+      "sha256": "cae387857113b1b6398533e76325ba1e394cbca397c9c63ff373dbe05fea827b",
+      "bytes": 595568
+    }
+  ]
+}

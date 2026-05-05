@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "ugvHCXCOmm4",
+  "title": "Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452",
+  "channel": "Lex Fridman",
+  "channel_id": "UCSHZKyawb77ixDdsGog4iWA",
+  "source_url": "https://youtu.be/ugvHCXCOmm4",
+  "fetched_at": "2026-05-05",
+  "published_at": "2024-11-11",
+  "duration_seconds": 18900,
+  "subs_kind": "manual",
+  "subs_lang": "en-ehkg1hFWq8A",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-ehkg1hFWq8A.vtt",
+      "sha256": "776a40fdf1c9202309207d9b12b991f77d152ee10845313353bb65dbf6082a4c",
+      "bytes": 575894
+    },
+    {
+      "path": "info.json",
+      "sha256": "71258d68ae30e80ac9be68e366dba5d2e246cae54a4f259388cd4c27343d554b",
+      "bytes": 674651
+    }
+  ]
+}

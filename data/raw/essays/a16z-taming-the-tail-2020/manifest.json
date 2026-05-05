@@ -1,0 +1,19 @@
+{
+  "corpus": "essays",
+  "doc_id": "a16z-taming-the-tail-2020",
+  "title": "Taming the Tail: Adventures in Improving AI Economics",
+  "author": "Martin Casado",
+  "publisher": "Andreessen Horowitz (a16z)",
+  "category": "vc",
+  "source_url": "https://a16z.com/taming-the-tail-adventures-in-improving-ai-economics/",
+  "fetched_at": "2026-05-05",
+  "published_at": "2020-08",
+  "license": "Public web; quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "11526d3041bb51bbc7a6987f9d98d5d3e06e8a3bc5807e97b2097b6cfa68ad11",
+      "bytes": 237504
+    }
+  ]
+}

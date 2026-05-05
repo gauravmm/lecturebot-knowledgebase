@@ -1,0 +1,19 @@
+{
+  "corpus": "essays",
+  "doc_id": "stratechery-meta-open-sources-llama2-2023",
+  "title": "Meta Open Sources Another AI Model, Moats and Open Source, Apple and Meta",
+  "author": "Ben Thompson",
+  "publisher": "Stratechery",
+  "category": "stratechery",
+  "source_url": "https://stratechery.com/2023/free-meta-open-sources-another-ai-model-moats-and-open-source-apple-and-meta/",
+  "fetched_at": "2026-05-05",
+  "published_at": "2023-07",
+  "license": "Subscriber-archive (free Weekly Articles only); quote with attribution + link, do not redistribute the body text.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "6a4c455cdd824809e989a7bb3d170dde54c667dd91e22a9b0a323477e7aa8965",
+      "bytes": 313382
+    }
+  ]
+}

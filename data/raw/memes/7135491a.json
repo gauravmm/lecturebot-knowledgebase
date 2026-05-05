@@ -1,0 +1,14 @@
+{
+  "id": "7135491a",
+  "sha256": "7135491ae0d087099562d96f015daf88acf191cc4a40311c32a6acf0a1b65a65",
+  "original_filename": "ai-checker-meme.jpg",
+  "proposed_filename": "7135491a--students-sweat-ai-detection-checker.jpg",
+  "width": 609,
+  "height": 457,
+  "format": "reaction",
+  "caption": "Bold white text on a black bar at the top reads a teacher's announcement. Below it, a large photo shows a man visibly sweating, with beads of sweat on his face, looking anxious off-camera.",
+  "ocr_text": "TEACHER: YOU'LL NOW SUBMIT ASSIGNMENTS THROUGH AN AI CHECKER.",
+  "joke_summary": "Students who used AI to write their assignments panic when told submissions will be screened by an AI detection tool.",
+  "topics": ["ai-detection", "academic-dishonesty", "llm-misuse", "student-anxiety"],
+  "added_at": "2026-05-03"
+}

@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "lNsl76AD1kE",
+  "title": "“Economics & AI” Fireside Chat: Professor Susan Athey and Dean Jon Levin",
+  "channel": "Stanford Graduate School of Business",
+  "channel_id": "UCGwuxdEeCf0TIA2RbPOj-8g",
+  "source_url": "https://youtu.be/lNsl76AD1kE",
+  "fetched_at": "2026-05-05",
+  "published_at": "2024-05-16",
+  "duration_seconds": 3078,
+  "subs_kind": "manual",
+  "subs_lang": "en-AY_kvBBaDM0",
+  "topic_tag": "economics",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-AY_kvBBaDM0.vtt",
+      "sha256": "b77f1ff212123c6bc6f38e0d9c0ec7349067485884dd3db416edb5216c10a8a7",
+      "bytes": 98296
+    },
+    {
+      "path": "info.json",
+      "sha256": "72693f7b82a13b16b30d9b9e4a19d10bf8472acb4258fac6705b312e0ae5d51a",
+      "bytes": 514938
+    }
+  ]
+}

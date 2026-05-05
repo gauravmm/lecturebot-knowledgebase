@@ -1,0 +1,19 @@
+{
+  "corpus": "letters",
+  "doc_id": "bezos-2016-ar",
+  "title": "2016 Letter to Shareholders (in 2016 Annual Report)",
+  "author": "Jeff Bezos",
+  "publisher": "Amazon",
+  "letter_year": 2016,
+  "format": "pdf-ar",
+  "source_url": "https://s2.q4cdn.com/299287126/files/doc_financials/annual/2016-Annual-Report.pdf",
+  "fetched_at": "2026-05-05",
+  "license": "Public web; canonical IR-site publication. Quote with attribution.",
+  "files": [
+    {
+      "path": "report.pdf",
+      "sha256": "313878085b92556e0090278e88970481d6638f30c92f49bc3ce8c9f9607a3552",
+      "bytes": 436144
+    }
+  ]
+}

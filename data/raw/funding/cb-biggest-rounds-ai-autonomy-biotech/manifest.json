@@ -1,0 +1,19 @@
+{
+  "corpus": "funding",
+  "doc_id": "cb-biggest-rounds-ai-autonomy-biotech",
+  "title": "The Week's 10 Biggest Funding Rounds: AI, Autonomy And Biotech Top The Ranks",
+  "publisher": "Crunchbase News",
+  "category": "theme",
+  "geography": "us",
+  "year_or_period": "2026",
+  "source_url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-autonomy-biotech-anthropic/",
+  "fetched_at": "2026-05-05",
+  "license": "Public web — Crunchbase News article. Quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "f0137c938667564c123ef055acdc28bcd185db1678ae1d67f78cf5d95e8cf033",
+      "bytes": 148623
+    }
+  ]
+}

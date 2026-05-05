@@ -1,0 +1,20 @@
+{
+  "corpus": "essays",
+  "doc_id": "lecturer-angellist-power-law-vc",
+  "title": "What AngelList Data Says About Power-Law Returns In Venture Capital",
+  "author": "AngelList",
+  "publisher": "AngelList",
+  "category": "lecturer_reading_list",
+  "source_url": "https://www.angellist.com/blog/what-angellist-data-says-about-power-law-returns-in-venture-capital",
+  "fetched_at": "2026-05-04",
+  "published_at": "2020-06",
+  "license": "Public web; quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "f354fcbccae90138a66e21fee009641fb3a7c6588a6438d2dad0bc427777184d",
+      "bytes": 12249
+    }
+  ],
+  "notes": "Extracted from a user-provided browser archive (page is JS-rendered; bypassing a Playwright fetch path)."
+}

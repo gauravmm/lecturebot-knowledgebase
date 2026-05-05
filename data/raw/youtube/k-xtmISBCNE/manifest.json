@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "k-xtmISBCNE",
+  "title": "NVIDIA’s Jensen Huang on Reasoning Models, Robotics, and Refuting the “AI Bubble” Narrative",
+  "channel": "No Priors: AI, Machine Learning, Tech, & Startups",
+  "channel_id": "UCSI7h9hydQ40K5MJHnCrQvw",
+  "source_url": "https://youtu.be/k-xtmISBCNE",
+  "fetched_at": "2026-05-05",
+  "published_at": "2026-01-08",
+  "duration_seconds": 4581,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "f7c5e6cc0e27e7413620b7549cc7a43f42b42cbaf3317d807c71dfdc791afd92",
+      "bytes": 724358
+    },
+    {
+      "path": "info.json",
+      "sha256": "a37f999988e4f64a5079cff074ee6dbc10b7ac7bc04b6117cc8f0bb89af794ee",
+      "bytes": 569615
+    }
+  ]
+}

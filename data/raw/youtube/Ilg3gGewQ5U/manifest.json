@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "Ilg3gGewQ5U",
+  "title": "Backpropagation, intuitively | Deep Learning Chapter 3",
+  "channel": "3Blue1Brown",
+  "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+  "source_url": "https://youtu.be/Ilg3gGewQ5U",
+  "fetched_at": "2026-05-03",
+  "published_at": "2017-11-03",
+  "duration_seconds": 767,
+  "subs_kind": "manual",
+  "subs_lang": "en",
+  "topic_tag": "llm-mechanics",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en.vtt",
+      "sha256": "9919e55a918d4b9faae7ce922313a4d758577bc6b5beb5a0704cbc4cae573582",
+      "bytes": 18766
+    },
+    {
+      "path": "info.json",
+      "sha256": "6794f2ea80f4bb71176caebf59627ccacfa08fab9ef0f3525efbb800ccd21563",
+      "bytes": 610855
+    }
+  ]
+}

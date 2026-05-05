@@ -1,0 +1,14 @@
+{
+  "id": "8dc2188a",
+  "sha256": "8dc2188a268eff98c74c006ea4ffae4b3323d67aa34c89d81547bb6ad810579e",
+  "original_filename": "031930cb-f0db-436e-b0c1-5bb00c2a5eed_518x376.jpg",
+  "proposed_filename": "8dc2188a--ai-destroys-business-plans.jpg",
+  "width": 518,
+  "height": 376,
+  "format": "single-panel",
+  "caption": "A boxer dog sits on a bed covered in shredded paper scraps. The label 'AI' appears near the dog in the upper right, while 'MY BUSINESS PLAN' is overlaid on the scattered shredded paper in the lower left.",
+  "ocr_text": "AI\nMY\nBUSINESS\nPLAN",
+  "joke_summary": "AI renders business plans obsolete by shredding them, the way a dog destroys things left unattended.",
+  "topics": ["ai-disruption", "business-strategy", "automation-displacement", "llm-capabilities"],
+  "added_at": "2026-05-03"
+}

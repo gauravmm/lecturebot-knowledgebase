@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "mDG_Hx3BSUE",
+  "title": "Dylan Patel — The single biggest bottleneck to scaling AI compute",
+  "channel": "Dwarkesh Patel",
+  "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
+  "source_url": "https://youtu.be/mDG_Hx3BSUE",
+  "fetched_at": "2026-05-03",
+  "published_at": "2026-03-13",
+  "duration_seconds": 9044,
+  "subs_kind": "manual",
+  "subs_lang": "en",
+  "topic_tag": "economics",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en.vtt",
+      "sha256": "17e9729d1feb3c0ea71f71391e362246668f1caad302e606f0b862b20113691b",
+      "bytes": 212982
+    },
+    {
+      "path": "info.json",
+      "sha256": "717248fb377efdb8d46e4188d6981c3e32ff9ff17912e3d128c4791079a86c8f",
+      "bytes": 568559
+    }
+  ]
+}

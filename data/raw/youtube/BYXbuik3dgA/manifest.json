@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "BYXbuik3dgA",
+  "title": "Elon Musk – \"In 36 months, the cheapest place to put AI will be space”",
+  "channel": "Dwarkesh Patel",
+  "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
+  "source_url": "https://youtu.be/BYXbuik3dgA",
+  "fetched_at": "2026-05-03",
+  "published_at": "2026-02-05",
+  "duration_seconds": 10185,
+  "subs_kind": "manual",
+  "subs_lang": "en",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en.vtt",
+      "sha256": "a24bcf5af1ada5cc091b0e7e189d4576702b4cc8633cda0ac6003a33d0a48ed8",
+      "bytes": 197088
+    },
+    {
+      "path": "info.json",
+      "sha256": "7aa86557afe351d996273448440cd1154b32a4093a9908ca04b7ba717f886d76",
+      "bytes": 618119
+    }
+  ]
+}

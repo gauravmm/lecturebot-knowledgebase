@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "96jN2OCOfLs",
+  "title": "Andrej Karpathy: From Vibe Coding to Agentic Engineering",
+  "channel": "Sequoia Capital",
+  "channel_id": "UCWrF0oN6unbXrWsTN7RctTw",
+  "source_url": "https://youtu.be/96jN2OCOfLs",
+  "fetched_at": "2026-05-05",
+  "published_at": "2026-04-29",
+  "duration_seconds": 1789,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "203dea7ea4114a71fc2b2a638af3fe89d73887e7af5fc7431f59428588c2a3e8",
+      "bytes": 313935
+    },
+    {
+      "path": "info.json",
+      "sha256": "a225a19436fa5a0f822f22353a765dd9a8a0a71e1fc69ad1d40394e64c38f8c1",
+      "bytes": 542676
+    }
+  ]
+}

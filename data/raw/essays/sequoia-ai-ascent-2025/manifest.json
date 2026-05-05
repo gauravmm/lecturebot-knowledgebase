@@ -1,0 +1,19 @@
+{
+  "corpus": "essays",
+  "doc_id": "sequoia-ai-ascent-2025",
+  "title": "AI Ascent 2025",
+  "author": "Sequoia Team",
+  "publisher": "Sequoia Capital",
+  "category": "vc",
+  "source_url": "https://www.sequoiacap.com/article/ai-ascent-2025/",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-05",
+  "license": "Public web; quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "c7fed14683539de7c329f8474fe1785aab3f5c18d4e2ed02beaeb8ec4f159e79",
+      "bytes": 69093
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "SYisFbhR7xs",
+  "title": "No Priors Ep. 128 | With Andrew Ng, Managing General Partner at AI Fund",
+  "channel": "No Priors: AI, Machine Learning, Tech, & Startups",
+  "channel_id": "UCSI7h9hydQ40K5MJHnCrQvw",
+  "source_url": "https://youtu.be/SYisFbhR7xs",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-08-21",
+  "duration_seconds": 2532,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "ai-strategy",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "7c560d27483d583aec318fb67edcdafe5ddfb5e62cbdebadf203880f5e4a5eca",
+      "bytes": 460865
+    },
+    {
+      "path": "info.json",
+      "sha256": "aecc054e5c025eb3a69e5fa5f2b17c6f0bcad44219bf4e718ba484dce8b56b98",
+      "bytes": 547911
+    }
+  ]
+}

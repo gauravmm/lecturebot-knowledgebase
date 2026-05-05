@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "aR20FWCCjAs",
+  "title": "Ilya Sutskever – We're moving from the age of scaling to the age of research",
+  "channel": "Dwarkesh Patel",
+  "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
+  "source_url": "https://youtu.be/aR20FWCCjAs",
+  "fetched_at": "2026-05-03",
+  "published_at": "2025-11-25",
+  "duration_seconds": 5763,
+  "subs_kind": "manual",
+  "subs_lang": "en",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en.vtt",
+      "sha256": "dd6a5c3ec58b776049106fa86eea2aa15a855b91e5c5ee1fb88960c6ea59705c",
+      "bytes": 113102
+    },
+    {
+      "path": "info.json",
+      "sha256": "db1f24134f14ff90a5abbe862bb2dafdd1fd44e0d71e5c3fca1dae3a7e235ebb",
+      "bytes": 596453
+    }
+  ]
+}

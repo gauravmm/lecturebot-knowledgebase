@@ -1,0 +1,17 @@
+{
+  "corpus": "owid",
+  "doc_id": "artificial-intelligence",
+  "title": "Our World in Data — Artificial Intelligence (topic page)",
+  "publisher": "Our World in Data",
+  "source_url": "https://ourworldindata.org/artificial-intelligence",
+  "fetched_at": "2026-05-05",
+  "license": "CC BY 4.0",
+  "files": [
+    {
+      "path": "artificial-intelligence.html",
+      "sha256": "7c9fae30ff0f8c606d5b77e2c452ee0171e9ca5fda10fff5b2beefd2ce865349",
+      "bytes": 179811
+    }
+  ],
+  "notes": "Single OWID topic-page snapshot. Chunk text inlines the linked chart slugs as references, but does not mirror every Grapher CSV."
+}

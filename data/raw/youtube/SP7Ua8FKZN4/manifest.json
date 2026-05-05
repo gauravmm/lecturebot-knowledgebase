@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "SP7Ua8FKZN4",
+  "title": "How To Build The Future: Aravind Srinivas",
+  "channel": "Y Combinator",
+  "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
+  "source_url": "https://youtu.be/SP7Ua8FKZN4",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-02-21",
+  "duration_seconds": 2079,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "5b1b719bd4460735958a5d7986025b082c10d66530c220c2c3308158720b60e8",
+      "bytes": 334509
+    },
+    {
+      "path": "info.json",
+      "sha256": "2ea91cff78dfba1e93039e92552bba3d10e2f063b1cedea4b948f5ca4d65a867",
+      "bytes": 525177
+    }
+  ]
+}

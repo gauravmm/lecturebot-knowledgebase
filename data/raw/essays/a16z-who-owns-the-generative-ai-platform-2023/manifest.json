@@ -1,0 +1,19 @@
+{
+  "corpus": "essays",
+  "doc_id": "a16z-who-owns-the-generative-ai-platform-2023",
+  "title": "Who Owns the Generative AI Platform?",
+  "author": "Matt Bornstein, Guido Appenzeller, Martin Casado",
+  "publisher": "Andreessen Horowitz (a16z)",
+  "category": "vc",
+  "source_url": "https://a16z.com/who-owns-the-generative-ai-platform/",
+  "fetched_at": "2026-05-05",
+  "published_at": "2023-01",
+  "license": "Public web; quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "98b58900849a1886b835bfdcebaf130806178347b397513d168927a544993544",
+      "bytes": 243653
+    }
+  ]
+}

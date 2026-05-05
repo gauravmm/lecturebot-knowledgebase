@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "wjZofJX0v4M",
+  "title": "Transformers, the tech behind LLMs | Deep Learning Chapter 5",
+  "channel": "3Blue1Brown",
+  "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+  "source_url": "https://youtu.be/wjZofJX0v4M",
+  "fetched_at": "2026-05-03",
+  "published_at": "2024-04-01",
+  "duration_seconds": 1634,
+  "subs_kind": "manual",
+  "subs_lang": "en",
+  "topic_tag": "llm-mechanics",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en.vtt",
+      "sha256": "1db14f56d39a06f7a6fe7236e3de06bc28a34d08388a261ad627829cbfe33e2e",
+      "bytes": 42885
+    },
+    {
+      "path": "info.json",
+      "sha256": "925936d94ee00a8675afa21a5a7aa59299e6f3609d818cc09e56640a7617f783",
+      "bytes": 597168
+    }
+  ]
+}

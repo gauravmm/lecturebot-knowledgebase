@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "zduSFxRajkE",
+  "title": "Let's build the GPT Tokenizer",
+  "channel": "Andrej Karpathy",
+  "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
+  "source_url": "https://youtu.be/zduSFxRajkE",
+  "fetched_at": "2026-05-05",
+  "published_at": "2024-02-20",
+  "duration_seconds": 8014,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "llm-mechanics",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "47bba99cd3d3a413352ee38540a7487f29d632f2657edce57ecf054437ea4e5f",
+      "bytes": 1211081
+    },
+    {
+      "path": "info.json",
+      "sha256": "e3cd3a8ead8a16acb3826f4fcddf6f3c9e25d0f1a7f3f0c271455e0f80d6d876",
+      "bytes": 592198
+    }
+  ]
+}

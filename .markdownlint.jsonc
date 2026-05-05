@@ -1,0 +1,11 @@
+{
+  // Bold-as-heading: we use **Bold** as sub-labels under sections, intentionally.
+  "MD036": false,
+  // Line length: prose wraps at the author's discretion, no hard 80-col cap.
+  "MD013": false,
+  // Vendor-supplied raw fetches (e.g. Anthropic pricing markdown source,
+  // Substack page snapshots) are not authored by us — don't lint them.
+  "ignores": [
+    "data/raw/**"
+  ]
+}

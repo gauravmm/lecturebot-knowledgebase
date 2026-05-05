@@ -1,0 +1,19 @@
+{
+  "corpus": "essays",
+  "doc_id": "asianometry-data-center-water-problem-2024",
+  "title": "The Big Data Center Water Problem",
+  "author": "Jon Y",
+  "publisher": "Asianometry",
+  "category": "asianometry",
+  "source_url": "https://www.asianometry.com/p/the-big-data-center-water-problem",
+  "fetched_at": "2026-05-05",
+  "published_at": "2024-11",
+  "license": "Public web; quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "87d10d39203e1deee640ef7c67898cc4004309330bbbbf7cbb7d00de8abd1940",
+      "bytes": 161769
+    }
+  ]
+}

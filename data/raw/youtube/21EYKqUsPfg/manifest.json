@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "21EYKqUsPfg",
+  "title": "Richard Sutton – Father of RL thinks LLMs are a dead end",
+  "channel": "Dwarkesh Patel",
+  "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
+  "source_url": "https://youtu.be/21EYKqUsPfg",
+  "fetched_at": "2026-05-03",
+  "published_at": "2025-09-26",
+  "duration_seconds": 4029,
+  "subs_kind": "manual",
+  "subs_lang": "en",
+  "topic_tag": "ai-strategy",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en.vtt",
+      "sha256": "2ad98054b054ca9c94ffe136420ea271e7318668eae3952222c8017510156942",
+      "bytes": 82466
+    },
+    {
+      "path": "info.json",
+      "sha256": "95c3d886017e025bea2bfbe692115fde8eba869a990e28dd6b614943c7b6b6f7",
+      "bytes": 576729
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "corpus": "vendors",
+  "doc_id": "anthropic-pricing",
+  "title": "Claude API — Pricing",
+  "publisher": "Anthropic",
+  "source_url": "https://docs.anthropic.com/en/docs/about-claude/pricing",
+  "fetch_url": "https://docs.anthropic.com/en/docs/about-claude/pricing.md",
+  "fetched_at": "2026-05-05",
+  "license": "Public web; vendor-published reference. Quote with attribution; do not redistribute the page in bulk.",
+  "notes": "Markdown source for the docsite pricing page. Includes per-model base/cache/output rates, batch + prompt-caching discount mechanics, third-party platform pricing pointers.",
+  "files": [
+    {
+      "path": "page.md",
+      "sha256": "b7f56fc59b8a2e2375bc601f2a7f7b2b92a710c976660f097579e8ee792d9b81",
+      "bytes": 23098
+    }
+  ]
+}

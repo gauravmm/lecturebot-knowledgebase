@@ -1,0 +1,22 @@
+{
+  "corpus": "edgar",
+  "doc_id": "META-10-Q_2025-06-30",
+  "ticker": "META",
+  "company_name": "Meta Platforms Inc",
+  "cik": "0001326801",
+  "form": "10-Q",
+  "filing_date": "2025-07-31",
+  "report_date": "2025-06-30",
+  "accession": "0001628280-25-036791",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta-20250630.htm",
+  "filing_index_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001326801&type=10-Q&dateb=&owner=include&count=40",
+  "fetched_at": "2026-05-05",
+  "license": "Public domain (US government filing). EDGAR fair-use applies; identify the requester via User-Agent on every request.",
+  "files": [
+    {
+      "path": "10-Q_2025-06-30.htm",
+      "sha256": "64c53373c37f502b5c62f947b00bdf5ed3f19fa8f50b721264ba06bc30f66f21",
+      "bytes": 1717169
+    }
+  ]
+}

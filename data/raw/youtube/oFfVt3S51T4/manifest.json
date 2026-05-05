@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "oFfVt3S51T4",
+  "title": "Cursor Team: Future of Programming with AI | Lex Fridman Podcast #447",
+  "channel": "Lex Fridman",
+  "channel_id": "UCSHZKyawb77ixDdsGog4iWA",
+  "source_url": "https://youtu.be/oFfVt3S51T4",
+  "fetched_at": "2026-05-05",
+  "published_at": "2024-10-06",
+  "duration_seconds": 8944,
+  "subs_kind": "manual",
+  "subs_lang": "en-ehkg1hFWq8A",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-ehkg1hFWq8A.vtt",
+      "sha256": "e9d0b249230c89969975778a6de91eb82656ebe594cc107e9e5911209c3c05a8",
+      "bytes": 242121
+    },
+    {
+      "path": "info.json",
+      "sha256": "39b80e5f7e036ba3f94e6b7acc9e83878cfecfff06642e17ea55f81cc297d537",
+      "bytes": 609364
+    }
+  ]
+}

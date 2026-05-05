@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "9V6tWC4CdFQ",
+  "title": "Sundar Pichai: CEO of Google and Alphabet | Lex Fridman Podcast #471",
+  "channel": "Lex Fridman",
+  "channel_id": "UCSHZKyawb77ixDdsGog4iWA",
+  "source_url": "https://youtu.be/9V6tWC4CdFQ",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-06-05",
+  "duration_seconds": 7924,
+  "subs_kind": "manual",
+  "subs_lang": "en-ehkg1hFWq8A",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-ehkg1hFWq8A.vtt",
+      "sha256": "65fb7f5262a9357c1ebee15fe390098c3ae1eb2a23d2fbbf8ade3c8e8fcf2744",
+      "bytes": 219437
+    },
+    {
+      "path": "info.json",
+      "sha256": "a36d7d83c201bc691232cc7d4ce98b1fec5dcd855d439f50e5bdf3519511ba6c",
+      "bytes": 606055
+    }
+  ]
+}

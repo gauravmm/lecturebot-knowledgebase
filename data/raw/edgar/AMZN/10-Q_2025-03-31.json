@@ -1,0 +1,22 @@
+{
+  "corpus": "edgar",
+  "doc_id": "AMZN-10-Q_2025-03-31",
+  "ticker": "AMZN",
+  "company_name": "Amazon.com Inc",
+  "cik": "0001018724",
+  "form": "10-Q",
+  "filing_date": "2025-05-02",
+  "report_date": "2025-03-31",
+  "accession": "0001018724-25-000036",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000036/amzn-20250331.htm",
+  "filing_index_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001018724&type=10-Q&dateb=&owner=include&count=40",
+  "fetched_at": "2026-05-05",
+  "license": "Public domain (US government filing). EDGAR fair-use applies; identify the requester via User-Agent on every request.",
+  "files": [
+    {
+      "path": "10-Q_2025-03-31.htm",
+      "sha256": "343daf57ea75cf87da844a0e3e6924d6d24e924cf9e5ce18b44c1147c15d80dd",
+      "bytes": 1139537
+    }
+  ]
+}

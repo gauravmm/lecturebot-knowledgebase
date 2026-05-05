@@ -1,0 +1,19 @@
+{
+  "corpus": "funding",
+  "doc_id": "cb-big-dollar-ai-investors-2025",
+  "title": "The Big-Dollar AI Investors Of 2025 — SoftBank And Friends",
+  "publisher": "Crunchbase News",
+  "category": "theme",
+  "geography": "global",
+  "year_or_period": "2025",
+  "source_url": "https://news.crunchbase.com/venture/big-dollar-ai-investors-2025-softbank/",
+  "fetched_at": "2026-05-05",
+  "license": "Public web — Crunchbase News article. Quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "8f9ff99d5f49398175b27181009f361b45626ccae8a4144b43d8bcb4d9ff6d2c",
+      "bytes": 154232
+    }
+  ]
+}

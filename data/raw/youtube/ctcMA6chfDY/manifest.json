@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "ctcMA6chfDY",
+  "title": "OpenAI’s Sam Altman on Building the ‘Core AI Subscription’ for Your Life",
+  "channel": "Sequoia Capital",
+  "channel_id": "UCWrF0oN6unbXrWsTN7RctTw",
+  "source_url": "https://youtu.be/ctcMA6chfDY",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-05-12",
+  "duration_seconds": 1919,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "eb3cc3b688556b97826bb43fcb32633f2cc91f628310716db5bb1bc167977bc0",
+      "bytes": 288419
+    },
+    {
+      "path": "info.json",
+      "sha256": "50c2da6398c5fcf235b97c7d03b2c696cb9fb88bdf61de962afc03b39e581bda",
+      "bytes": 532487
+    }
+  ]
+}

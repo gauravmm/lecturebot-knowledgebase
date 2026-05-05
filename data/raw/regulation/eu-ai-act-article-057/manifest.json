@@ -1,0 +1,22 @@
+{
+  "corpus": "regulation",
+  "doc_id": "eu-ai-act-article-057",
+  "title": "EU AI Act — Article 57",
+  "author": null,
+  "publisher": "European Union (Regulation 2024/1689)",
+  "category": "eu_ai_act",
+  "format": "html-eu",
+  "source_url": "https://artificialintelligenceact.eu/article/57/",
+  "fetched_at": "2026-05-05",
+  "published_at": "2024-07",
+  "license": "EU AI Act, Regulation (EU) 2024/1689, © European Union 2024. Canonical: https://eur-lex.europa.eu/eli/reg/2024/1689/oj. Re-use under Decision 2011/833/EU (Commission decision on the re-use of Commission documents). Fetched via artificialintelligenceact.eu (Future of Life Institute) mirror; EUR-Lex blocks programmatic access.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "1b8a757502a97dd265d08ac51130af7a0bed0d4f96fdebd40fe354444bffffa1",
+      "bytes": 315474
+    }
+  ],
+  "section_kind": "article",
+  "section_number": 57
+}

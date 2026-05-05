@@ -1,0 +1,19 @@
+{
+  "corpus": "funding",
+  "doc_id": "cb-global-eoy-2023-ai",
+  "title": "Global Startup Funding In 2023 Clocked In At Lowest Level In 5 Years As AI Bucked The Trend",
+  "publisher": "Crunchbase News",
+  "category": "annual_recap",
+  "geography": "global",
+  "year_or_period": "2023",
+  "source_url": "https://news.crunchbase.com/venture/global-funding-data-analysis-ai-eoy-2023/",
+  "fetched_at": "2026-05-05",
+  "license": "Public web — Crunchbase News article. Quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "c33a2c86f4301c7a36283c0821c3341d253067a6ba91247c43d6a3358b78c859",
+      "bytes": 152095
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "corpus": "edgar",
+  "doc_id": "ADBE-10-Q_2025-08-29",
+  "ticker": "ADBE",
+  "company_name": "Adobe Inc",
+  "cik": "0000796343",
+  "form": "10-Q",
+  "filing_date": "2025-09-24",
+  "report_date": "2025-08-29",
+  "accession": "0000796343-25-000107",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634325000107/adbe-20250829.htm",
+  "filing_index_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000796343&type=10-Q&dateb=&owner=include&count=40",
+  "fetched_at": "2026-05-05",
+  "license": "Public domain (US government filing). EDGAR fair-use applies; identify the requester via User-Agent on every request.",
+  "files": [
+    {
+      "path": "10-Q_2025-08-29.htm",
+      "sha256": "7bda500e631405d2e017408f926d0a84f34a0d31872406d5d7be7a19b20f769d",
+      "bytes": 1722350
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "JNyuX1zoOgU",
+  "title": "Demis Hassabis: Agents, AGI & The Next Big Scientific Breakthrough",
+  "channel": "Y Combinator",
+  "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
+  "source_url": "https://youtu.be/JNyuX1zoOgU",
+  "fetched_at": "2026-05-05",
+  "published_at": "2026-04-29",
+  "duration_seconds": 2457,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "69e02b656621c3f07f02d8968181a5ec11445ec866d6b380e2ae0e02455656d9",
+      "bytes": 404420
+    },
+    {
+      "path": "info.json",
+      "sha256": "891a3abc4a2465dfaa3842255217c26e71535f4a6feb96946f389971950a52c8",
+      "bytes": 565218
+    }
+  ]
+}

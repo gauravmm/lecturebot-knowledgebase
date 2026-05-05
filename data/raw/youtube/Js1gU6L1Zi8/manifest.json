@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "Js1gU6L1Zi8",
+  "title": "Anthropic CPO Mike Krieger: Building AI Products From the Bottom Up",
+  "channel": "Sequoia Capital",
+  "channel_id": "UCWrF0oN6unbXrWsTN7RctTw",
+  "source_url": "https://youtu.be/Js1gU6L1Zi8",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-05-09",
+  "duration_seconds": 1438,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "ec454736df4218726f31d405789c82342c81e2179fa1387b7d416fc60d8d57f0",
+      "bytes": 277742
+    },
+    {
+      "path": "info.json",
+      "sha256": "5f449eae663aee617967b837bdd656d30bd44cc8b6758049f1d96a3331053684",
+      "bytes": 538818
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "corpus": "funding",
+  "doc_id": "cb-global-q2-2025-ai-ma",
+  "title": "Global Funding Climbs In Q2 2025, AI And M&A Lead",
+  "publisher": "Crunchbase News",
+  "category": "quarterly_recap",
+  "geography": "global",
+  "year_or_period": "2025-Q2",
+  "source_url": "https://news.crunchbase.com/venture/global-funding-climbs-q2-2025-ai-ma-data/",
+  "fetched_at": "2026-05-05",
+  "license": "Public web — Crunchbase News article. Quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "4f8ce99edf02d6b7dc4ad7577fe1e75b7242e5974b41dd4829d50fec41a62dd0",
+      "bytes": 155800
+    }
+  ]
+}

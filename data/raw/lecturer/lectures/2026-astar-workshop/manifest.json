@@ -1,0 +1,126 @@
+{
+  "slug": "astar-workshop",
+  "title": "Agentic AI for Beginners Workshop",
+  "venue": "TechWorks@ROCK, A*STAR",
+  "course": null,
+  "semester": null,
+  "format": "workshop",
+  "url": "https://www.gauravmanek.com/lectures/2026/astar-workshop/",
+  "speaker": "Gaurav Manek",
+  "fetched_at": "2026-05-03",
+  "page_text": "If you're here for the workshop, welcome! Add me on LinkedIn.\n\nIf you haven't already, please sign up for GitHub Education. They will give you free access to the agents we'll be working with, but it can take a little while for it to be approved. (You'll have to create a free GitHub account first.)\n\nDuring the workshop, we'll be deploying AI agents for a simple data extraction task and a multiagent task. Bookmark these links for later.\n\nThe slides and source code are available under CC BY-SA 4.0 license. Feel free to use them for your own classes!\n\nReading List\n\nWhen writing prompts, I recommend keeping up-to-date on industry best-practices. Some good places to start:\n\n- Claude Prompt Engineering Docs\n- OpenAI Prompt Engineering Guide\n- PromptingGuide.AI\n\nIf you're looking for skills, start here:\n\n- The anthropics/skills collection\n- The openclaw/skills collection\n- https://github.com/blader/humanizer\n\nThere are plenty of skills for specific tasks and tools. If you can't find exactly what you need, you can always deploy the Skill Creator skill. Feed it some documentation and examples and it will generate a skill for you. It may be the most important skill of all.\n\n(Be warned: its easy to smuggle malicious code and prompts in with skills. Check them carefully.)\n\nFor more general reading:\n\n- My AI Platforms Lecture, including open-source as a defensive and offensive maneuver\n- This CGP Grey video\n- Sizes of LLMs\n- Chesterton's Fence, or in short: \"Do not remove a fence until you know why it was put up in the first place.\"\n- The Men Who Killed Google, for how overreliance on metrics (rather than product quality) leads to short-term gains at the cost of long-term goals.\n\nAs always, turn your critical thinking skills on and carefully engage with the claims each source makes. Test what you can",
+  "slides": [
+    {
+      "url": "https://github.com/gauravmm/agentic-ai-intro/releases/download/v0.1.2/01-introduction-slides.pdf",
+      "format": "pdf",
+      "license": "CC BY-SA 4.0",
+      "downloaded_to": "01-introduction-slides.pdf"
+    },
+    {
+      "url": "https://github.com/gauravmm/agentic-ai-intro/releases/download/v0.1.2/03-agentic-slides.pdf",
+      "format": "pdf",
+      "license": "CC BY-SA 4.0",
+      "downloaded_to": "03-agentic-slides.pdf"
+    }
+  ],
+  "lecture_recordings": [],
+  "referenced_videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=wvWpdrfoEv0",
+      "platform": "youtube"
+    }
+  ],
+  "external_links": [
+    {
+      "url": "https://www.linkedin.com/in/gauravmanek/",
+      "label": "LinkedIn"
+    },
+    {
+      "url": "https://github.com/settings/education/benefits?locale=en-SG",
+      "label": "GitHub Education"
+    },
+    {
+      "url": "https://github.com/gauravmm/ai-tutorial-scraping-prescriptions/tree/master",
+      "label": "simple data extraction task"
+    },
+    {
+      "url": "https://github.com/gauravmm/ai-tutorial-triage/tree/master",
+      "label": "multiagent task"
+    },
+    {
+      "url": "https://github.com/gauravmm/agentic-ai-intro/releases/",
+      "label": "slides"
+    },
+    {
+      "url": "https://github.com/gauravmm/agentic-ai-intro",
+      "label": "source code"
+    },
+    {
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "label": "CC BY-SA 4.0 license"
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview",
+      "label": "Claude Prompt Engineering Docs"
+    },
+    {
+      "url": "https://developers.openai.com/api/docs/guides/prompt-engineering/",
+      "label": "OpenAI Prompt Engineering Guide"
+    },
+    {
+      "url": "https://www.promptingguide.ai/",
+      "label": "PromptingGuide.AI"
+    },
+    {
+      "url": "https://github.com/anthropics/skills",
+      "label": "anthropics/skills"
+    },
+    {
+      "url": "https://github.com/openclaw/skills",
+      "label": "openclaw/skills"
+    },
+    {
+      "url": "https://github.com/blader/humanizer",
+      "label": "https://github.com/blader/humanizer"
+    },
+    {
+      "url": "https://github.com/anthropics/skills/blob/main/skills/skill-creator/",
+      "label": "Skill Creator"
+    },
+    {
+      "url": "/lectures/2025/nus-bse3713-ai-platforms",
+      "label": "My AI Platforms Lecture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_large_language_models",
+      "label": "Sizes of LLMs"
+    },
+    {
+      "url": "https://fs.blog/chestertons-fence/",
+      "label": "Chesterton's Fence"
+    },
+    {
+      "url": "https://www.wheresyoured.at/the-men-who-killed-google/",
+      "label": "The Men Who Killed Google"
+    }
+  ],
+  "social_links": [
+    {
+      "platform": "linkedin",
+      "url": "https://sg.linkedin.com/in/gauravmanek",
+      "label": "LinkedIn"
+    },
+    {
+      "platform": "github",
+      "url": "https://github.com/gauravmm",
+      "label": "GitHub"
+    },
+    {
+      "platform": "email",
+      "url": "mailto:gaurav@gauravmanek.com",
+      "label": "Email"
+    }
+  ],
+  "notes": "Workshop held on April 4, 2026. Focuses on deploying AI agents for data extraction and multi-agent systems. All materials available under CC BY-SA 4.0 license.",
+  "license": "CC BY-SA 4.0"
+}

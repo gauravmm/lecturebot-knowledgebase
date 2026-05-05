@@ -1,0 +1,70 @@
+{
+  "slug": "nus-bmp5203-decision-making-early-stage-startups",
+  "title": "Decision Making in Early Stage Startups",
+  "venue": "NUS",
+  "course": "BMP5203",
+  "semester": "Fall 2025",
+  "format": "guest lecture",
+  "url": "https://www.gauravmanek.com/lectures/2025/nus-bmp5203-decision-making-early-stage-startups/",
+  "speaker": "Gaurav Manek",
+  "fetched_at": "2026-05-03",
+  "page_text": "Decision Making in Early Stage Startups\nYou are using an outdated browser. Please upgrade your browser to improve your experience.\nGaurav Manek\nAbout\nProjects\nBlog\nLectures\nSeptember 8, 2025\n•\nlectures\nDecision Making in Early Stage Startups\nGuest Lecture for NUS BMP5203, Fall 2025\nIf you're here from the lecture, welcome! Slides are available here and are released under CC BY-SA 4.0 license.\nAdd me on LinkedIn. I'm always happy to chat about AI, startups, and the future of technology.\nReading List\nIn general, I recommend Y Combinator's Early Stage Advice. A few hours reading through it is time well spent. For sales and marketing, especially for high-tech products, read Magical Selling.\nFor the startup stages and taxonomy:\nThe Six Startup Stages\nThe Startup J Curve\nY Combinator's Startup Stages\nFor customer discovery, product-market fit, and eventually scaling:\nMastering the Hype Cycle\nCrossing the Chasm\nInside the Tornado\nAs always, turn your critical thinking skills on and carefully engage with the claims each book makes.",
+  "slides": [
+    {
+      "url": "https://www.gauravmanek.com/lectures/2025/nus-bmp5203-decision-making-early-stage-startups/Decision%20Making%20for%20BMP5203.pptx",
+      "format": "pptx",
+      "license": "CC BY-SA 4.0",
+      "downloaded_to": "slides.pptx"
+    }
+  ],
+  "lecture_recordings": [
+    {
+      "url": "https://www.youtube.com/embed/2KN5RcB9ePQ",
+      "platform": "youtube"
+    }
+  ],
+  "referenced_videos": [],
+  "external_links": [
+    {
+      "url": "https://www.ycombinator.com/library/carousel/Early%20Stage%20Advice",
+      "label": "Y Combinator's Early Stage Advice"
+    },
+    {
+      "url": "https://www.amazon.sg/Magical-Selling-Engineering-Enterprise-Industry/dp/1735854603",
+      "label": "Magical Selling"
+    },
+    {
+      "url": "https://6startupstages.com/",
+      "label": "The Six Startup Stages"
+    },
+    {
+      "url": "https://www.amazon.sg/Start-Up-Curve-Steps-Entrepreneurial-Success/dp/162634292X",
+      "label": "The Startup J Curve"
+    },
+    {
+      "url": "https://www.ycombinator.com/library/Ek-stages-of-startups",
+      "label": "Y Combinator's Startup Stages"
+    },
+    {
+      "url": "https://www.amazon.sg/Mastering-Hype-Cycle-Choose-Innovation/dp/1422121100",
+      "label": "Mastering the Hype Cycle"
+    },
+    {
+      "url": "https://www.amazon.sg/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986/",
+      "label": "Crossing the Chasm"
+    },
+    {
+      "url": "https://www.amazon.sg/Inside-Tornado-Strategies-Developing-Hypergrowth/dp/0060745819/",
+      "label": "Inside the Tornado"
+    }
+  ],
+  "social_links": [
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/in/gauravmanek/",
+      "label": "LinkedIn"
+    }
+  ],
+  "notes": "Embedded YouTube lecture recording extracted from iframe. Slides downloaded and saved as slides.pptx (CC BY-SA 4.0 licensed).",
+  "license": "CC BY-SA 4.0"
+}

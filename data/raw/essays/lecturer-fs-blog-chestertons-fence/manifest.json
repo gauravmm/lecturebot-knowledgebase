@@ -1,0 +1,19 @@
+{
+  "corpus": "essays",
+  "doc_id": "lecturer-fs-blog-chestertons-fence",
+  "title": "Chesterton's Fence",
+  "author": "Farnham Street",
+  "publisher": "Farnham Street",
+  "category": "lecturer_reading_list",
+  "source_url": "https://fs.blog/chestertons-fence/",
+  "fetched_at": "2026-05-05",
+  "published_at": null,
+  "license": "Public web; quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "d820cd5ee652537bbc601bc4d9a9472b08b069a10f21ecacf883b27117383662",
+      "bytes": 107199
+    }
+  ]
+}

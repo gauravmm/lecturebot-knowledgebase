@@ -1,0 +1,22 @@
+{
+  "corpus": "edgar",
+  "doc_id": "ORCL-10-Q_2025-02-28",
+  "ticker": "ORCL",
+  "company_name": "Oracle Corp",
+  "cik": "0001341439",
+  "form": "10-Q",
+  "filing_date": "2025-03-11",
+  "report_date": "2025-02-28",
+  "accession": "0000950170-25-037143",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025037143/orcl-20250228.htm",
+  "filing_index_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001341439&type=10-Q&dateb=&owner=include&count=40",
+  "fetched_at": "2026-05-05",
+  "license": "Public domain (US government filing). EDGAR fair-use applies; identify the requester via User-Agent on every request.",
+  "files": [
+    {
+      "path": "10-Q_2025-02-28.htm",
+      "sha256": "e8885e1b0dd6d74ea7b90848182e9ffaa1736e1824cc610aff11f5fd04030ad1",
+      "bytes": 3474738
+    }
+  ]
+}

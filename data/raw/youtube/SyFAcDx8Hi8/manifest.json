@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "SyFAcDx8Hi8",
+  "title": "AI@GSB: A conversation with Derek Thompson, Journalist, The Atlantic",
+  "channel": "Stanford Graduate School of Business",
+  "channel_id": "UCGwuxdEeCf0TIA2RbPOj-8g",
+  "source_url": "https://youtu.be/SyFAcDx8Hi8",
+  "fetched_at": "2026-05-05",
+  "published_at": "2026-03-26",
+  "duration_seconds": 3589,
+  "subs_kind": "manual",
+  "subs_lang": "en",
+  "topic_tag": "ai-strategy",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en.vtt",
+      "sha256": "4e10e5704eef49292144a942b6d97cbca16596bdec4369fc36e8ca90968cd152",
+      "bytes": 109398
+    },
+    {
+      "path": "info.json",
+      "sha256": "86ac5e3235fdae0efbb9948b497c547208e01d74d2137bb8c10e32e4c1ede847",
+      "bytes": 572057
+    }
+  ]
+}

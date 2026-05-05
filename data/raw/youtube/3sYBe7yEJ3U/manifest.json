@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "3sYBe7yEJ3U",
+  "title": "AI in the Enterprise: What Works, What Doesn’t, and What’s Next",
+  "channel": "Stanford Graduate School of Business",
+  "channel_id": "UCGwuxdEeCf0TIA2RbPOj-8g",
+  "source_url": "https://youtu.be/3sYBe7yEJ3U",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-02-21",
+  "duration_seconds": 3302,
+  "subs_kind": "manual",
+  "subs_lang": "en-taucREfG3Xs",
+  "topic_tag": "ai-strategy",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-taucREfG3Xs.vtt",
+      "sha256": "70356b8e27f94b0b45216267c708b39fbb113d1ab22f88750605dfc57544bdd9",
+      "bytes": 80341
+    },
+    {
+      "path": "info.json",
+      "sha256": "ab766f264f889fa045828ff05394035233ea63abcf93ff9ab5e7f843a66b7053",
+      "bytes": 519625
+    }
+  ]
+}

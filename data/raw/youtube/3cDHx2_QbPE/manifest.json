@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "3cDHx2_QbPE",
+  "title": "China is killing the US on energy. Does that mean they’ll win AGI? — Casey Handmer",
+  "channel": "Dwarkesh Patel",
+  "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
+  "source_url": "https://youtu.be/3cDHx2_QbPE",
+  "fetched_at": "2026-05-03",
+  "published_at": "2025-08-15",
+  "duration_seconds": 4102,
+  "subs_kind": "manual",
+  "subs_lang": "en",
+  "topic_tag": "economics",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en.vtt",
+      "sha256": "4cfe16251234b3a0b4d0cd514538e442620df3629429292021927c259530d838",
+      "bytes": 111088
+    },
+    {
+      "path": "info.json",
+      "sha256": "116d3f2b641b80d25114a699917abfed16e765840decad604136799aa2dc67c3",
+      "bytes": 576229
+    }
+  ]
+}

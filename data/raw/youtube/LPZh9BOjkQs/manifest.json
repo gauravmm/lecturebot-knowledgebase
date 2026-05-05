@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "LPZh9BOjkQs",
+  "title": "Large Language Models explained briefly",
+  "channel": "3Blue1Brown",
+  "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+  "source_url": "https://youtu.be/LPZh9BOjkQs",
+  "fetched_at": "2026-05-03",
+  "published_at": "2024-11-20",
+  "duration_seconds": 478,
+  "subs_kind": "manual",
+  "subs_lang": "en",
+  "topic_tag": "explainer",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en.vtt",
+      "sha256": "d84e80f97c4ce7cadfb23f0a3aa13b4ce9bf610094af0bd90189f4272b0ba8a1",
+      "bytes": 11126
+    },
+    {
+      "path": "info.json",
+      "sha256": "4ee8f3fefc1b7b78f7dfbc07beb9dcb4d85e8de8642d770468135e89b41af532",
+      "bytes": 591524
+    }
+  ]
+}

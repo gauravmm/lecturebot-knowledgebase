@@ -1,0 +1,20 @@
+{
+  "corpus": "regulation",
+  "doc_id": "trump-eo-removing-barriers-ai-2025-01",
+  "title": "EO — Removing Barriers to American Leadership in AI (Trump, Jan 2025)",
+  "author": "Executive Office of the President (Trump)",
+  "publisher": "The White House",
+  "category": "us_eo",
+  "format": "html-eo",
+  "source_url": "https://www.whitehouse.gov/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-01-23",
+  "license": "Public domain (US Federal government publication).",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "41d6e65bd5fbe22d9690401364d40cfef292684efe177e059fb53f2b4138cf4c",
+      "bytes": 285281
+    }
+  ]
+}

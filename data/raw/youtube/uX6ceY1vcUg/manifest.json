@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "uX6ceY1vcUg",
+  "title": "No Priors Ep. 90 | With Google's DeepMind's AlphaProof Team",
+  "channel": "No Priors: AI, Machine Learning, Tech, & Startups",
+  "channel_id": "UCSI7h9hydQ40K5MJHnCrQvw",
+  "source_url": "https://youtu.be/uX6ceY1vcUg",
+  "fetched_at": "2026-05-05",
+  "published_at": "2024-11-14",
+  "duration_seconds": 2362,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "c9869a3277b24c89803a80f1a538fca3c45a8ecc45fc6d07e2f48cbc5e90eaf2",
+      "bytes": 385711
+    },
+    {
+      "path": "info.json",
+      "sha256": "ba3583ebaeb8672bfbc132755db823169d2713ad38ced1f54ee34d4a8f1f95b5",
+      "bytes": 508337
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "corpus": "regulation",
+  "doc_id": "trump-eo-ai-education-2025-04",
+  "title": "EO — Advancing AI Education for American Youth (Trump, Apr 2025)",
+  "author": "Executive Office of the President (Trump)",
+  "publisher": "The White House",
+  "category": "us_eo",
+  "format": "html-eo",
+  "source_url": "https://www.whitehouse.gov/presidential-actions/2025/04/advancing-artificial-intelligence-education-for-american-youth/",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-04",
+  "license": "Public domain (US Federal government publication).",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "0d5d2b88874c712442a4cc07665e630229a5902b257a25cbb7197d2271652d3a",
+      "bytes": 322526
+    }
+  ]
+}

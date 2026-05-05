@@ -1,0 +1,14 @@
+{
+  "id": "c38a560c",
+  "sha256": "c38a560c144686fec348ed817814bcc56d6c46d085a2d7cc763e09ebcd57fe8a",
+  "original_filename": "gpu-junkie-meme.jpg",
+  "proposed_filename": "c38a560c--openai-insatiable-gpu-demand.jpg",
+  "width": 563,
+  "height": 453,
+  "format": "single-panel",
+  "caption": "A man in a red beanie and jacket leans forward with a pleading expression, mouth open. His face has been replaced with the OpenAI logo (a white circular knot on black). Text appears at the top and bottom of the image in bold white letters.",
+  "ocr_text": "Y'ALL GOT ANY MORE OF THEM\nGPUs",
+  "joke_summary": "OpenAI is portrayed as insatiably addicted to GPU compute, always demanding more resources.",
+  "topics": ["gpu-compute", "ai-infrastructure", "llm-scaling", "resource-hunger"],
+  "added_at": "2026-05-03"
+}

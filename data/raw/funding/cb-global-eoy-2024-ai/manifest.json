@@ -1,0 +1,19 @@
+{
+  "corpus": "funding",
+  "doc_id": "cb-global-eoy-2024-ai",
+  "title": "Global Startup Funding In 2024 — AI's Outsized Share",
+  "publisher": "Crunchbase News",
+  "category": "annual_recap",
+  "geography": "global",
+  "year_or_period": "2024",
+  "source_url": "https://news.crunchbase.com/venture/global-funding-data-analysis-ai-eoy-2024/",
+  "fetched_at": "2026-05-05",
+  "license": "Public web — Crunchbase News article. Quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "c9d86cbb163e80f5c066184f1ccacfc37a2325653096ff626812ecb97233da00",
+      "bytes": 158467
+    }
+  ]
+}

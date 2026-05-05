@@ -1,0 +1,20 @@
+{
+  "corpus": "essays",
+  "doc_id": "lecturer-yc-stages-of-startups",
+  "title": "Stages of startups",
+  "author": "Y Combinator",
+  "publisher": "Y Combinator",
+  "category": "lecturer_reading_list",
+  "source_url": "https://www.ycombinator.com/library/Ek-stages-of-startups",
+  "fetched_at": "2026-05-04",
+  "published_at": null,
+  "license": "Public web; quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "bc50b70d4bf149906b80676c82e069a8d767ce79de02314ccb8e3c56f50a6862",
+      "bytes": 5592
+    }
+  ],
+  "notes": "Extracted from a user-provided browser archive (page is JS-rendered; bypassing a Playwright fetch path)."
+}

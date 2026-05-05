@@ -1,0 +1,19 @@
+{
+  "corpus": "essays",
+  "doc_id": "asianometry-fpgas-ultimate-flex-2023",
+  "title": "FPGAs: The Ultimate Flex",
+  "author": "Jon Y",
+  "publisher": "Asianometry",
+  "category": "asianometry",
+  "source_url": "https://www.asianometry.com/p/fpgas-making-the-ultimate-flex",
+  "fetched_at": "2026-05-05",
+  "published_at": "2023-06",
+  "license": "Public web; quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "3d00fd8773d55739c0b27bee9ed3172ec05472898cacdfef04369c40f1e3574f",
+      "bytes": 165486
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "eMlx5fFNoYc",
+  "title": "Attention in transformers, step-by-step | Deep Learning Chapter 6",
+  "channel": "3Blue1Brown",
+  "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+  "source_url": "https://youtu.be/eMlx5fFNoYc",
+  "fetched_at": "2026-05-03",
+  "published_at": "2024-04-07",
+  "duration_seconds": 1569,
+  "subs_kind": "manual",
+  "subs_lang": "en",
+  "topic_tag": "llm-mechanics",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en.vtt",
+      "sha256": "2a41963b3b2c4a7a2d3091d127175caa04f044e3ad2323b1425fc8b712faba6f",
+      "bytes": 40970
+    },
+    {
+      "path": "info.json",
+      "sha256": "d9a213d92e2f1c753fb3fd322ce9b2d8436735556ce83d61d21a9ea4e820c11d",
+      "bytes": 599213
+    }
+  ]
+}

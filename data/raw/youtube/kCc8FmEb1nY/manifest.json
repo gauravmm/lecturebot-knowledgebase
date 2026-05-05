@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "kCc8FmEb1nY",
+  "title": "Let's build GPT: from scratch, in code, spelled out.",
+  "channel": "Andrej Karpathy",
+  "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
+  "source_url": "https://youtu.be/kCc8FmEb1nY",
+  "fetched_at": "2026-05-05",
+  "published_at": "2023-01-17",
+  "duration_seconds": 6980,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "llm-mechanics",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "3df291605e41de394057bcf4476295da0d7d3b81e75db49bb451bf4ac9ac32da",
+      "bytes": 1036913
+    },
+    {
+      "path": "info.json",
+      "sha256": "7d1f86b6d54241a5c9e6333b60574be1b95b517eddf8409c4b18f3a0d3795821",
+      "bytes": 587564
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "v9JBMnxuPX8",
+  "title": "AI's Trillion-Dollar Opportunity: Sequoia AI Ascent 2025 Keynote",
+  "channel": "Sequoia Capital",
+  "channel_id": "UCWrF0oN6unbXrWsTN7RctTw",
+  "source_url": "https://youtu.be/v9JBMnxuPX8",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-05-07",
+  "duration_seconds": 1715,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "ai-strategy",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "2d8a2daf57e1aa78e2d7e5d2bb7b40b130b97c7d2d84b5c23e1bc167a1b52ff9",
+      "bytes": 253204
+    },
+    {
+      "path": "info.json",
+      "sha256": "88a256784dea52a16625e83c608aa376987b0f8401d975a69aa108a818132c87",
+      "bytes": 540538
+    }
+  ]
+}

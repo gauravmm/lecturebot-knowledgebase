@@ -1,0 +1,19 @@
+{
+  "corpus": "essays",
+  "doc_id": "sequoia-generative-ai-creative-new-world-2022",
+  "title": "Generative AI: A Creative New World",
+  "author": "Sonya Huang, Pat Grady",
+  "publisher": "Sequoia Capital",
+  "category": "vc",
+  "source_url": "https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/",
+  "fetched_at": "2026-05-05",
+  "published_at": "2022-09",
+  "license": "Public web; quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "df6e19937bae1953b9e770a627e54aa4b1fb52dbe4ba53691c8af2880816c4e6",
+      "bytes": 99193
+    }
+  ]
+}

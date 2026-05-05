@@ -1,0 +1,19 @@
+{
+  "corpus": "letters",
+  "doc_id": "bezos-1997-day-1",
+  "title": "Amazon's Original 1997 Letter to Shareholders ('It's Day 1')",
+  "author": "Jeff Bezos",
+  "publisher": "Amazon",
+  "letter_year": 1997,
+  "format": "html",
+  "source_url": "https://www.aboutamazon.com/news/company-news/amazons-original-1997-letter-to-shareholders",
+  "fetched_at": "2026-05-05",
+  "license": "Public web; canonical IR-site publication. Quote with attribution.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "76b833fab88cb0f5b8c8dcee4738d7c894689504fb7883f889fd4d636a47728f",
+      "bytes": 193437
+    }
+  ]
+}

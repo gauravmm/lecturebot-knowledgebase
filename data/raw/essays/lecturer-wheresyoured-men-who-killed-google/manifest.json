@@ -1,0 +1,19 @@
+{
+  "corpus": "essays",
+  "doc_id": "lecturer-wheresyoured-men-who-killed-google",
+  "title": "The Men Who Killed Google",
+  "author": "Edward Zitron",
+  "publisher": "Where's Your Ed At",
+  "category": "lecturer_reading_list",
+  "source_url": "https://www.wheresyoured.at/the-men-who-killed-google/",
+  "fetched_at": "2026-05-05",
+  "published_at": null,
+  "license": "Public web; quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "ebdd3f36cbca21c6b2856dcf211cacabdf4ddef3e3c75d4066a4a1095bb1631a",
+      "bytes": 63652
+    }
+  ]
+}

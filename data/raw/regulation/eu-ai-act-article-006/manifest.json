@@ -1,0 +1,22 @@
+{
+  "corpus": "regulation",
+  "doc_id": "eu-ai-act-article-006",
+  "title": "EU AI Act — Article 6",
+  "author": null,
+  "publisher": "European Union (Regulation 2024/1689)",
+  "category": "eu_ai_act",
+  "format": "html-eu",
+  "source_url": "https://artificialintelligenceact.eu/article/6/",
+  "fetched_at": "2026-05-05",
+  "published_at": "2024-07",
+  "license": "EU AI Act, Regulation (EU) 2024/1689, © European Union 2024. Canonical: https://eur-lex.europa.eu/eli/reg/2024/1689/oj. Re-use under Decision 2011/833/EU (Commission decision on the re-use of Commission documents). Fetched via artificialintelligenceact.eu (Future of Life Institute) mirror; EUR-Lex blocks programmatic access.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "6d2f8c35e881da0433db68befd64e05e4fd7a7c0a88454736fef5d2e8b1919bc",
+      "bytes": 321474
+    }
+  ],
+  "section_kind": "article",
+  "section_number": 6
+}

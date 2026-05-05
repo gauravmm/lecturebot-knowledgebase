@@ -1,0 +1,19 @@
+{
+  "corpus": "letters",
+  "doc_id": "nadella-fy24",
+  "title": "Microsoft FY24 Annual Report — Letter from Satya Nadella",
+  "author": "Satya Nadella",
+  "publisher": "Microsoft",
+  "letter_year": 2024,
+  "format": "html-ar",
+  "source_url": "https://www.microsoft.com/investor/reports/ar24/index.html",
+  "fetched_at": "2026-05-05",
+  "license": "Public web; canonical IR-site publication. Quote with attribution.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "29fcbd15020545db089a69966487b6fc4bc3a57b9b30c1ebd52589c62e808c3a",
+      "bytes": 494526
+    }
+  ]
+}

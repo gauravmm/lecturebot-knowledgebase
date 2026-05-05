@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "hw7EnjC68Fw",
+  "title": "No Priors Ep. 89 | With NVIDIA CEO Jensen Huang",
+  "channel": "No Priors: AI, Machine Learning, Tech, & Startups",
+  "channel_id": "UCSI7h9hydQ40K5MJHnCrQvw",
+  "source_url": "https://youtu.be/hw7EnjC68Fw",
+  "fetched_at": "2026-05-05",
+  "published_at": "2024-11-07",
+  "duration_seconds": 2209,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "a349e403fa87bb62978a1ced829609ce0a1dad0ed4a573b16252a019c7707f04",
+      "bytes": 336506
+    },
+    {
+      "path": "info.json",
+      "sha256": "9e50ffc4e8199bc6acf01d744e8714b4c7a586db2e19d2c2f09f74047638da43",
+      "bytes": 514510
+    }
+  ]
+}

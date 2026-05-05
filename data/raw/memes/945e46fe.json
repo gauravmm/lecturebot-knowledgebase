@@ -1,0 +1,14 @@
+{
+  "id": "945e46fe",
+  "sha256": "945e46fe880b35e13737d2a2cb4112be5deba0ae83728f1f9580dd0046a620d4",
+  "original_filename": "e8a8db71-1e18-457d-aa8e-f3773f7d9cf2_644x540.jpg",
+  "proposed_filename": "945e46fe--knowledge-workers-describing-chatgpt.jpg",
+  "width": 644,
+  "height": 540,
+  "format": "reaction",
+  "caption": "Text at the top quotes an argument that ChatGPT cannot replace knowledge workers because it lacks true understanding and only rephrases questions. Below the label 'Knowledge workers:' are two side-by-side identical images of the Monkey Puppet meme character — a wide-eyed, uncomfortable-looking puppet monkey — both facing slightly away as if awkwardly avoiding eye contact.",
+  "ocr_text": "\"ChatGPT can't replace knowledge workers.\nIt doesn't really understand what it's talking about and is not\ncapable of generating new ideas or making hard decisions.\nIt sounds coherent and vaguely insightful, but all it really does\nis try to sound smart by rephrasing the question its asked.\"\n\nKnowledge workers:",
+  "joke_summary": "The description of ChatGPT — sounding coherent but merely rephrasing questions without true understanding — perfectly describes what many knowledge workers actually do, making the self-reassurance backfire.",
+  "topics": ["llm-capabilities", "knowledge-work", "ai-replacement", "self-awareness", "hallucination"],
+  "added_at": "2026-05-03"
+}

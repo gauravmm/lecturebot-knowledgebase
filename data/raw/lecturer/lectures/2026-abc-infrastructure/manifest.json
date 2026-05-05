@@ -1,0 +1,59 @@
+{
+  "slug": "abc-infrastructure",
+  "title": "Infrastructure-based Safety For Your 'Claw",
+  "venue": "Agentic Builders' Collective",
+  "course": null,
+  "semester": null,
+  "format": "Lecture",
+  "url": "https://www.gauravmanek.com/lectures/2026/abc-infrastructure/",
+  "speaker": "Gaurav Manek",
+  "fetched_at": "2026-05-03",
+  "page_text": "If you're here from Agentic Builders' Collective, welcome! Add me on LinkedIn.\n\nThe slides are available under CC BY-SA 4.0 license. Feel free to use them for your own purposes.\n\nHere's the MCP Proxy Maker from the talk. It works great with Notion and Hive. If you're interested in other AI projects, check out BenchClaw or my skills.\n\nIf you liked my talk, feel free to check out other talks I've given.",
+  "slides": [
+    {
+      "url": "https://github.com/gauravmm/2026-04-ABC-Infrastructure/releases/download/v0.1.1/slides.pdf",
+      "format": "pdf",
+      "license": "CC BY-SA 4.0",
+      "downloaded_to": "slides.pdf"
+    }
+  ],
+  "lecture_recordings": [],
+  "referenced_videos": [],
+  "external_links": [
+    {
+      "url": "https://github.com/gauravmm/2026-04-ABC-Infrastructure/tags",
+      "label": "slides"
+    },
+    {
+      "url": "https://github.com/gauravmm/mcp_proxy_maker",
+      "label": "MCP Proxy Maker"
+    },
+    {
+      "url": "https://github.com/gauravmm/benchclaw/",
+      "label": "BenchClaw"
+    },
+    {
+      "url": "https://github.com/gauravmm/g9k-skills",
+      "label": "skills"
+    }
+  ],
+  "social_links": [
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/in/gauravmanek/",
+      "label": "LinkedIn"
+    },
+    {
+      "platform": "github",
+      "url": "https://github.com/gauravmm",
+      "label": "GitHub"
+    },
+    {
+      "platform": "email",
+      "url": "mailto:gaurav@gauravmanek.com",
+      "label": "Email"
+    }
+  ],
+  "notes": "Lecture delivered April 18, 2026 about infrastructure-based safety approaches for AI agents. The slides were compiled and released with multiple versions on GitHub.",
+  "license": "CC BY-SA 4.0"
+}

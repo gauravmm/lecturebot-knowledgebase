@@ -1,0 +1,24 @@
+{
+  "corpus": "epoch_models",
+  "doc_id": "epoch_notable_models",
+  "title": "Epoch AI — Notable AI Models database",
+  "publisher": "Epoch AI",
+  "source_url": "https://epoch.ai/data/notable_ai_models.csv",
+  "landing_url": "https://epoch.ai/data/ai-models",
+  "documentation_url": "https://epoch.ai/data/ai-models-documentation",
+  "fetched_at": "2026-05-05",
+  "license": "CC BY 4.0",
+  "files": [
+    {
+      "path": "notable_ai_models.csv",
+      "sha256": "b2c8a45f62510fbb4b01f0d8859d44ec42e908b0b5424c68a253df6ea93a7f22",
+      "bytes": 2162302
+    },
+    {
+      "path": "documentation.html",
+      "sha256": "c7b43001c5d1f0f3f020276386f3de1ac183895aa3b200e8413d8e957ef45986",
+      "bytes": 84741
+    }
+  ],
+  "notes": "Curated frontier-model database with training compute, parameters, dataset size, training cost. The 'notable' subset is the canonical Epoch citation. Documentation page is a Next.js shell; only the Overview tab is available in static HTML."
+}

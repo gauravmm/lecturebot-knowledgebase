@@ -1,0 +1,19 @@
+{
+  "corpus": "essays",
+  "doc_id": "stratechery-openais-windows-play-2025",
+  "title": "OpenAI's Windows Play",
+  "author": "Ben Thompson",
+  "publisher": "Stratechery",
+  "category": "stratechery",
+  "source_url": "https://stratechery.com/2025/openais-windows-play/",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-10",
+  "license": "Subscriber-archive (free Weekly Articles only); quote with attribution + link, do not redistribute the body text.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "f8a258157da5c622b3437974f59bf1e64a5fabad2e54e1ae4ca2d3a1a63806b7",
+      "bytes": 308830
+    }
+  ]
+}

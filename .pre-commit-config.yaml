@@ -1,0 +1,10 @@
+repos:
+  - repo: https://github.com/DavidAnson/markdownlint-cli2
+    rev: v0.22.1
+    hooks:
+      - id: markdownlint-cli2
+        # Vendor-supplied raw fetches (Anthropic .md pricing source,
+        # Substack page snapshots, etc.) aren't ours to style. Pre-commit
+        # passes paths to the hook directly, which bypasses the
+        # `ignores` config in .markdownlint.jsonc — so exclude here too.
+        exclude: ^data/raw/

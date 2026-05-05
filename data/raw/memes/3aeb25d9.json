@@ -1,0 +1,14 @@
+{
+  "id": "3aeb25d9",
+  "sha256": "3aeb25d9abfcdb746bcf658518ad616487a8d38f7b9b5814f68e4acced0372de",
+  "original_filename": "Screenshot_20250723_163409_Instagram.jpg",
+  "proposed_filename": "3aeb25d9--prompts-beg-llm-valid-json.jpg",
+  "width": 891,
+  "height": 1328,
+  "format": "single-panel",
+  "caption": "A vertically stacked image showing an elephant balancing on a small ball on a beach, labeled 'AGENTIC AI ECONOMY' above and 'Reasoning LLMs' below it. Beneath the elephant, two ants support a large curved red-and-yellow disc-like shape, labeled 'PROMPT', with a quote reading 'Please Bro, response in valid JSON format without errors and make sure the syntax is super correct. I'm begging you man....'",
+  "ocr_text": "AGENTIC AI ECONOMY\n\nReasoning\nLLMs\n\nPROMPT:\n\"Please Bro, response in valid JSON format without errors and make sure the syntax is super correct. I'm begging you man....\"",
+  "joke_summary": "The entire weight of agentic AI ambitions rests on reasoning LLMs, which in turn depend on users desperately pleading with the model to return valid JSON.",
+  "topics": ["agentic-ai", "llm-reliability", "structured-output", "prompt-engineering", "fragile-foundations"],
+  "added_at": "2026-05-03"
+}

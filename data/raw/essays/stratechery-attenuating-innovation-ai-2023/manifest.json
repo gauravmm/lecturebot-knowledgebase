@@ -1,0 +1,19 @@
+{
+  "corpus": "essays",
+  "doc_id": "stratechery-attenuating-innovation-ai-2023",
+  "title": "Attenuating Innovation (AI)",
+  "author": "Ben Thompson",
+  "publisher": "Stratechery",
+  "category": "stratechery",
+  "source_url": "https://stratechery.com/2023/attenuating-innovation-ai/",
+  "fetched_at": "2026-05-05",
+  "published_at": "2023-02",
+  "license": "Subscriber-archive (free Weekly Articles only); quote with attribution + link, do not redistribute the body text.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "95491980c4f5303907468ba470c8a9fffd2eca349b69f3c8290adc28aeaf1517",
+      "bytes": 322482
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "roast-my-tech-stack",
+  "title": "The Visigoth.ai Data Model Should Horrify You",
+  "venue": "Roast My Tech Stack",
+  "course": null,
+  "semester": null,
+  "format": "presentation",
+  "url": "https://www.gauravmanek.com/lectures/2026/roast-my-tech-stack/",
+  "speaker": "Gaurav Manek",
+  "fetched_at": "2026-05-03",
+  "page_text": "If you're here from Roast My Tech Stack, welcome! Add me on LinkedIn. If you're not here from Roast My Tech Stack, the title is entirely tongue-in-cheek. Its secretly brilliant.\n\nIf you're curious about how the core matching engine behind Visigoth works, here's a writeup on a similar problem in a different area. This is one of the things I'm most proud of inventing during my PhD (that I couldn't publish.)\n\nThe slides are available under CC BY-SA 4.0 license. Feel free to use them for your own purposes.\n\nIf you liked my talk, feel free to check out other talks I've given.",
+  "slides": [
+    {
+      "url": "https://github.com/gauravmm/2026-04-Roast-My-Tech-Stack/releases/download/v0.1.2/roast-my-tech-stack-slides.pdf",
+      "format": "pdf",
+      "license": "CC BY-SA 4.0",
+      "downloaded_to": "slides.pdf"
+    }
+  ],
+  "lecture_recordings": [],
+  "referenced_videos": [],
+  "external_links": [
+    {
+      "url": "https://www.linkedin.com/in/gauravmanek/",
+      "label": "LinkedIn"
+    },
+    {
+      "url": "https://www.gauravmanek.com/projects/2022/hough-and-cover/",
+      "label": "similar problem in a different area"
+    },
+    {
+      "url": "https://github.com/gauravmm/2026-04-Roast-My-Tech-Stack",
+      "label": "slides"
+    },
+    {
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "label": "CC BY-SA 4.0 license"
+    },
+    {
+      "url": "https://www.gauravmanek.com/lectures/",
+      "label": "other talks I've given"
+    }
+  ],
+  "social_links": [
+    {
+      "platform": "linkedin",
+      "url": "https://sg.linkedin.com/in/gauravmanek",
+      "label": "LinkedIn"
+    },
+    {
+      "platform": "github",
+      "url": "https://github.com/gauravmm",
+      "label": "GitHub"
+    },
+    {
+      "platform": "email",
+      "url": "mailto:gaurav@gauravmanek.com",
+      "label": "Email"
+    }
+  ],
+  "notes": "Slides authored in Typst; PDF pulled from a GitHub release asset (v0.1.2). The lecture covers the data model underlying Visigoth.ai, a previous startup by the speaker.",
+  "license": "CC BY-SA 4.0"
+}

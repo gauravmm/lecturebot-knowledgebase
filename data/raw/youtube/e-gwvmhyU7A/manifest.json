@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "e-gwvmhyU7A",
+  "title": "Aravind Srinivas: Perplexity CEO on Future of AI, Search & the Internet | Lex Fridman Podcast #434",
+  "channel": "Lex Fridman",
+  "channel_id": "UCSHZKyawb77ixDdsGog4iWA",
+  "source_url": "https://youtu.be/e-gwvmhyU7A",
+  "fetched_at": "2026-05-05",
+  "published_at": "2024-06-19",
+  "duration_seconds": 10936,
+  "subs_kind": "manual",
+  "subs_lang": "en-ehkg1hFWq8A",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-ehkg1hFWq8A.vtt",
+      "sha256": "8a1fafade48415fd4e16388544b37d2b7013960fc09c9f36c59e824ee0bc13aa",
+      "bytes": 302639
+    },
+    {
+      "path": "info.json",
+      "sha256": "bc79406024975b1f209c5c475b1556a4247db3353b3beb54e2aa8f4ad967c0ab",
+      "bytes": 605254
+    }
+  ]
+}

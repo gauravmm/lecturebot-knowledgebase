@@ -1,0 +1,19 @@
+{
+  "corpus": "essays",
+  "doc_id": "asianometry-is-the-ai-boom-real-2024",
+  "title": "Is the AI Boom Real?",
+  "author": "Jon Y",
+  "publisher": "Asianometry",
+  "category": "asianometry",
+  "source_url": "https://www.asianometry.com/p/is-the-ai-boom-real",
+  "fetched_at": "2026-05-05",
+  "published_at": "2024-03",
+  "license": "Public web; quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "450b508a7627e75cb6d24b2f13284fe0261af1b745b43c32a30b5b923cd8979c",
+      "bytes": 151547
+    }
+  ]
+}

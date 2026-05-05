@@ -1,0 +1,22 @@
+{
+  "corpus": "earnings",
+  "doc_id": "nvda-fy26q2",
+  "ticker": "NVDA",
+  "company_name": "NVIDIA Corp",
+  "fiscal_period": "FY26 Q2",
+  "calendar_quarter_end": "2025-07-27",
+  "transcript_kind": "cfo_commentary",
+  "title": "NVIDIA FY26 Q2 CFO Commentary (8-K Exhibit 99.2)",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000207/q2fy26cfocommentary.htm",
+  "accession": "0001045810-25-000207",
+  "filing_date": "2025-08-27",
+  "fetched_at": "2026-05-03",
+  "license": "Public domain (US government filing).",
+  "files": [
+    {
+      "path": "cfo_commentary.htm",
+      "sha256": "d61579760acb7c1e5fa5d517b59a7792557203709ddce876e899a082fda7674d",
+      "bytes": 240820
+    }
+  ]
+}

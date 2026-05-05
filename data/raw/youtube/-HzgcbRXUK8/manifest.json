@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "-HzgcbRXUK8",
+  "title": "Demis Hassabis: Future of AI, Simulating Reality, Physics and Video Games | Lex Fridman Podcast #475",
+  "channel": "Lex Fridman",
+  "channel_id": "UCSHZKyawb77ixDdsGog4iWA",
+  "source_url": "https://youtu.be/-HzgcbRXUK8",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-07-23",
+  "duration_seconds": 8894,
+  "subs_kind": "manual",
+  "subs_lang": "en-ehkg1hFWq8A",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-ehkg1hFWq8A.vtt",
+      "sha256": "76c8f994fe988a872476ca63406dc2361876457b3940e5a27cc88be6de733d15",
+      "bytes": 266094
+    },
+    {
+      "path": "info.json",
+      "sha256": "0fb9dfc4e6db25e153439325f6f0d91061933ea62b2645f44c685a21d9b0d9b1",
+      "bytes": 582081
+    }
+  ]
+}

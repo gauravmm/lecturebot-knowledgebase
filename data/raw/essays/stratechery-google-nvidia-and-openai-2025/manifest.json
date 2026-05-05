@@ -1,0 +1,19 @@
+{
+  "corpus": "essays",
+  "doc_id": "stratechery-google-nvidia-and-openai-2025",
+  "title": "Google, Nvidia, and OpenAI",
+  "author": "Ben Thompson",
+  "publisher": "Stratechery",
+  "category": "stratechery",
+  "source_url": "https://stratechery.com/2025/google-nvidia-and-openai/",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-12",
+  "license": "Subscriber-archive (free Weekly Articles only); quote with attribution + link, do not redistribute the body text.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "427f3b3f8a3d3d9cddebcc754c4cc7d7aa13356d38338493d1eb1ce7d0038aa3",
+      "bytes": 315852
+    }
+  ]
+}

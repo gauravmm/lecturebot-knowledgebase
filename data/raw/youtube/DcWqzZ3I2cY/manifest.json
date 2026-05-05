@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "DcWqzZ3I2cY",
+  "title": "Jeff Bezos: Amazon and Blue Origin | Lex Fridman Podcast #405",
+  "channel": "Lex Fridman",
+  "channel_id": "UCSHZKyawb77ixDdsGog4iWA",
+  "source_url": "https://youtu.be/DcWqzZ3I2cY",
+  "fetched_at": "2026-05-05",
+  "published_at": "2023-12-14",
+  "duration_seconds": 7892,
+  "subs_kind": "manual",
+  "subs_lang": "en",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en.vtt",
+      "sha256": "d7d47c97695e1201baa10f78748cc1ff5b311ec3ad1d8f22f44342cd45d00116",
+      "bytes": 208826
+    },
+    {
+      "path": "info.json",
+      "sha256": "8dba3968318c2fde74421dedf3796bd4058ad28e5308e9deebfcf439449f340b",
+      "bytes": 602645
+    }
+  ]
+}

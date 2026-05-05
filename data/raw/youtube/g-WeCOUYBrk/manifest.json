@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "g-WeCOUYBrk",
+  "title": "Marc Andreessen & Amjad Masad on “Good Enough” AI, AGI, and the End of Coding",
+  "channel": "a16z",
+  "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+  "source_url": "https://youtu.be/g-WeCOUYBrk",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-10-23",
+  "duration_seconds": 4316,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "ai-strategy",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "3f6059e4bc97994d5030c26f1174ceb211498c785280141fb9a8aa785191c230",
+      "bytes": 785144
+    },
+    {
+      "path": "info.json",
+      "sha256": "3f99d78809f77020a3b21df617d8c2b0f1caa39796b4852b31dbb94dbb8dcd56",
+      "bytes": 569525
+    }
+  ]
+}

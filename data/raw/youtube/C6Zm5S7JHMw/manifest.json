@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "C6Zm5S7JHMw",
+  "title": "No Priors Ep. 117 | With Co-Director of Stanford's HAI & Founder of World Labs Dr. Fei-Fei Li",
+  "channel": "No Priors: AI, Machine Learning, Tech, & Startups",
+  "channel_id": "UCSI7h9hydQ40K5MJHnCrQvw",
+  "source_url": "https://youtu.be/C6Zm5S7JHMw",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-06-05",
+  "duration_seconds": 2147,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "c1ecf212f305a96759fabb7cd6841fb08c680b8d90516e4e7409e9a7491a6ed8",
+      "bytes": 284053
+    },
+    {
+      "path": "info.json",
+      "sha256": "cebf3a133b51e3738ee6699b4dc8e483b4a688bb5596cd5009f9487bb7b59231",
+      "bytes": 522729
+    }
+  ]
+}

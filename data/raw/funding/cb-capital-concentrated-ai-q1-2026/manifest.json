@@ -1,0 +1,19 @@
+{
+  "corpus": "funding",
+  "doc_id": "cb-capital-concentrated-ai-q1-2026",
+  "title": "Capital Is Concentrated In AI — Global Q1 2026",
+  "publisher": "Crunchbase News",
+  "category": "theme",
+  "geography": "global",
+  "year_or_period": "2026-Q1",
+  "source_url": "https://news.crunchbase.com/venture/capital-concentrated-ai-global-q1-2026/",
+  "fetched_at": "2026-05-05",
+  "license": "Public web — Crunchbase News article. Quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "d47ad2881c846088de0be4da60ead2ec352bb907096ea030ab7692ccc6d9ec3b",
+      "bytes": 148396
+    }
+  ]
+}

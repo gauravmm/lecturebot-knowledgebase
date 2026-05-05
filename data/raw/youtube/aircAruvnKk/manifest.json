@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "aircAruvnKk",
+  "title": "But what is a neural network? | Deep learning chapter 1",
+  "channel": "3Blue1Brown",
+  "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+  "source_url": "https://youtu.be/aircAruvnKk",
+  "fetched_at": "2026-05-03",
+  "published_at": "2017-10-05",
+  "duration_seconds": 1120,
+  "subs_kind": "manual",
+  "subs_lang": "en",
+  "topic_tag": "explainer",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en.vtt",
+      "sha256": "b7c03fd6e3ab262f1f373fc7b6005cdd3cc9a427de563b554f439448909f599f",
+      "bytes": 27333
+    },
+    {
+      "path": "info.json",
+      "sha256": "159d6afbe4d990f5524215c3757ad3dff962e46b695dca04a317f542c1bf4fc8",
+      "bytes": 624738
+    }
+  ]
+}

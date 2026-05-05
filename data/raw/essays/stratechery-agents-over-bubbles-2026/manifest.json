@@ -1,0 +1,19 @@
+{
+  "corpus": "essays",
+  "doc_id": "stratechery-agents-over-bubbles-2026",
+  "title": "Agents Over Bubbles",
+  "author": "Ben Thompson",
+  "publisher": "Stratechery",
+  "category": "stratechery",
+  "source_url": "https://stratechery.com/2026/agents-over-bubbles/",
+  "fetched_at": "2026-05-05",
+  "published_at": "2026-03",
+  "license": "Subscriber-archive (free Weekly Articles only); quote with attribution + link, do not redistribute the body text.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "fa06328e5430bc6b35374a49d465da8f0183b5f2fbf7a2cba495a26dbbc1f002",
+      "bytes": 325452
+    }
+  ]
+}

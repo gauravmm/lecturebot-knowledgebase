@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "5t1vTLU7s40",
+  "title": "Yann Lecun: Meta AI, Open Source, Limits of LLMs, AGI & the Future of AI | Lex Fridman Podcast #416",
+  "channel": "Lex Fridman",
+  "channel_id": "UCSHZKyawb77ixDdsGog4iWA",
+  "source_url": "https://youtu.be/5t1vTLU7s40",
+  "fetched_at": "2026-05-05",
+  "published_at": "2024-03-07",
+  "duration_seconds": 10037,
+  "subs_kind": "manual",
+  "subs_lang": "en-ehkg1hFWq8A",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-ehkg1hFWq8A.vtt",
+      "sha256": "e4888bb97d34caadbcb5b80e5e883cff92dfd94baffee7e8b242171c387abd9b",
+      "bytes": 261115
+    },
+    {
+      "path": "info.json",
+      "sha256": "f0d49cde0285585d3cf56d672a891c7d537893e74c48a1e28b7eee1d56d59385",
+      "bytes": 614750
+    }
+  ]
+}

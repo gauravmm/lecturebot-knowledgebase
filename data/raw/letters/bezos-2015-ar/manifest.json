@@ -1,0 +1,19 @@
+{
+  "corpus": "letters",
+  "doc_id": "bezos-2015-ar",
+  "title": "2015 Letter to Shareholders (in 2015 Annual Report)",
+  "author": "Jeff Bezos",
+  "publisher": "Amazon",
+  "letter_year": 2015,
+  "format": "pdf-ar",
+  "source_url": "https://s2.q4cdn.com/299287126/files/doc_financials/annual/2015-Annual-Report.pdf",
+  "fetched_at": "2026-05-05",
+  "license": "Public web; canonical IR-site publication. Quote with attribution.",
+  "files": [
+    {
+      "path": "report.pdf",
+      "sha256": "482f320b3678d7bdd02c4be8cfae34d0498323c6c22efe218f6aa97e2d186740",
+      "bytes": 875284
+    }
+  ]
+}

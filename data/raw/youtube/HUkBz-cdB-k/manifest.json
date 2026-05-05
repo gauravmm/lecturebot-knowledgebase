@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "HUkBz-cdB-k",
+  "title": "Terence Tao: Hardest Problems in Mathematics, Physics & the Future of AI | Lex Fridman Podcast #472",
+  "channel": "Lex Fridman",
+  "channel_id": "UCSHZKyawb77ixDdsGog4iWA",
+  "source_url": "https://youtu.be/HUkBz-cdB-k",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-06-14",
+  "duration_seconds": 11674,
+  "subs_kind": "manual",
+  "subs_lang": "en-ehkg1hFWq8A",
+  "topic_tag": "explainer",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-ehkg1hFWq8A.vtt",
+      "sha256": "ca297f896fbccb806f013553a660adaaf07d65c9c57b02d54e66a0507d0fa42a",
+      "bytes": 344826
+    },
+    {
+      "path": "info.json",
+      "sha256": "dfc512021d286b4bf4b1bef2d37f66bd9140788cc2812a82ba8cf1715280faba",
+      "bytes": 630499
+    }
+  ]
+}

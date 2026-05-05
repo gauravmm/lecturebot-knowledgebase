@@ -1,0 +1,19 @@
+{
+  "corpus": "letters",
+  "doc_id": "bezos-2013-ar",
+  "title": "2013 Letter to Shareholders (in 2013 Annual Report)",
+  "author": "Jeff Bezos",
+  "publisher": "Amazon",
+  "letter_year": 2013,
+  "format": "pdf-ar",
+  "source_url": "https://s2.q4cdn.com/299287126/files/doc_financials/annual/2013-Annual-Report.pdf",
+  "fetched_at": "2026-05-05",
+  "license": "Public web; canonical IR-site publication. Quote with attribution.",
+  "files": [
+    {
+      "path": "report.pdf",
+      "sha256": "7c2ba033f125567f4982bb4e157e6037be667c5043a58514bddc28742608c4bd",
+      "bytes": 981899
+    }
+  ]
+}

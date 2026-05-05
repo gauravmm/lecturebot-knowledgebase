@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "GLKoDkbS1Cg",
+  "title": "The Possibilities of AI [Entire Talk] - Sam Altman (OpenAI)",
+  "channel": "Stanford eCorner",
+  "channel_id": "UCctkeBNtFIOn7Yl_9TTj_4w",
+  "source_url": "https://youtu.be/GLKoDkbS1Cg",
+  "fetched_at": "2026-05-05",
+  "published_at": "2024-05-01",
+  "duration_seconds": 2748,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "e00f072ab6bd36e71836f061f8c2dd63a3c5bcda88e2a4f94d31d52770c2e347",
+      "bytes": 418523
+    },
+    {
+      "path": "info.json",
+      "sha256": "1ecffa1627dbb80eb5b294da404514c39ba8f2a9ce5eee46c9cff96831ea1d69",
+      "bytes": 516794
+    }
+  ]
+}

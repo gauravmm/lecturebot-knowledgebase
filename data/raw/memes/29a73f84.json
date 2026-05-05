@@ -1,0 +1,14 @@
+{
+  "id": "29a73f84",
+  "sha256": "29a73f845c0e7e753b55ad4e1115473727b58db96c4149ca9078d3903724a9e6",
+  "original_filename": "thinking.jpg",
+  "proposed_filename": "29a73f84--dune-quote-explained-by-ai.jpg",
+  "width": 1163,
+  "height": 1281,
+  "format": "screenshot",
+  "caption": "A screenshot of an X.com (Twitter) thread. The top post by @KBucko7 reads 'Reading Dune. Frank Herbert was cooking.' and embeds a photo of a book passage. Below it, a reply by @AlanLevinovitz tags @grok asking it to explain the post and the quote.",
+  "ocr_text": "K'Bucko @KBucko7\n\nReading Dune. Frank Herbert was cooking.\n\n\"Once, men turned their thinking over to machines in the hope that this would set them free. But that only permitted other men with machines to enslave them.\"\n\"'Thou shalt not make a machine in the likeness of a man's mind,'\" Paul quoted.\n\n12:45 PM · 3/18/26 · 92K Views\n\nAlan Levinovitz @AlanLevino... · 38m\n@grok please explain this post and the quote in it, what should I understand about it?",
+  "joke_summary": "Someone shares a Dune quote warning against delegating thinking to machines, and another person immediately asks an AI to explain it for them.",
+  "topics": ["ai-dependency", "irony", "autonomous-thinking", "human-ai-relationship", "sci-fi-prophecy"],
+  "added_at": "2026-05-03"
+}

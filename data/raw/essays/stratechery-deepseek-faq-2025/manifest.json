@@ -1,0 +1,19 @@
+{
+  "corpus": "essays",
+  "doc_id": "stratechery-deepseek-faq-2025",
+  "title": "DeepSeek FAQ",
+  "author": "Ben Thompson",
+  "publisher": "Stratechery",
+  "category": "stratechery",
+  "source_url": "https://stratechery.com/2025/deepseek-faq/",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-01",
+  "license": "Subscriber-archive (free Weekly Articles only); quote with attribution + link, do not redistribute the body text.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "d1afe088a6edf70e9e24df82021056d7d43b4889df5a24f8afe0119bd37baa6e",
+      "bytes": 334563
+    }
+  ]
+}

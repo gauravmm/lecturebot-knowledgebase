@@ -1,0 +1,22 @@
+{
+  "corpus": "regulation",
+  "doc_id": "eu-ai-act-annex-05",
+  "title": "EU AI Act — Annex 5",
+  "author": null,
+  "publisher": "European Union (Regulation 2024/1689)",
+  "category": "eu_ai_act",
+  "format": "html-eu",
+  "source_url": "https://artificialintelligenceact.eu/annex/5/",
+  "fetched_at": "2026-05-05",
+  "published_at": "2024-07",
+  "license": "EU AI Act, Regulation (EU) 2024/1689, © European Union 2024. Canonical: https://eur-lex.europa.eu/eli/reg/2024/1689/oj. Re-use under Decision 2011/833/EU (Commission decision on the re-use of Commission documents). Fetched via artificialintelligenceact.eu (Future of Life Institute) mirror; EUR-Lex blocks programmatic access.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "9ab687c8c00d9804370a1aa51e68acf929f0fade74a054ebc8f612d4c7274f7a",
+      "bytes": 312584
+    }
+  ],
+  "section_kind": "annex",
+  "section_number": 5
+}

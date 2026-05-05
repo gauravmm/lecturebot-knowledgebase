@@ -1,0 +1,59 @@
+{
+  "slug": "ai-acjc",
+  "title": "AI is coming for your lunch",
+  "venue": "ACJC STEM Week 2026",
+  "course": null,
+  "semester": null,
+  "format": "Talk",
+  "url": "https://www.gauravmanek.com/lectures/2026/ai-acjc/",
+  "speaker": "Gaurav Manek",
+  "fetched_at": "2026-05-03",
+  "page_text": "If you're here from the STEM Week talk at ACJC, welcome! Add me on LinkedIn.\n\nThe slides are available under CC BY-SA 4.0 license. Feel free to use them for your own purposes.\n\nIf you want to see an essay example similar to one we built during the talk, here's a small repo showing how AI was used to tackle the same task in three different ways: naively, with internet research, and with a structured skill-based workflow: https://github.com/gauravmm/GP-Essay-Writing-Skill-Example\n\nOcellivision is offering internships for students who want to start building early. We're open to students between J1/J2 and post-A-Levels. We do not care much about grades or CCAs. We care far more about whether you like making things and can show evidence of it. If you want to apply, send us a few things you've built. These can be mechanical, electronics projects, software, or AI work. A polished portfolio is not required. A simple write-up is fine, and a short video is fine too.\n\nThe talk's core message is simple: AI is no longer a distant future technology. Today, for about $10-30/month, you can rent intelligence, diligence, and effort. That should make all of us a little uncomfortable, because those are the things that determine our productivity (and so work and employment.)\n\nThe real implication of this is that, as you go to university and enter the workforce, you'll now have to compete with people who use AI as a force multiplier. In a competitive environment, you'll have to learn how to use these tools well or fall behind, much like someone trying to use counting pebbles instead of a calculator. People who know how to work with AI effectively will move faster than people who do not.\n\nIn a strange twist, schools and universities don't have the answers. In most cases, neither does anyone else. We're at the dawn of this new technology, and no one knows how jobs will look like in three years, much less how best to arrange and deploy AI.\n\nSo the advice is to start experimenting early, while mistakes are still cheap. Open an account. Use it to learn. Make it explain things, critique your work, generate ideas, and help with repetitive tasks. Try it on essays, calculus, biology, chemistry, coding, design, or anything else you care about. See where it helps, where it fails, and where human judgment is still essential.\n\nThe healthiest way to think about AI is not as a magic oracle, and not as a replacement for your brain. Think of it as a tutor, a sparring partner, an intern, and an automator. It can be wrong, and it can sound confident while being wrong. Your job is still to verify, decide, and take responsibility.\n\nThe students who will do best in the next few years are not necessarily the ones who can mug and cram today. They are the ones who learn and understand this technology now, and ride the wave of its widespread adoption. Learn to work with AI before the world quietly starts expecting you to.",
+  "slides": [
+    {
+      "url": "https://github.com/gauravmm/2026-04-AI-ACJC/releases/download/v0.1.1/slides.pdf",
+      "format": "pdf",
+      "license": "CC BY-SA 4.0",
+      "downloaded_to": "slides.pdf"
+    }
+  ],
+  "lecture_recordings": [],
+  "referenced_videos": [],
+  "external_links": [
+    {
+      "url": "https://github.com/gauravmm/2026-04-AI-ACJC/tags",
+      "label": "slides"
+    },
+    {
+      "url": "https://github.com/gauravmm/GP-Essay-Writing-Skill-Example",
+      "label": "https://github.com/gauravmm/GP-Essay-Writing-Skill-Example"
+    },
+    {
+      "url": "https://ocellivision.notion.site/",
+      "label": "Ocellivision"
+    },
+    {
+      "url": "https://ocelli.vision/",
+      "label": "ocelli.vision"
+    }
+  ],
+  "social_links": [
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/in/gauravmanek/",
+      "label": "LinkedIn"
+    },
+    {
+      "platform": "github",
+      "url": "https://github.com/gauravmm",
+      "label": "GitHub"
+    },
+    {
+      "platform": "email",
+      "url": "mailto:gaurav@gauravmanek.com",
+      "label": "Email"
+    }
+  ],
+  "notes": "Slides PDF pulled from a GitHub release asset (the page itself links only to the tags index). Venue date: April 23, 2026. No embedded lecture recording found on page.",
+  "license": "CC BY-SA 4.0"
+}

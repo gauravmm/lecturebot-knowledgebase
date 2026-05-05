@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "kwSVtQ7dziU",
+  "title": "Skill Issue: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI",
+  "channel": "No Priors: AI, Machine Learning, Tech, & Startups",
+  "channel_id": "UCSI7h9hydQ40K5MJHnCrQvw",
+  "source_url": "https://youtu.be/kwSVtQ7dziU",
+  "fetched_at": "2026-05-05",
+  "published_at": "2026-03-20",
+  "duration_seconds": 3991,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "ce3bba292a80a2aa53966f4fc3070d2f02eabfd18071548c7e94598c107eaa06",
+      "bytes": 780364
+    },
+    {
+      "path": "info.json",
+      "sha256": "16960124dab512a00b0f8f4f78bb363fba19af092af22befab9fd0906db9f184",
+      "bytes": 580779
+    }
+  ]
+}

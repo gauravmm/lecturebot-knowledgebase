@@ -1,0 +1,19 @@
+{
+  "corpus": "essays",
+  "doc_id": "lecturer-ribbonfarm-gervais-principle",
+  "title": "The Gervais Principle, Or The Office According to The Office",
+  "author": "Venkatesh Rao",
+  "publisher": "ribbonfarm",
+  "category": "lecturer_reading_list",
+  "source_url": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
+  "fetched_at": "2026-05-05",
+  "published_at": "2009-10",
+  "license": "Public web; quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "f1dcc2cfc2a9bae13b2d841b9f9c2973309a483dbd4e9d4b63055b09400a1666",
+      "bytes": 183155
+    }
+  ]
+}

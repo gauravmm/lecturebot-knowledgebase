@@ -1,0 +1,64 @@
+{
+  "slug": "nus-bse3713-ai-platforms",
+  "title": "AI Platforms",
+  "venue": "NUS",
+  "course": "BSE3713",
+  "semester": "Fall 2025",
+  "format": "guest lecture",
+  "url": "https://www.gauravmanek.com/lectures/2025/nus-bse3713-ai-platforms/",
+  "speaker": "Gaurav Manek",
+  "fetched_at": "2026-05-03",
+  "page_text": "If you're here from the lecture, welcome! Slides are available here and are released under CC BY-SA 4.0 license.\n\nAdd me on LinkedIn. I'm always happy to chat about AI, startups, and the future of technology.\n\nReading List\n\nI recommended these readings:\n\n- Steve Yegge's leaked Google memo.\n- Prediction Machines\n- Competing in the age of AI\n\nAs always, turn your critical thinking skills on and carefully engage with the claims each source makes.",
+  "slides": [
+    {
+      "url": "https://www.gauravmanek.com/lectures/2025/nus-bse3713-ai-platforms/AI%20Platforms%20for%20BSE3713.pptx",
+      "format": "pptx",
+      "license": "CC BY-SA 4.0",
+      "downloaded_to": "slides.pptx"
+    }
+  ],
+  "lecture_recordings": [
+    {
+      "url": "https://www.youtube.com/embed/8zEynZbh5yM",
+      "platform": "youtube"
+    }
+  ],
+  "referenced_videos": [],
+  "external_links": [
+    {
+      "url": "https://gist.github.com/chitchcock/1281611",
+      "label": "Steve Yegge's leaked Google memo."
+    },
+    {
+      "url": "https://www.predictionmachines.ai/",
+      "label": "Prediction Machines"
+    },
+    {
+      "url": "https://www.amazon.com/Competing-Age-AI-Strategy-Intelligent/dp/1633697629",
+      "label": "Competing in the age of AI"
+    },
+    {
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "label": "CC BY-SA 4.0 license"
+    }
+  ],
+  "social_links": [
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/in/gauravmanek/",
+      "label": "LinkedIn"
+    },
+    {
+      "platform": "github",
+      "url": "https://github.com/gauravmm",
+      "label": "GitHub"
+    },
+    {
+      "platform": "email",
+      "url": "mailto:gaurav@gauravmanek.com",
+      "label": "Email"
+    }
+  ],
+  "notes": "",
+  "license": "CC BY-SA 4.0"
+}

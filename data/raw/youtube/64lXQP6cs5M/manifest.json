@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "64lXQP6cs5M",
+  "title": "Is RL + LLMs enough for AGI? — Sholto Douglas & Trenton Bricken",
+  "channel": "Dwarkesh Patel",
+  "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
+  "source_url": "https://youtu.be/64lXQP6cs5M",
+  "fetched_at": "2026-05-03",
+  "published_at": "2025-05-22",
+  "duration_seconds": 8641,
+  "subs_kind": "manual",
+  "subs_lang": "en",
+  "topic_tag": "ai-strategy",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en.vtt",
+      "sha256": "6a5ac3cc9ead7e410e0fea1f2b43d3baa040701af42ec1b3db4d3097de71bd49",
+      "bytes": 210054
+    },
+    {
+      "path": "info.json",
+      "sha256": "f63dd5819ad7bb91f1b91daa059207258662f42a413e20895ec6a4dcc081ff0d",
+      "bytes": 596996
+    }
+  ]
+}

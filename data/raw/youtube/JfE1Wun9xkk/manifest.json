@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "JfE1Wun9xkk",
+  "title": "Sam Altman on Sora, Energy, and Building an AI Empire",
+  "channel": "a16z",
+  "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+  "source_url": "https://youtu.be/JfE1Wun9xkk",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-10-08",
+  "duration_seconds": 2966,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "de827335ac0d15c373c99a196a197faa5909e6938278b3f1e933e8f486c976fa",
+      "bytes": 475694
+    },
+    {
+      "path": "info.json",
+      "sha256": "06c109da316ab80857b66b5eecf1bf781bc78cbeffd9de1b0656f95cde539312",
+      "bytes": 559349
+    }
+  ]
+}

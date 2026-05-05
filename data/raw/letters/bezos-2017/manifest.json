@@ -1,0 +1,19 @@
+{
+  "corpus": "letters",
+  "doc_id": "bezos-2017",
+  "title": "2017 Letter to Shareholders",
+  "author": "Jeff Bezos",
+  "publisher": "Amazon",
+  "letter_year": 2017,
+  "format": "html",
+  "source_url": "https://www.aboutamazon.com/news/company-news/2017-letter-to-shareholders",
+  "fetched_at": "2026-05-05",
+  "license": "Public web; canonical IR-site publication. Quote with attribution.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "ed005f72e2cd54045141d688036bc6364b449c3c87d8ea78fbd0c3b2aee31fa3",
+      "bytes": 267898
+    }
+  ]
+}

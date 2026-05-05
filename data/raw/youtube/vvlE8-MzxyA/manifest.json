@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "vvlE8-MzxyA",
+  "title": "Dylan Patel on the AI Chip Race - NVIDIA, Intel & the US Government vs. China",
+  "channel": "a16z",
+  "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+  "source_url": "https://youtu.be/vvlE8-MzxyA",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-09-22",
+  "duration_seconds": 5938,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "economics",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "4c3522596e7f94ffb2b5214c2600218707a4bd26cc4bedbb01c76471c1c4fec2",
+      "bytes": 1015446
+    },
+    {
+      "path": "info.json",
+      "sha256": "6e45f57de72186a1020ea2ccfccbaba667e948684c42b1492b9a0bd650478222",
+      "bytes": 578392
+    }
+  ]
+}

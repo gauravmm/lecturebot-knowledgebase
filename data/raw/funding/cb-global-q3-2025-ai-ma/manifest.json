@@ -1,0 +1,19 @@
+{
+  "corpus": "funding",
+  "doc_id": "cb-global-q3-2025-ai-ma",
+  "title": "Global VC Funding And Biggest Deals — Q3 2025 AI / M&A",
+  "publisher": "Crunchbase News",
+  "category": "quarterly_recap",
+  "geography": "global",
+  "year_or_period": "2025-Q3",
+  "source_url": "https://news.crunchbase.com/venture/global-vc-funding-biggest-deals-q3-2025-ai-ma-data/",
+  "fetched_at": "2026-05-05",
+  "license": "Public web — Crunchbase News article. Quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "b3340227c65f3767ca1511decd217862a981bd9e4125b30b75962dae6d9767a4",
+      "bytes": 159406
+    }
+  ]
+}

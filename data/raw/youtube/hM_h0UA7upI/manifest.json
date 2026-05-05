@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "hM_h0UA7upI",
+  "title": "No Priors Ep. 80 | With Andrej Karpathy from OpenAI and Tesla",
+  "channel": "No Priors: AI, Machine Learning, Tech, & Startups",
+  "channel_id": "UCSI7h9hydQ40K5MJHnCrQvw",
+  "source_url": "https://youtu.be/hM_h0UA7upI",
+  "fetched_at": "2026-05-05",
+  "published_at": "2024-09-05",
+  "duration_seconds": 2656,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "3d657c23c9c9d1178886b49ca3148d29f95f06cf1dd7f8ef347642a6cbbf54b5",
+      "bytes": 535062
+    },
+    {
+      "path": "info.json",
+      "sha256": "cf270289954e6e089d2f8d86da898a9e9c30cdc88007380593c47a61d60b0e77",
+      "bytes": 529425
+    }
+  ]
+}

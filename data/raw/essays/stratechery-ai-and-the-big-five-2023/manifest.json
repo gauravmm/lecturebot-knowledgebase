@@ -1,0 +1,19 @@
+{
+  "corpus": "essays",
+  "doc_id": "stratechery-ai-and-the-big-five-2023",
+  "title": "AI and the Big Five",
+  "author": "Ben Thompson",
+  "publisher": "Stratechery",
+  "category": "stratechery",
+  "source_url": "https://stratechery.com/2023/ai-and-the-big-five/",
+  "fetched_at": "2026-05-05",
+  "published_at": "2023-02",
+  "license": "Subscriber-archive (free Weekly Articles only); quote with attribution + link, do not redistribute the body text.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "211924ddf3ca8a7d5eb3f98416197bd0e71402bd026fdecdcc607e714959061e",
+      "bytes": 324811
+    }
+  ]
+}

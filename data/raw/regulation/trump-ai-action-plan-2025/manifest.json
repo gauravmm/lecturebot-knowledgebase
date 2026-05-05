@@ -1,0 +1,20 @@
+{
+  "corpus": "regulation",
+  "doc_id": "trump-ai-action-plan-2025",
+  "title": "America's AI Action Plan (White House, July 2025)",
+  "author": "The White House (Trump administration)",
+  "publisher": "The White House",
+  "category": "us_eo",
+  "format": "pdf-action-plan",
+  "source_url": "https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-07",
+  "license": "Public domain (US Federal government publication).",
+  "files": [
+    {
+      "path": "report.pdf",
+      "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+      "bytes": 521617
+    }
+  ]
+}

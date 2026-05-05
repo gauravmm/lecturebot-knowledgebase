@@ -1,0 +1,20 @@
+{
+  "corpus": "essays",
+  "doc_id": "lecturer-yc-essential-startup-advice",
+  "title": "YC's essential startup advice",
+  "author": "Y Combinator",
+  "publisher": "Y Combinator",
+  "category": "lecturer_reading_list",
+  "source_url": "https://www.ycombinator.com/library/4D-yc-s-essential-startup-advice",
+  "fetched_at": "2026-05-04",
+  "published_at": null,
+  "license": "Public web; quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "7dbdce681eb44536ca6d21cf4602a9c8565f9bea562c53fc7bc90a2ae2d75bc4",
+      "bytes": 13178
+    }
+  ],
+  "notes": "Extracted from a user-provided browser archive (page is JS-rendered; bypassing a Playwright fetch path)."
+}

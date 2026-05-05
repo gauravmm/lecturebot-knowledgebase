@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "tofBqR5N1RI",
+  "title": "U.S. Leadership in AI with Jensen Huang, Founder and CEO of NVIDIA, and Congressman Ro Khanna",
+  "channel": "Stanford Graduate School of Business",
+  "channel_id": "UCGwuxdEeCf0TIA2RbPOj-8g",
+  "source_url": "https://youtu.be/tofBqR5N1RI",
+  "fetched_at": "2026-05-05",
+  "published_at": "2026-04-16",
+  "duration_seconds": 3518,
+  "subs_kind": "manual",
+  "subs_lang": "en",
+  "topic_tag": "ai-strategy",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en.vtt",
+      "sha256": "633891fc3880a646c0d65bb458a45e25c068b9bb7883cdbf3b39253072010344",
+      "bytes": 95313
+    },
+    {
+      "path": "info.json",
+      "sha256": "80c162b71e3537105841fbd35ff51065f318aa9a16266015132f5de57efa3dcd",
+      "bytes": 563544
+    }
+  ]
+}

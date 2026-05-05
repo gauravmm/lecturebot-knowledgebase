@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "xXCBz_8hM9w",
+  "title": "How To Build The Future: Sam Altman",
+  "channel": "Y Combinator",
+  "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
+  "source_url": "https://youtu.be/xXCBz_8hM9w",
+  "fetched_at": "2026-05-05",
+  "published_at": "2024-11-08",
+  "duration_seconds": 2812,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "587a0fb8a0be4cb6b63237b6e94b4eb800be566576a49e1ad6bf7634f88f1650",
+      "bytes": 443287
+    },
+    {
+      "path": "info.json",
+      "sha256": "f2068631b2fa8dc56657ff8ac498bde06d341f3aa97226e4c5cdd7aee5a86da3",
+      "bytes": 549564
+    }
+  ]
+}

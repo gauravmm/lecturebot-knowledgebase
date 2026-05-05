@@ -1,0 +1,20 @@
+{
+  "id": "b67fb5fa",
+  "sha256": "b67fb5fac7756f7f513dc2cce360b1122244e4c6e1171326463e67181ad7c69a",
+  "original_filename": "1626538917520.jpg",
+  "proposed_filename": "b67fb5fa--society-calls-regression-shadow-ai.jpg",
+  "width": 1280,
+  "height": 720,
+  "format": "single-panel",
+  "caption": "A Greek-vase-style illustration structured as Plato's Cave allegory. On the left, a flame on a pedestal (labeled STATISTICS) casts light rightward. A standing figure (labeled COMPUTER SCIENCE) holds a staff topped with a bird/dove (labeled REGRESSION) aloft; its shadow is projected onto a dark wall in the center. A seated figure (labeled SOCIETY) faces right toward the wall and points at it, with a speech bubble reading 'ARTIFICIAL INTELLIGENCE!'. On the far right, in a separate black panel, a single standing figure (labeled MACHINE LEARNING) is framed inside an oval containing the silhouette of the same bird — the real object whose shadow Society is mislabeling.",
+  "ocr_text": "STATISTICS\nREGRESSION\nCOMPUTER SCIENCE\nSOCIETY\n[speech bubble: \"ARTIFICIAL INTELLIGENCE!\"]\nMACHINE LEARNING\n@kareem_carr",
+  "joke_summary": "What society excitedly calls 'Artificial Intelligence' is just the shadow of Regression cast by Computer Science in front of a Statistics flame — Machine Learning, standing outside the cave, can see the actual bird.",
+  "topics": [
+    "regression-is-ml",
+    "ai-hype",
+    "platos-cave",
+    "statistics-foundations",
+    "naming-vs-substance"
+  ],
+  "added_at": "2026-05-03"
+}

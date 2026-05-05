@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "l8pRSuU81PU",
+  "title": "Let's reproduce GPT-2 (124M)",
+  "channel": "Andrej Karpathy",
+  "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
+  "source_url": "https://youtu.be/l8pRSuU81PU",
+  "fetched_at": "2026-05-05",
+  "published_at": "2024-06-09",
+  "duration_seconds": 14486,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "llm-mechanics",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "5411082f06e675dc3e1d956e7b3f55f2c570fff4faaf786cb0c1c5c80ecf55fc",
+      "bytes": 2130755
+    },
+    {
+      "path": "info.json",
+      "sha256": "58992257b9f085814b195306c997f0197d77a35ff7a04fc8f7bbffa12327cc46",
+      "bytes": 633696
+    }
+  ]
+}

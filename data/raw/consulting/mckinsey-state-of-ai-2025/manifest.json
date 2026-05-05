@@ -1,0 +1,18 @@
+{
+  "corpus": "consulting",
+  "doc_id": "mckinsey-state-of-ai-2025",
+  "title": "The State of AI 2025: Agents, innovation, and transformation",
+  "publisher": "McKinsey & Company",
+  "source_url": "https://www.mckinsey.com/~/media/mckinsey/business%20functions/quantumblack/our%20insights/the%20state%20of%20ai/november%202025/the-state-of-ai-2025-agents-innovation_cmyk-v1.pdf",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-11",
+  "license": "Marketing publication. Permissive non-commercial summarization with attribution; do not redistribute the PDF itself.",
+  "files": [
+    {
+      "path": "report.pdf",
+      "sha256": "97ebf33acdf7ef7f9066d3c9e0b47120af966c79ffd381e9ab8a6be40ee58ff4",
+      "bytes": 9403091,
+      "pages": 32
+    }
+  ]
+}

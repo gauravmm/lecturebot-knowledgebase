@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "htOvH12T7mU",
+  "title": "AI 2027: month-by-month model of intelligence explosion — Scott Alexander & Daniel Kokotajlo",
+  "channel": "Dwarkesh Patel",
+  "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
+  "source_url": "https://youtu.be/htOvH12T7mU",
+  "fetched_at": "2026-05-03",
+  "published_at": "2025-04-03",
+  "duration_seconds": 11116,
+  "subs_kind": "manual",
+  "subs_lang": "en",
+  "topic_tag": "ai-strategy",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en.vtt",
+      "sha256": "a05884c83a97040ca70b1859beb54dc8502e1d0d30e0c8ce23365cae4c4aaf43",
+      "bytes": 281902
+    },
+    {
+      "path": "info.json",
+      "sha256": "a2f6de23310be4b09ebe46eab0fde3423b3f375fd54863e62ebd9c478cc824a0",
+      "bytes": 612842
+    }
+  ]
+}

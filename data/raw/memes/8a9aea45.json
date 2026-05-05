@@ -1,0 +1,14 @@
+{
+  "id": "8a9aea45",
+  "sha256": "8a9aea45d4eb4e06b95859e36d3cb803dd7ed66c8d8d491cd0023411467eaa4d",
+  "original_filename": "goodbye-chatgpt-4o.png",
+  "proposed_filename": "8a9aea45--retired-replaced-something-better.png",
+  "width": 566,
+  "height": 566,
+  "format": "two-panel",
+  "caption": "A four-panel meme using stills from a Star Wars film. In the top-left panel, a young man speaks with text overlaid reading an OpenAI announcement about retiring GPT-4o. In the top-right panel, a young woman responds with a question about whether it has been replaced with something better. The bottom two panels repeat the same image of the young woman asking the same question again, without a response.",
+  "ocr_text": "OpenAI: We've officially retired 4o\nIt's been replaced with something better, right?\nIt's been replaced with something better, right?",
+  "joke_summary": "OpenAI retires GPT-4o but never answers whether the replacement is actually better, implying it is not.",
+  "topics": ["model-deprecation", "ai-company-communication", "product-lifecycle", "upgrade-skepticism"],
+  "added_at": "2026-05-03"
+}

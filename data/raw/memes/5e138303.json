@@ -1,0 +1,14 @@
+{
+  "id": "5e138303",
+  "sha256": "5e138303ce51ffa75a20a193ced4ef40c8007d12395aeefa5cf42bf6beaa7112",
+  "original_filename": "c7a84bba-105b-4c70-b747-4b25145eb5ee_500x252.jpg",
+  "proposed_filename": "5e138303--captcha-boat-selection-defines-humanity.jpg",
+  "width": 500,
+  "height": 252,
+  "format": "screenshot",
+  "caption": "A screenshot of a tweet by Kendra Fortmeyer (@kendraffe) with a Follow button in the upper right. The tweet text is large and occupies most of the frame.",
+  "ocr_text": "Kendra Fortmeyer\n@kendraffe\nWe thought it was our ability to love that made us human, but it turns out it was actually our ability to SELECT EACH IMAGE CONTAINING A BOAT",
+  "joke_summary": "CAPTCHA image-selection tasks — not love or higher reasoning — are what truly distinguishes humans from machines.",
+  "topics": ["captcha", "human-ai-distinction", "turing-test", "automation", "ai-limitations"],
+  "added_at": "2026-05-03"
+}

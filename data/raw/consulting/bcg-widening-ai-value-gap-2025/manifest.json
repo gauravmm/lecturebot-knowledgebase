@@ -1,0 +1,18 @@
+{
+  "corpus": "consulting",
+  "doc_id": "bcg-widening-ai-value-gap-2025",
+  "title": "Build for the Future 2025: The Widening AI Value Gap",
+  "publisher": "Boston Consulting Group",
+  "source_url": "https://media-publications.bcg.com/The-Widening-AI-Value-Gap-October-2025.pdf",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-10",
+  "license": "Marketing publication. Permissive non-commercial summarization with attribution; do not redistribute the PDF itself.",
+  "files": [
+    {
+      "path": "report.pdf",
+      "sha256": "06d0ce45752629415c69acaf59cfbec0f11ad35a173efaec77436f889dab3915",
+      "bytes": 7939834,
+      "pages": 24
+    }
+  ]
+}

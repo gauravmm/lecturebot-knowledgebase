@@ -1,0 +1,19 @@
+{
+  "corpus": "letters",
+  "doc_id": "nadella-fy23",
+  "title": "Microsoft FY23 Annual Report — Letter from Satya Nadella",
+  "author": "Satya Nadella",
+  "publisher": "Microsoft",
+  "letter_year": 2023,
+  "format": "html-ar",
+  "source_url": "https://www.microsoft.com/investor/reports/ar23/index.html",
+  "fetched_at": "2026-05-05",
+  "license": "Public web; canonical IR-site publication. Quote with attribution.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "dfb71f2eb529e8e8d6145f4f639a940943d5ba8653fbe5f01c08d0075514f4d3",
+      "bytes": 494224
+    }
+  ]
+}

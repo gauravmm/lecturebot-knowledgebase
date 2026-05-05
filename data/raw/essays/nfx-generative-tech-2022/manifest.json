@@ -1,0 +1,19 @@
+{
+  "corpus": "essays",
+  "doc_id": "nfx-generative-tech-2022",
+  "title": "Generative AI Begins",
+  "author": "James Currier",
+  "publisher": "NFX",
+  "category": "vc",
+  "source_url": "https://www.nfx.com/post/generative-tech",
+  "fetched_at": "2026-05-05",
+  "published_at": "2022-10",
+  "license": "Public web; quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "93a5ca1060af979ec5d5e358fca98e7c32abe2ea881c8b8921e51746ebc6157c",
+      "bytes": 560905
+    }
+  ]
+}

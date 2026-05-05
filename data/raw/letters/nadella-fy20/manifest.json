@@ -1,0 +1,19 @@
+{
+  "corpus": "letters",
+  "doc_id": "nadella-fy20",
+  "title": "Microsoft FY20 Annual Report — Letter from Satya Nadella",
+  "author": "Satya Nadella",
+  "publisher": "Microsoft",
+  "letter_year": 2020,
+  "format": "html-ar",
+  "source_url": "https://www.microsoft.com/investor/reports/ar20/index.html",
+  "fetched_at": "2026-05-05",
+  "license": "Public web; canonical IR-site publication. Quote with attribution.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "6f95730a0405764f10d0fbdb5f98bc3670788f0935c02c1a189ce0f0e443260a",
+      "bytes": 502503
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "corpus": "essays",
+  "doc_id": "a16z-economic-case-for-generative-ai-2023",
+  "title": "The Economic Case for Generative AI",
+  "author": "Martin Casado",
+  "publisher": "Andreessen Horowitz (a16z)",
+  "category": "vc",
+  "source_url": "https://a16z.com/the-economic-case-for-generative-ai/",
+  "fetched_at": "2026-05-05",
+  "published_at": "2023-10",
+  "license": "Public web; quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "13ad0702a5aa7eea8464a6baf47d31d578398cee1aa36455325bac1596634910",
+      "bytes": 218836
+    }
+  ]
+}

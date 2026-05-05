@@ -1,0 +1,19 @@
+{
+  "corpus": "essays",
+  "doc_id": "lecturer-skalata-venture-returns",
+  "title": "How Venture Returns Really Work: Power Law, Patience, and Portfolio Construction",
+  "author": "Skalata Ventures",
+  "publisher": "Skalata Ventures",
+  "category": "lecturer_reading_list",
+  "source_url": "https://www.skalata.vc/blog/how-venture-returns-really-work-power-law-patience-and-portfolio-construction",
+  "fetched_at": "2026-05-05",
+  "published_at": null,
+  "license": "Public web; quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "79962bdeb50febd0cb662a9ebdb0c40580df2ff83ba339dbce1443ca59c4612c",
+      "bytes": 147742
+    }
+  ]
+}

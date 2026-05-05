@@ -1,0 +1,19 @@
+{
+  "corpus": "essays",
+  "doc_id": "sequoia-generative-ai-act-two-2023",
+  "title": "Generative AI's Act Two",
+  "author": "Sonya Huang, Pat Grady",
+  "publisher": "Sequoia Capital",
+  "category": "vc",
+  "source_url": "https://www.sequoiacap.com/article/generative-ai-act-two/",
+  "fetched_at": "2026-05-05",
+  "published_at": "2023-09",
+  "license": "Public web; quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "dfdb334c630c9823818e89f92f2669cb0b2578ec85d6b4bf7b42df7be7cfc7f8",
+      "bytes": 100590
+    }
+  ]
+}

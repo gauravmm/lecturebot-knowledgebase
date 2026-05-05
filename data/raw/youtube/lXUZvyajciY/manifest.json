@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "lXUZvyajciY",
+  "title": "Andrej Karpathy — “We’re summoning ghosts, not building animals”",
+  "channel": "Dwarkesh Patel",
+  "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
+  "source_url": "https://youtu.be/lXUZvyajciY",
+  "fetched_at": "2026-05-03",
+  "published_at": "2025-10-17",
+  "duration_seconds": 8768,
+  "subs_kind": "manual",
+  "subs_lang": "en",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en.vtt",
+      "sha256": "e03e7e59d3ade88556a6a97ca2576c6acbf25771c94af501548db51130bd7a9a",
+      "bytes": 225793
+    },
+    {
+      "path": "info.json",
+      "sha256": "6b3a616c57cae4c444ab0b94a077423e709fa4cb3f4e4e10ec0cb421b9a83557",
+      "bytes": 608974
+    }
+  ]
+}

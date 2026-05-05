@@ -1,0 +1,19 @@
+{
+  "corpus": "essays",
+  "doc_id": "asianometry-ais-hardware-problem-2023",
+  "title": "AI's Hardware Problem",
+  "author": "Jon Y",
+  "publisher": "Asianometry",
+  "category": "asianometry",
+  "source_url": "https://www.asianometry.com/p/ais-hardware-problem",
+  "fetched_at": "2026-05-05",
+  "published_at": "2023-04",
+  "license": "Public web; quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "344a2625e621c292e9b8506a039ee5d88356ba8a4e1d2499c61a9815a2bcd7e6",
+      "bytes": 164869
+    }
+  ]
+}

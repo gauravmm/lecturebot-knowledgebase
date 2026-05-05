@@ -1,0 +1,15 @@
+{
+  "corpus": "earnings",
+  "doc_id": "ibm-1q26",
+  "ticker": "IBM",
+  "company_name": "International Business Machines Corp",
+  "fiscal_period": "1Q26",
+  "calendar_quarter_end": "2026-03-31",
+  "transcript_kind": "prepared_remarks",
+  "title": "IBM 1Q26 Earnings Call — Prepared Remarks",
+  "source_url": "https://www.ibm.com/downloads/documents/us-en/15db805fff4249f1",
+  "hub_url": "https://www.ibm.com/investor/earnings-1q26",
+  "fetched_at": "2026-05-04",
+  "license": "Public IR-site publication. Quote with attribution.",
+  "files": [{"path": "prepared_remarks.pdf", "sha256": "8d1c70d3f49f28bf72b57e0b72870b6bfa316e262c3e711853333885e3213720", "bytes": 152051}]
+}

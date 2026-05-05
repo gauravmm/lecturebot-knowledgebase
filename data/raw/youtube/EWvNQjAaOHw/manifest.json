@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "EWvNQjAaOHw",
+  "title": "How I use LLMs",
+  "channel": "Andrej Karpathy",
+  "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
+  "source_url": "https://youtu.be/EWvNQjAaOHw",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-02-27",
+  "duration_seconds": 7872,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "explainer",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "117c9b2d639301734d2acd3d43810e2f48b86fd8741df45b595335a4043328cc",
+      "bytes": 1233437
+    },
+    {
+      "path": "info.json",
+      "sha256": "d95691c0c6360008ce9427ff836a93931d87f85ee426fac99405a65a5e805ad3",
+      "bytes": 588512
+    }
+  ]
+}

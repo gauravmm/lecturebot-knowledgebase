@@ -1,0 +1,19 @@
+{
+  "corpus": "letters",
+  "doc_id": "nadella-fy21",
+  "title": "Microsoft FY21 Annual Report — Letter from Satya Nadella",
+  "author": "Satya Nadella",
+  "publisher": "Microsoft",
+  "letter_year": 2021,
+  "format": "html-ar",
+  "source_url": "https://www.microsoft.com/investor/reports/ar21/index.html",
+  "fetched_at": "2026-05-05",
+  "license": "Public web; canonical IR-site publication. Quote with attribution.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "27909ce6cbe2eaad78f3cd2699fe62fb927a8c1a0136385150e88dcca423e8f3",
+      "bytes": 494380
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "corpus": "funding",
+  "doc_id": "cb-global-2025-third-largest-year",
+  "title": "Global Startup Funding 2025 — Third-Largest Year On Record",
+  "publisher": "Crunchbase News",
+  "category": "annual_recap",
+  "geography": "global",
+  "year_or_period": "2025",
+  "source_url": "https://news.crunchbase.com/venture/funding-data-third-largest-year-2025/",
+  "fetched_at": "2026-05-05",
+  "license": "Public web — Crunchbase News article. Quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "c318aaa0486d3a78adc5e84f9065f6e56a5bb11e1b42cd5ae10181ebb989fa96",
+      "bytes": 156619
+    }
+  ]
+}

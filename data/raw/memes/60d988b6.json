@@ -1,0 +1,14 @@
+{
+  "id": "60d988b6",
+  "sha256": "60d988b611069666708b29961c73f29ae7ded3a091fb61ee5215710c674ad0c4",
+  "original_filename": "47a71d3a-9ada-4357-892e-dd68363e73cb_500x500.jpg",
+  "proposed_filename": "60d988b6--chatgpt-replaces-writing-for-thinking.jpg",
+  "width": 500,
+  "height": 500,
+  "format": "two-panel",
+  "caption": "A two-panel Drake reaction meme. In the top panel, Drake raises his hand in a dismissive gesture, rejecting the option on the right. In the bottom panel, Drake smiles approvingly, pointing toward the option on the right. The same figure appears in both panels, stacked vertically.",
+  "ocr_text": "USING WRITING TO CLARIFY MY THINKING\nUSING CHATGPT TO WRITE FOR ME",
+  "joke_summary": "People prefer outsourcing writing to ChatGPT rather than using writing as a tool for developing their own thinking.",
+  "topics": ["ai-writing", "cognitive-offloading", "llm-adoption", "critical-thinking"],
+  "added_at": "2026-05-03"
+}

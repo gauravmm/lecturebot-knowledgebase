@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "EV7WhVT270Q",
+  "title": "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490",
+  "channel": "Lex Fridman",
+  "channel_id": "UCSHZKyawb77ixDdsGog4iWA",
+  "source_url": "https://youtu.be/EV7WhVT270Q",
+  "fetched_at": "2026-05-05",
+  "published_at": "2026-01-31",
+  "duration_seconds": 15913,
+  "subs_kind": "manual",
+  "subs_lang": "en",
+  "topic_tag": "ai-strategy",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en.vtt",
+      "sha256": "0ee1c2c494b0818903395bca420366c5044704108f63736a1a1b84741bac533a",
+      "bytes": 387990
+    },
+    {
+      "path": "info.json",
+      "sha256": "e0f416eeef27efe1e8f210efe0a178d3a5ecc81e65d61c809556eb86b70e04b9",
+      "bytes": 628187
+    }
+  ]
+}

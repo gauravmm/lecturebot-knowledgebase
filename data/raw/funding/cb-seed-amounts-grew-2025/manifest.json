@@ -1,0 +1,19 @@
+{
+  "corpus": "funding",
+  "doc_id": "cb-seed-amounts-grew-2025",
+  "title": "Average Seed Funding Amounts And Deals Grew In 2025",
+  "publisher": "Crunchbase News",
+  "category": "theme",
+  "geography": "global",
+  "year_or_period": "2025",
+  "source_url": "https://news.crunchbase.com/venture/average-seed-funding-amounts-deals-grew-2025/",
+  "fetched_at": "2026-05-05",
+  "license": "Public web — Crunchbase News article. Quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "7ea028bdb22e5cd2e3626deab71f5a4914c4c915ebcc67f161b3995e46539431",
+      "bytes": 148055
+    }
+  ]
+}

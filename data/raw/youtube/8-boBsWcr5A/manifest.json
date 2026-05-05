@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "8-boBsWcr5A",
+  "title": "Satya Nadella – How Microsoft thinks about AGI",
+  "channel": "Dwarkesh Patel",
+  "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
+  "source_url": "https://youtu.be/8-boBsWcr5A",
+  "fetched_at": "2026-05-03",
+  "published_at": "2025-11-12",
+  "duration_seconds": 5321,
+  "subs_kind": "manual",
+  "subs_lang": "en",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en.vtt",
+      "sha256": "9c4d71ba2b1e06a470cf6f71380d642b0a48abd560c3b8859da38ad11689c10e",
+      "bytes": 121462
+    },
+    {
+      "path": "info.json",
+      "sha256": "6f29d8bca831237162ee01522240ef98e7cb72b231173f08691689281c042db1",
+      "bytes": 593292
+    }
+  ]
+}

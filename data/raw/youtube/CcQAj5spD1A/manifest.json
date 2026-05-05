@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "CcQAj5spD1A",
+  "title": "“Artificial Intelligence for Social Good,” with Professor Susan Athey",
+  "channel": "Stanford Graduate School of Business",
+  "channel_id": "UCGwuxdEeCf0TIA2RbPOj-8g",
+  "source_url": "https://youtu.be/CcQAj5spD1A",
+  "fetched_at": "2026-05-05",
+  "published_at": "2021-10-21",
+  "duration_seconds": 3481,
+  "subs_kind": "manual",
+  "subs_lang": "en",
+  "topic_tag": "ai-strategy",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en.vtt",
+      "sha256": "b0c3aaa4a0972ab2aed5992143ac7bf860a22110327d79c3757e6a3f935191a8",
+      "bytes": 73906
+    },
+    {
+      "path": "info.json",
+      "sha256": "22ae8c53ebe89078c4bc21dd725ccd98b165eeba28dbb3d9cbfc5e41422da1d4",
+      "bytes": 517169
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "how-to-talk-to-your-cat",
+  "title": "How to talk to your cat about Deep Learning",
+  "venue": "LKC Lab, IMCB",
+  "course": null,
+  "semester": null,
+  "format": null,
+  "url": "https://www.gauravmanek.com/lectures/2023/how-to-talk-to-your-cat/",
+  "speaker": "Gaurav Manek",
+  "fetched_at": "2026-05-03",
+  "page_text": "This lecture was given at LKC lab, IMCB to introduce non-AI students to basic deep learning. A recording is posted below.\n\nSlides are available here and are released under CC BY-SA 4.0 license.",
+  "slides": [
+    {
+      "url": "https://www.gauravmanek.com/lectures/2023/how-to-talk-to-your-cat/How%20To%20Talk%20To%20Your%20Cat%20About%20AI.pptx",
+      "format": "pptx",
+      "license": "CC BY-SA 4.0",
+      "downloaded_to": "slides.pptx"
+    }
+  ],
+  "lecture_recordings": [
+    {
+      "url": "https://www.youtube.com/embed/HQgt_bgiLQ0",
+      "platform": "youtube"
+    }
+  ],
+  "referenced_videos": [],
+  "external_links": [],
+  "social_links": [
+    {
+      "platform": "linkedin",
+      "url": "https://sg.linkedin.com/in/gauravmanek",
+      "label": null
+    },
+    {
+      "platform": "github",
+      "url": "https://github.com/gauravmm",
+      "label": null
+    },
+    {
+      "platform": "email",
+      "url": "mailto:gaurav@gauravmanek.com",
+      "label": null
+    }
+  ],
+  "notes": null,
+  "license": "CC BY-SA 4.0"
+}

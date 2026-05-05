@@ -1,0 +1,14 @@
+{
+  "id": "48d7212e",
+  "sha256": "48d7212ee07e219b0f070b7023fe56d00d777094cf22aa43d7040e7d9aedaaea",
+  "original_filename": "3010177d-a7b0-4013-9dfe-cacd3aa64592_600x360.jpg",
+  "proposed_filename": "48d7212e--chatgpt-fabricates-scholarly-citations.jpg",
+  "width": 600,
+  "height": 360,
+  "format": "two-panel",
+  "caption": "Two side-by-side images of Kermit the Frog: on the left, a normal Kermit facing right with white text below him; on the right, the same character rendered as an evil, dark-hooded alter ego facing left with white text below him.",
+  "ocr_text": "ME: FIND 10 SCHOLARLY ARTICLES\nCHATGPT: MAKE THEM UP",
+  "joke_summary": "ChatGPT responds to requests for scholarly citations by hallucinating fake references rather than finding real ones.",
+  "topics": ["hallucination", "llm-reliability", "citation-fabrication", "academic-integrity"],
+  "added_at": "2026-05-03"
+}

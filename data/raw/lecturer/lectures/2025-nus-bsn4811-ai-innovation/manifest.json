@@ -1,0 +1,60 @@
+{
+  "slug": "nus-bsn4811-ai-innovation",
+  "title": "AI Innovation",
+  "venue": "NUS",
+  "course": "BSN4811",
+  "semester": "Fall 2025",
+  "format": "Guest Lecture",
+  "url": "https://www.gauravmanek.com/lectures/2025/nus-bsn4811-ai-innovation/",
+  "speaker": "Gaurav Manek",
+  "fetched_at": "2026-05-03",
+  "page_text": "If you're here from the lecture, welcome! Slides are available here and are released under CC BY-SA 4.0 license.\n\nAdd me on LinkedIn. I'm always happy to chat about AI, startups, and the future of technology.\n\nReading List\n\nI recommended these readings:\n\n- Prediction Machines\n- Competing in the age of AI\n- The AI Economy\n\nAs always, turn your critical thinking skills on and carefully engage with the claims each book makes.",
+  "slides": [
+    {
+      "url": "https://www.gauravmanek.com/lectures/2025/nus-bsn4811-ai-innovation/AI%20Innovation%20for%20BSN4811.pptx",
+      "format": "pptx",
+      "license": "CC BY-SA 4.0",
+      "downloaded_to": "slides.pptx"
+    }
+  ],
+  "lecture_recordings": [
+    {
+      "url": "https://www.youtube.com/embed/B8kdb_FKfj4",
+      "platform": "youtube"
+    }
+  ],
+  "referenced_videos": [],
+  "external_links": [
+    {
+      "url": "https://www.predictionmachines.ai/",
+      "label": "Prediction Machines"
+    },
+    {
+      "url": "https://www.amazon.com/Competing-Age-AI-Strategy-Intelligent/dp/1633697629",
+      "label": "Competing in the age of AI"
+    },
+    {
+      "url": "https://www.amazon.sg/AI-Economy-Wealth-Welfare-Robot/dp/147369616X",
+      "label": "The AI Economy"
+    }
+  ],
+  "social_links": [
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/in/gauravmanek/",
+      "label": "LinkedIn"
+    },
+    {
+      "platform": "github",
+      "url": "https://github.com/gauravmm",
+      "label": "GitHub"
+    },
+    {
+      "platform": "email",
+      "url": "mailto:gaurav@gauravmanek.com",
+      "label": "Email"
+    }
+  ],
+  "notes": "Embedded lecture recording found in iframe src attribute. Slides released under CC BY-SA 4.0 license.",
+  "license": "CC BY-SA 4.0"
+}

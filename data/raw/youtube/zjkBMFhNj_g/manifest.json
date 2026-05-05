@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "zjkBMFhNj_g",
+  "title": "[1hr Talk] Intro to Large Language Models",
+  "channel": "Andrej Karpathy",
+  "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
+  "source_url": "https://youtu.be/zjkBMFhNj_g",
+  "fetched_at": "2026-05-05",
+  "published_at": "2023-11-23",
+  "duration_seconds": 3588,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "explainer",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "dd82c9f16deff7292e165c38f02387acb9c9aa2b11d9cc86d45190560abe9b7b",
+      "bytes": 603263
+    },
+    {
+      "path": "info.json",
+      "sha256": "6ff740261351959e136548d6da7f22d80f9668ea01b1ff922abc28d1d8933cc7",
+      "bytes": 555346
+    }
+  ]
+}

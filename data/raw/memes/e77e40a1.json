@@ -1,0 +1,14 @@
+{
+  "id": "e77e40a1",
+  "sha256": "e77e40a1c12bb7d4c7d0ec4d05beb0324c49bb9c34441fe1aea97dd2c7ab3096",
+  "original_filename": "IMG_20260128_124353.jpg",
+  "proposed_filename": "e77e40a1--prompt-engineer-vs-sloperator.jpg",
+  "width": 1140,
+  "height": 906,
+  "format": "two-panel",
+  "caption": "Two side-by-side photos of the same woman against a plain indoor background. In the left panel, labeled 'PROMPT ENGINEER' above, she has a skeptical, scrunched-up expression with furrowed brows. In the right panel, labeled 'SLOPERATOR' above, she looks wide-eyed and vacant, gazing slightly upward.",
+  "ocr_text": "PROMPT ENGINEER\nSLOPERATOR",
+  "joke_summary": "The term 'prompt engineer' is a self-flattering rebranding of someone who just types requests into an AI, mockingly relabeled 'sloperator' (slop + operator).",
+  "topics": ["prompt-engineering", "ai-hype", "llm-criticism", "job-title-inflation"],
+  "added_at": "2026-05-03"
+}

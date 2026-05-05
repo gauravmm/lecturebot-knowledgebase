@@ -1,0 +1,14 @@
+{
+  "id": "819c71f9",
+  "sha256": "819c71f95f2987f555350db2ca2bfb4be3f8f44d878e8b17dabec01bb0a985f2",
+  "original_filename": "95a9abda-c4a9-46f6-bb57-11d1e9fd45e5_700x449.jpg",
+  "proposed_filename": "819c71f9--ai-coding-replaces-developer.jpg",
+  "width": 700,
+  "height": 449,
+  "format": "comic",
+  "caption": "A four-panel Gru's Plan meme arranged in a 2x2 grid. In panels one and two (top row), the cartoon villain Gru points at a blue sign board while appearing pleased; in panels three and four (bottom row), Gru is shown leaning forward with a more serious expression. The sign text changes across panels but the final two panels display the same text.",
+  "ocr_text": "Develop\na\npowerful AI\n\nTeach\nit to\nwrite code\n\nHave\nthe AI\nreplace you\nas developer\n\nHave\nthe AI\nreplace you\nas developer",
+  "joke_summary": "Teaching AI to write code backfires because it ends up replacing the developer who built it.",
+  "topics": ["ai-automation", "job-displacement", "software-development", "unintended-consequences"],
+  "added_at": "2026-05-03"
+}

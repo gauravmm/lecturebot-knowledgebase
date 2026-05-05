@@ -1,0 +1,22 @@
+{
+  "corpus": "edgar",
+  "doc_id": "MSFT-10-Q_2025-03-31",
+  "ticker": "MSFT",
+  "company_name": "Microsoft Corp",
+  "cik": "0000789019",
+  "form": "10-Q",
+  "filing_date": "2025-04-30",
+  "report_date": "2025-03-31",
+  "accession": "0000950170-25-061046",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025061046/msft-20250331.htm",
+  "filing_index_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000789019&type=10-Q&dateb=&owner=include&count=40",
+  "fetched_at": "2026-05-05",
+  "license": "Public domain (US government filing). EDGAR fair-use applies; identify the requester via User-Agent on every request.",
+  "files": [
+    {
+      "path": "10-Q_2025-03-31.htm",
+      "sha256": "4ff48b41c7867608aab12ff7af81adf29969917c819fc39c8e4ae106b0f8480e",
+      "bytes": 6995442
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "corpus": "funding",
+  "doc_id": "cb-na-q1-2026-ai",
+  "title": "Funding Surges Across All Stages In North America In Q1 2026, AI-Led",
+  "publisher": "Crunchbase News",
+  "category": "quarterly_recap",
+  "geography": "north_america",
+  "year_or_period": "2026-Q1",
+  "source_url": "https://news.crunchbase.com/venture/funding-surges-all-stages-ai-north-america-q1-2026/",
+  "fetched_at": "2026-05-05",
+  "license": "Public web — Crunchbase News article. Quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "83883ef5ba44c5589079f8e8cbdb8d106c148349ed5cf111ec3051af17e61a13",
+      "bytes": 160641
+    }
+  ]
+}

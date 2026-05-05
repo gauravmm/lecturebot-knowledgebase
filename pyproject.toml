@@ -1,0 +1,39 @@
+[project]
+name = "lecture-knowledge"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "bm25s>=0.3.8",
+    "faiss-cpu>=1.13.2",
+    "lxml>=6.1.0",
+    "mcp>=1.27.0",
+    "pyarrow>=24.0.0",
+    "pymupdf>=1.27.2.3",
+    "python-docx>=1.2.0",
+    "python-pptx>=1.0.2",
+    "sentence-transformers>=5.4.1",
+    "tiktoken>=0.12.0",
+    "yt-dlp>=2025.1.15",
+    "zstandard>=0.25.0",
+]
+
+[project.scripts]
+rebuild = "lecture_knowledge.rebuild:main"
+knowledge-mcp = "lecture_knowledge.mcp_server:main"
+collect-all = "lecture_knowledge.collect_all:main"
+process-all = "lecture_knowledge.process_all:main"
+public-clean = "lecture_knowledge.public_clean:main"
+expected-files = "lecture_knowledge.expected_files:main"
+
+[dependency-groups]
+dev = [
+    "pre-commit>=4.6.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["lecture_knowledge"]

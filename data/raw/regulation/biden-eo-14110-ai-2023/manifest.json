@@ -1,0 +1,20 @@
+{
+  "corpus": "regulation",
+  "doc_id": "biden-eo-14110-ai-2023",
+  "title": "EO 14110 — Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence (Biden, Oct 2023; revoked Jan 2025)",
+  "author": "Executive Office of the President (Biden)",
+  "publisher": "Federal Register / govinfo.gov",
+  "category": "us_eo",
+  "format": "pdf-eo",
+  "source_url": "https://www.govinfo.gov/content/pkg/FR-2023-11-01/pdf/2023-24283.pdf",
+  "fetched_at": "2026-05-05",
+  "published_at": "2023-10-30",
+  "license": "Public domain (US Federal government publication).",
+  "files": [
+    {
+      "path": "report.pdf",
+      "sha256": "46739dfc1af256961458d3b73fa4d6f4b447b38eaa72efd80966463818be68ab",
+      "bytes": 437813
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "corpus": "letters",
+  "doc_id": "bezos-2019",
+  "title": "2019 Letter to Shareholders",
+  "author": "Jeff Bezos",
+  "publisher": "Amazon",
+  "letter_year": 2019,
+  "format": "html",
+  "source_url": "https://www.aboutamazon.com/news/company-news/2019-letter-to-shareholders",
+  "fetched_at": "2026-05-05",
+  "license": "Public web; canonical IR-site publication. Quote with attribution.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "4088c06b0ae8b84da6d16177d82f0cb62ea6a4d40911d669ce91f16d88609940",
+      "bytes": 242209
+    }
+  ]
+}

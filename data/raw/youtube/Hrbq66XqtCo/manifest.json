@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "Hrbq66XqtCo",
+  "title": "Jensen Huang – Will Nvidia’s moat persist?",
+  "channel": "Dwarkesh Patel",
+  "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
+  "source_url": "https://youtu.be/Hrbq66XqtCo",
+  "fetched_at": "2026-05-03",
+  "published_at": "2026-04-15",
+  "duration_seconds": 6192,
+  "subs_kind": "manual",
+  "subs_lang": "en",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en.vtt",
+      "sha256": "e2e5835c6d26fde349cd413c30647c0045c255a48099dbc1d0d0eacd0edd0a3b",
+      "bytes": 137226
+    },
+    {
+      "path": "info.json",
+      "sha256": "2f41028fcba1bf0512fa0485875452d29efe7321b90d07f5c114621f150ef191",
+      "bytes": 589817
+    }
+  ]
+}

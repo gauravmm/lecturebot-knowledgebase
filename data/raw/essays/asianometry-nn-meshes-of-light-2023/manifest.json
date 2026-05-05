@@ -1,0 +1,19 @@
+{
+  "corpus": "essays",
+  "doc_id": "asianometry-nn-meshes-of-light-2023",
+  "title": "Running Neural Networks on Meshes of Light",
+  "author": "Jon Y",
+  "publisher": "Asianometry",
+  "category": "asianometry",
+  "source_url": "https://www.asianometry.com/p/running-neural-networks-on-meshes",
+  "fetched_at": "2026-05-05",
+  "published_at": "2023-06",
+  "license": "Public web; quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "099604336a29bc7d6ab17c357cc8b86e436039d043f56f4b86000c2619c92645",
+      "bytes": 153342
+    }
+  ]
+}

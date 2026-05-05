@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "2XRpTZpHjfc",
+  "title": "No Priors Ep. 91 | With Cohere Co-Founder and CEO Aidan Gomez",
+  "channel": "No Priors: AI, Machine Learning, Tech, & Startups",
+  "channel_id": "UCSI7h9hydQ40K5MJHnCrQvw",
+  "source_url": "https://youtu.be/2XRpTZpHjfc",
+  "fetched_at": "2026-05-05",
+  "published_at": "2024-11-21",
+  "duration_seconds": 2656,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "8f72a3631477d59e04398758fbbbd95389fd653d04cf171bf67ca50898979116",
+      "bytes": 367563
+    },
+    {
+      "path": "info.json",
+      "sha256": "a5bfdf84c887338f513534b04318fc8fb1354aa50911ed47c3656c0f20ac7943",
+      "bytes": 510318
+    }
+  ]
+}

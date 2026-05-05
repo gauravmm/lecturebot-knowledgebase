@@ -1,0 +1,20 @@
+{
+  "corpus": "regulation",
+  "doc_id": "nist-ai-genai-profile-600-1",
+  "title": "NIST AI 600-1 — Generative AI Profile (companion to AI RMF 1.0)",
+  "author": "National Institute of Standards and Technology",
+  "publisher": "NIST",
+  "category": "nist",
+  "format": "pdf-nist",
+  "source_url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+  "fetched_at": "2026-05-05",
+  "published_at": "2024-07",
+  "license": "Public domain (US gov publication).",
+  "files": [
+    {
+      "path": "report.pdf",
+      "sha256": "6e73620ab6b64e90ef2c04bf0e0d6246185a2f4b1b13cab0df494496cff89b6a",
+      "bytes": 1174643
+    }
+  ]
+}

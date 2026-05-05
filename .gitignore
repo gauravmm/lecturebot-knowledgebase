@@ -1,0 +1,71 @@
+.venv/
+__pycache__/
+*.py[cod]
+.python-version
+
+# yt-dlp's full info.json dump per video is ~600 KB each (formats list +
+# automatic_captions URL table), most of which is ephemeral (signed URLs
+# expire in hours). The fetcher distills the durable fields into
+# manifest.json — info.json is kept on local disk for ad-hoc inspection
+# but not tracked in git. Idempotency uses manifest.json as the signal.
+data/raw/youtube/*/info.json
+data/raw/youtube/*/*.info.json
+data/raw/youtube/*/subs*.vtt
+
+# Public-safe corpora that are rebuildable from fetch scripts but should
+# not be committed in bulk to a public repo. Keep manifests in git;
+# rebuild the payloads locally with `uv run collect-all`, then regenerate
+# processed JSONL with `uv run process-all`.
+data/raw/consulting/*/report.pdf
+data/raw/essays/*/page.html
+data/raw/funding/*/page.html
+data/raw/letters/*/page.html
+data/raw/letters/*/report.pdf
+data/raw/vendors/*/catalog.json
+data/raw/vendors/*/page.md
+data/raw/vendors/*/page.html
+
+# SEC EDGAR raw iXBRL HTML — 5-10 MB per filing, 60 filings, fully
+# reproducible from each manifest's source_url. Re-fetch with
+# `uv run python scripts/fetch/edgar.py`. Manifests + processed JSONL
+# are the source of truth in git.
+data/raw/edgar/**/*.htm
+
+# Derived text for the public-safe corpora above is also regenerated
+# locally and kept out of git in the public branch.
+data/processed/consulting/
+data/processed/essays/
+data/processed/funding/
+data/processed/letters/
+data/processed/vendors/
+data/processed/youtube/
+
+# AI Index 2026 PDF is CC BY-ND 4.0: redistributing the unmodified PDF
+# is permitted with attribution, but our re-chunked text is plausibly
+# a derivative work, so the processed JSONL stays local.
+data/processed/ai_index/
+
+# Earnings press releases / prepared remarks / CFO commentary /
+# transcripts are issuer copyright with a quote/attribution norm, not
+# a redistribution grant. Keep manifests in git; rebuild the payloads
+# locally with `uv run collect-all` and `uv run process-all`.
+data/raw/earnings/*/*
+!data/raw/earnings/*/manifest.json
+data/processed/earnings/
+
+# Generated retrieval artifacts. All fully reproducible from
+# `data/processed/` via `scripts/process/rechunk.py` +
+# `scripts/index/{build_bm25,build_dense,build_meta,package}.py`.
+# This also covers `uv run expected-files`, which writes a local
+# `data/cache/expected-files.txt` inventory for rebuild verification.
+# - cache/embeddings/: sha256-keyed .npy per chunk (BAAI/bge-base-en-v1.5,
+#   ~45 MB across 15k chunks; first build ~60s on CPU, subsequent
+#   re-runs hit cache).
+# - index/: BM25 dump + FAISS flat-IP + chunk_meta.parquet, ~50 MB.
+# - exports/: packaged tarballs for the chat-layer drop, ~100 MB each.
+data/cache/
+data/index/
+data/exports/
+
+# Claude Code scheduler state.
+.claude/scheduled_tasks.lock

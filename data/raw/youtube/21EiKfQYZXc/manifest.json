@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "21EiKfQYZXc",
+  "title": "Andrew Ng: Artificial Intelligence is the New Electricity",
+  "channel": "Stanford Graduate School of Business",
+  "channel_id": "UCGwuxdEeCf0TIA2RbPOj-8g",
+  "source_url": "https://youtu.be/21EiKfQYZXc",
+  "fetched_at": "2026-05-05",
+  "published_at": "2017-02-02",
+  "duration_seconds": 5264,
+  "subs_kind": "manual",
+  "subs_lang": "en-R8nKuE1b8DE",
+  "topic_tag": "ai-strategy",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-R8nKuE1b8DE.vtt",
+      "sha256": "6b381d1ce0b52aa72f350979fc9bf60f00beafbd2ecde8e9d3639aa9413ca4e3",
+      "bytes": 117569
+    },
+    {
+      "path": "info.json",
+      "sha256": "06f87cb0d5b518f3ac48c6852f6255dd9e92deb2a5c7987e5299bfcdef87390c",
+      "bytes": 533575
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "corpus": "letters",
+  "doc_id": "nadella-fy25",
+  "title": "Microsoft FY25 Annual Report — Letter from Satya Nadella",
+  "author": "Satya Nadella",
+  "publisher": "Microsoft",
+  "letter_year": 2025,
+  "format": "html-ar",
+  "source_url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+  "fetched_at": "2026-05-05",
+  "license": "Public web; canonical IR-site publication. Quote with attribution.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "564154a15ac28c0f7f72f304ae26b74c29cfca9f3eafe8d59595776769d621ca",
+      "bytes": 601259
+    }
+  ]
+}

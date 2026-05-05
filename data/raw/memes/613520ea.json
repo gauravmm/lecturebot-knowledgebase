@@ -1,0 +1,14 @@
+{
+  "id": "613520ea",
+  "sha256": "613520eafab351a2fb791f828ac69099863b2a3b20a3126a49cce5a1a513c4fa",
+  "original_filename": "d74c5a10-9fd6-4367-9d6f-ccaa52f7d842_577x433.jpg",
+  "proposed_filename": "613520ea--chatgpt-burns-human-knowledge.jpg",
+  "width": 577,
+  "height": 433,
+  "format": "single-panel",
+  "caption": "The 'Disaster Girl' meme: a young girl with a slight smirk stands in the foreground, close to the camera. Behind her to the left, a house is engulfed in flames with firefighters and a fire truck visible. White bold text in the upper-left reads '5000 YEARS OF ACCUMULATED HUMAN KNOWLEDGE AND KNOWHOW', and white bold text in the lower-right reads 'CHATGPT'.",
+  "ocr_text": "5000 YEARS\nOF ACCUMULATED\nHUMAN\nKNOWLEDGE AND KNOWHOW\n\nCHATGPT",
+  "joke_summary": "ChatGPT is destroying millennia of accumulated human knowledge, gleefully and without remorse.",
+  "topics": ["llm-hype", "ai-risk", "knowledge-destruction", "chatgpt-criticism", "human-knowledge"],
+  "added_at": "2026-05-03"
+}

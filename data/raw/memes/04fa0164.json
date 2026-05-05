@@ -1,0 +1,14 @@
+{
+  "id": "04fa0164",
+  "sha256": "04fa01644bb145911e3d03851a61aaf9d7e8404b0711e6985f87328321b4c83d",
+  "original_filename": "lu30q1lota671.png",
+  "proposed_filename": "04fa0164--ai-hype-vs-dumb-mistakes.png",
+  "width": 640,
+  "height": 635,
+  "format": "two-panel",
+  "caption": "Top half shows bold text reading 'Them: AI is going to take over the world! / The AI:' followed by a screenshot of an Excel spreadsheet. Column A lists month abbreviations JAN through MAY; column B lists the corresponding full month names entered as January, Febuary, Maruary, Apruary, Mayuary — each name after January garbled by mechanically appending 'uary' to the abbreviation.",
+  "ocr_text": "Them: AI is going to take over the world!\nThe AI:\n[spreadsheet cell B1: January; B2: Febuary; B3: Maruary; B4: Apruary; B5: Mayuary]",
+  "joke_summary": "AI hyped as a world-dominating threat is actually producing comically broken outputs, like an autocomplete that mangles month names.",
+  "topics": ["ai-hype", "hallucination", "ai-limitations", "autocomplete-failure"],
+  "added_at": "2026-05-03"
+}

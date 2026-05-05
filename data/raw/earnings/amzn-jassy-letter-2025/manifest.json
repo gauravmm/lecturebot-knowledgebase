@@ -1,0 +1,20 @@
+{
+  "corpus": "earnings",
+  "doc_id": "amzn-jassy-letter-2025",
+  "ticker": "AMZN",
+  "company_name": "Amazon.com Inc",
+  "fiscal_period": "FY2025 letter",
+  "calendar_quarter_end": null,
+  "transcript_kind": "ceo_quote_article",
+  "title": "Amazon CEO Andy Jassy’s 2025 Letter to Shareholders",
+  "source_url": "https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2025-shareholder-letter",
+  "fetched_at": "2026-05-04",
+  "license": "Public IR-site publication. Quote with attribution.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "04cbb655d39490d47d71cb44c20049a2394e5a46c2566748df65bf800760de6f",
+      "bytes": 280840
+    }
+  ]
+}

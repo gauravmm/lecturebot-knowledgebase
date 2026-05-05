@@ -1,0 +1,18 @@
+{
+  "corpus": "vendors",
+  "doc_id": "google-gemini-pricing",
+  "title": "Gemini API — Developer Pricing",
+  "publisher": "Google",
+  "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+  "fetch_url": "https://ai.google.dev/gemini-api/docs/pricing",
+  "fetched_at": "2026-05-05",
+  "license": "Public web; vendor-published reference. Quote with attribution; do not redistribute the page in bulk.",
+  "notes": "Server-rendered HTML. Per-model free / paid tier pricing, context-cache + batch discount tiers, Live API pricing.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "ca92bb82a11b6fbbae81a47d4584df28e6908ccc8304192d98279daad51c4111",
+      "bytes": 201671
+    }
+  ]
+}

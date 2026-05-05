@@ -1,0 +1,19 @@
+{
+  "corpus": "letters",
+  "doc_id": "bezos-2020",
+  "title": "2020 Letter to Shareholders ('Day 1' / final letter as CEO)",
+  "author": "Jeff Bezos",
+  "publisher": "Amazon",
+  "letter_year": 2020,
+  "format": "html",
+  "source_url": "https://www.aboutamazon.com/news/company-news/2020-letter-to-shareholders",
+  "fetched_at": "2026-05-05",
+  "license": "Public web; canonical IR-site publication. Quote with attribution.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "5040df5d115aea736f8b062f3b4997cc61cb1286db53da92ee0eabd024b8c23b",
+      "bytes": 255603
+    }
+  ]
+}

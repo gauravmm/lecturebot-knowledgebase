@@ -1,0 +1,19 @@
+{
+  "corpus": "essays",
+  "doc_id": "asianometry-analog-chip-design-ai-2024",
+  "title": "Analog Chip Design is an Art. Can AI Help?",
+  "author": "Jon Y",
+  "publisher": "Asianometry",
+  "category": "asianometry",
+  "source_url": "https://www.asianometry.com/p/analog-chip-design-is-an-art-can",
+  "fetched_at": "2026-05-05",
+  "published_at": "2024-02",
+  "license": "Public web; quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "ac5859ebccfb230d16d1b9adb884f7e79953eceb2105bf56ed69f92be515eefe",
+      "bytes": 171777
+    }
+  ]
+}

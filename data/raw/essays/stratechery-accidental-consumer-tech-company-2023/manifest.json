@@ -1,0 +1,19 @@
+{
+  "corpus": "essays",
+  "doc_id": "stratechery-accidental-consumer-tech-company-2023",
+  "title": "The Accidental Consumer Tech Company; ChatGPT, Meta, and Product-Market Fit; Aggregation and APIs",
+  "author": "Ben Thompson",
+  "publisher": "Stratechery",
+  "category": "stratechery",
+  "source_url": "https://stratechery.com/2023/the-accidental-consumer-tech-company-chatgpt-meta-and-product-market-fit-aggregation-and-apis/",
+  "fetched_at": "2026-05-05",
+  "published_at": "2023-02",
+  "license": "Subscriber-archive (free Weekly Articles only); quote with attribution + link, do not redistribute the body text.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "ba114a75ac28a5ac9978aebd8ed922c394928575dd516e86db512aafb05904d9",
+      "bytes": 312694
+    }
+  ]
+}

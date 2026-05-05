@@ -1,0 +1,19 @@
+{
+  "corpus": "essays",
+  "doc_id": "lecturer-prediction-machines",
+  "title": "Prediction Machines (book site)",
+  "author": "Ajay Agrawal, Joshua Gans, Avi Goldfarb",
+  "publisher": "predictionmachines.ai",
+  "category": "lecturer_reading_list",
+  "source_url": "https://www.predictionmachines.ai/",
+  "fetched_at": "2026-05-05",
+  "published_at": null,
+  "license": "Public web; quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "c53840a3ae929d9705d2d1f6bbab116a3ad07b5573facc5055814903b3b68f03",
+      "bytes": 72217
+    }
+  ]
+}

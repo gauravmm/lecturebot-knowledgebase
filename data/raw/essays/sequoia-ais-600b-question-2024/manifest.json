@@ -1,0 +1,19 @@
+{
+  "corpus": "essays",
+  "doc_id": "sequoia-ais-600b-question-2024",
+  "title": "AI's $600B Question",
+  "author": "David Cahn",
+  "publisher": "Sequoia Capital",
+  "category": "vc",
+  "source_url": "https://www.sequoiacap.com/article/ais-600b-question/",
+  "fetched_at": "2026-05-05",
+  "published_at": "2024-06",
+  "license": "Public web; quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "cbb6ecc597221292eaf3e4f164c84c881eed986cddec770e57c0340a69d09778",
+      "bytes": 81422
+    }
+  ]
+}

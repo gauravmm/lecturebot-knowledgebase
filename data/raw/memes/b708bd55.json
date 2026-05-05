@@ -1,0 +1,14 @@
+{
+  "id": "b708bd55",
+  "sha256": "b708bd556b02cd2792faaffd9a9df4b341178fd209aa0ec86b21d1e62535673e",
+  "original_filename": "0cc9ca6d-a73c-47ff-a1a6-b88b7a0b651b_387x585.jpg",
+  "proposed_filename": "b708bd55--ai-bias-from-human-training.jpg",
+  "width": 387,
+  "height": 585,
+  "format": "two-panel",
+  "caption": "A three-section vertical image: top shows a man looking skeptical or questioning; middle shows a humanoid robot face with pale skin and blue eyes facing forward, with the question 'WHY ARE YOU BIASED AND WRONG SO OFTEN?' overlaid; bottom shows the same man (or a similar man) with his hand raised to his mouth in a shocked or dismayed expression, with the response 'BECAUSE YOU BUILT AND TRAINED ME.' overlaid.",
+  "ocr_text": "WHY ARE YOU BIASED AND WRONG SO OFTEN?\n\nBECAUSE YOU BUILT AND TRAINED ME.",
+  "joke_summary": "AI bias and errors are a reflection of the humans who built and trained it, not an independent failure.",
+  "topics": ["ai-bias", "human-in-the-loop", "training-data", "responsible-ai"],
+  "added_at": "2026-05-03"
+}

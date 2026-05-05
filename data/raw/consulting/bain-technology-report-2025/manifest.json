@@ -1,0 +1,18 @@
+{
+  "corpus": "consulting",
+  "doc_id": "bain-technology-report-2025",
+  "title": "Bain Technology Report 2025",
+  "publisher": "Bain & Company",
+  "source_url": "https://www.bain.com/globalassets/noindex/2025/bain_report_technology_report_2025.pdf",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-09",
+  "license": "Marketing publication. Permissive non-commercial summarization with attribution; do not redistribute the PDF itself.",
+  "files": [
+    {
+      "path": "report.pdf",
+      "sha256": "5c22754b354527739d20ad484dd7409513355fc3924ce74d41d6ee71d4b5022a",
+      "bytes": 7448369,
+      "pages": 77
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "Kbk9BiPhm7o",
+  "title": "Elon Musk: Neuralink and the Future of Humanity | Lex Fridman Podcast #438",
+  "channel": "Lex Fridman",
+  "channel_id": "UCSHZKyawb77ixDdsGog4iWA",
+  "source_url": "https://youtu.be/Kbk9BiPhm7o",
+  "fetched_at": "2026-05-05",
+  "published_at": "2024-08-02",
+  "duration_seconds": 31054,
+  "subs_kind": "manual",
+  "subs_lang": "en",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en.vtt",
+      "sha256": "5a5893e6428da922b962e285a7ea0b1eb3cc97eaa10639a5be369e514467dd27",
+      "bytes": 831997
+    },
+    {
+      "path": "info.json",
+      "sha256": "ce9b1dc4dafa5f3ef074dbdba09767d7115350a6341fb9dd50c54d0fd39e2171",
+      "bytes": 756266
+    }
+  ]
+}

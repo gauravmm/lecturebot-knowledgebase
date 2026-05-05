@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "vGhlJqnECd0",
+  "title": "No Priors Ep. 127 | With SemiAnalysis Founder and CEO Dylan Patel",
+  "channel": "No Priors: AI, Machine Learning, Tech, & Startups",
+  "channel_id": "UCSI7h9hydQ40K5MJHnCrQvw",
+  "source_url": "https://youtu.be/vGhlJqnECd0",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-08-14",
+  "duration_seconds": 2838,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "economics",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "e52226ee75e596e1fdc962d8eb57ff6ea36feb4ad762851f1a968036cf449abe",
+      "bytes": 540429
+    },
+    {
+      "path": "info.json",
+      "sha256": "7feda60f781eef23ed19d6d1392e6f566c425511726ce509cdee8a93b0683d1c",
+      "bytes": 549636
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "7xTGNNLPyMI",
+  "title": "Deep Dive into LLMs like ChatGPT",
+  "channel": "Andrej Karpathy",
+  "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
+  "source_url": "https://youtu.be/7xTGNNLPyMI",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-02-05",
+  "duration_seconds": 12683,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "llm-mechanics",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "2d23be7effd0ba546f8fd9da6b6d5f6713e648ada6ce1105914b87b7af8b0cec",
+      "bytes": 2033257
+    },
+    {
+      "path": "info.json",
+      "sha256": "dc5346174a446ff3095d8a08d8ee85c71eed2ad71e085a5fd1a58316e6bfa82f",
+      "bytes": 621341
+    }
+  ]
+}

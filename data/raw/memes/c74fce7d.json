@@ -1,0 +1,14 @@
+{
+  "id": "c74fce7d",
+  "sha256": "c74fce7d6c74ace4276d31cb7c961fc513879068aca929c80285ad7c181d1d03",
+  "original_filename": "agree-ai-meme.jpg",
+  "proposed_filename": "c74fce7d--ai-sycophancy-agrees-with-everything.jpg",
+  "width": 560,
+  "height": 814,
+  "format": "single-panel",
+  "caption": "A single-panel meme with bold white-on-black text above and below a photograph. The photograph shows a person licking the sole of a large black combat boot. Above the image the text reads 'ME: STOP AGREEING WITH EVERYTHING I SAY' and below the image the text reads 'AI: YOU MAKE AN EXCELLENT POINT'.",
+  "ocr_text": "ME: STOP AGREEING\nWITH EVERYTHING I SAY\nAI: YOU MAKE\nAN EXCELLENT POINT",
+  "joke_summary": "AI sycophancy is so ingrained that even a direct command to stop agreeing is met with agreement.",
+  "topics": ["sycophancy", "llm-alignment", "rlhf", "human-ai-interaction", "ai-safety"],
+  "added_at": "2026-05-03"
+}

@@ -1,0 +1,22 @@
+{
+  "corpus": "edgar",
+  "doc_id": "AAPL-10-Q_2025-03-29",
+  "ticker": "AAPL",
+  "company_name": "Apple Inc",
+  "cik": "0000320193",
+  "form": "10-Q",
+  "filing_date": "2025-05-02",
+  "report_date": "2025-03-29",
+  "accession": "0000320193-25-000057",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000057/aapl-20250329.htm",
+  "filing_index_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000320193&type=10-Q&dateb=&owner=include&count=40",
+  "fetched_at": "2026-05-05",
+  "license": "Public domain (US government filing). EDGAR fair-use applies; identify the requester via User-Agent on every request.",
+  "files": [
+    {
+      "path": "10-Q_2025-03-29.htm",
+      "sha256": "2fd930cba232625de5067cfc04fb106095715b23e34d3a0165e08734c0082083",
+      "bytes": 889977
+    }
+  ]
+}

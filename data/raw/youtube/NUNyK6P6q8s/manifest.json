@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "NUNyK6P6q8s",
+  "title": "Brendan Foody (Mercor) - Agentic Data and the Future of AI [Entire Talk]",
+  "channel": "Stanford eCorner",
+  "channel_id": "UCctkeBNtFIOn7Yl_9TTj_4w",
+  "source_url": "https://youtu.be/NUNyK6P6q8s",
+  "fetched_at": "2026-05-05",
+  "published_at": "2026-04-15",
+  "duration_seconds": 2830,
+  "subs_kind": "manual",
+  "subs_lang": "en-US",
+  "topic_tag": "ai-strategy",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-US.vtt",
+      "sha256": "ec4a43ecdff603a263698942f39a05b45ae111b4d350af7138096ec869779f7b",
+      "bytes": 80204
+    },
+    {
+      "path": "info.json",
+      "sha256": "0ab69110557636c28dd090903723867c3afef91201016867c965b2af373c74ac",
+      "bytes": 552320
+    }
+  ]
+}

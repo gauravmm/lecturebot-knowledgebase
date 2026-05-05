@@ -1,0 +1,19 @@
+{
+  "corpus": "essays",
+  "doc_id": "asianometry-600b-ai-chip-giant-2024",
+  "title": "The $600 Billion AI Chip Giant",
+  "author": "Jon Y",
+  "publisher": "Asianometry",
+  "category": "asianometry",
+  "source_url": "https://www.asianometry.com/p/the-600-billion-ai-chip-giant",
+  "fetched_at": "2026-05-05",
+  "published_at": "2024-08",
+  "license": "Public web; quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "187d527122ab82591f3405f805f7a55e6337edbe05c0e3d371644735f86a43a5",
+      "bytes": 181523
+    }
+  ]
+}

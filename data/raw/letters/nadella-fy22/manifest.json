@@ -1,0 +1,19 @@
+{
+  "corpus": "letters",
+  "doc_id": "nadella-fy22",
+  "title": "Microsoft FY22 Annual Report — Letter from Satya Nadella",
+  "author": "Satya Nadella",
+  "publisher": "Microsoft",
+  "letter_year": 2022,
+  "format": "html-ar",
+  "source_url": "https://www.microsoft.com/investor/reports/ar22/index.html",
+  "fetched_at": "2026-05-05",
+  "license": "Public web; canonical IR-site publication. Quote with attribution.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "da256e38e554c10de8d058386992e9de68ab0ca46544b5e45ee8dab6a55a4cb2",
+      "bytes": 662739
+    }
+  ]
+}

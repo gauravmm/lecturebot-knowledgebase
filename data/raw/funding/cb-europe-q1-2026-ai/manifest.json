@@ -1,0 +1,19 @@
+{
+  "corpus": "funding",
+  "doc_id": "cb-europe-q1-2026-ai",
+  "title": "European Funding Picked Up In Q1 2026, AI-Led",
+  "publisher": "Crunchbase News",
+  "category": "quarterly_recap",
+  "geography": "europe",
+  "year_or_period": "2026-Q1",
+  "source_url": "https://news.crunchbase.com/venture/funding-picked-up-ai-led-europe-q1-2026/",
+  "fetched_at": "2026-05-05",
+  "license": "Public web — Crunchbase News article. Quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "05b50be1392f99b10a9a294ffe043317389e2394e11c5378b29670c977de40cd",
+      "bytes": 156423
+    }
+  ]
+}

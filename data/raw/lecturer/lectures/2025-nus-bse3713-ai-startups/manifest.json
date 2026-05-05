@@ -1,0 +1,119 @@
+{
+  "slug": "nus-bse3713-ai-startups",
+  "title": "Early Stage AI Startups",
+  "venue": "NUS BSE3713",
+  "course": "BSE3713",
+  "semester": "Spring 2025",
+  "format": "Guest Lecture",
+  "url": "https://www.gauravmanek.com/lectures/2025/nus-bse3713-ai-startups/",
+  "speaker": "Gaurav Manek",
+  "fetched_at": "2026-05-03T00:00:00Z",
+  "page_text": "If you're here from the lecture, welcome! Slides are available here and are released under CC BY-SA 4.0 license.\nAdd me on LinkedIn. I'm always happy to chat about AI, startups, and the future of technology.\nReading List\nIn general, I recommend Y Combinator's Early Stage Advice. A few hours reading through it is time well spent.\nFor sales and marketing, especially for high-tech products, read Magical Selling.\nOther lectures in this area that you might find useful:\nCompetition is for Losers with Peter Thiel\nYCombinator YouTube Channel for a treasure trove of startup wisdom\nFor the startup stages and taxonomy:\nThe Six Startup Stages\nThe Startup J Curve\nY Combinator's Startup Stages\nFor VC funding:\nAngelList power-law post\nSkalata.VC venture return post\nVenture Deals for the inner workings of VCs and term sheets\nSequoia Capital's leaked YouTube investment memo, for an inside look at how VCs think about investments\nFor customer discovery, product-market fit, and eventually scaling:\nMastering the Hype Cycle\nCrossing the Chasm\nInside the Tornado\nFor a general overview of AI in business:\nMy AI Platforms Lecture, including open-source as a defensive and offensive maneuver\nThis CGP Grey video\nSizes of LLMs\nSaving the most important for last, how to think:\nChesterton's Fence, or in short: \"Do not remove a fence until you know why it was put up in the first place.\"\nS.M.A.R.T Goals\nThe Gervais Principle, for an explanation of office politics.\nThe Men Who Killed Google, for how overreliance on metrics (rather than product quality) leads to short-term gains at the cost of long-term goals.\nAs always, turn your critical thinking skills on and carefully engage with the claims each source makes. To quote Bertrand Russell:\nIn studying a philosopher, the right attitude is neither reverence nor contempt, but first a kind of hypothetical sympathy, until it is possible to know what it feels like to believe in his theories, and only then a revival of the critical attitude, which should resemble, as far as possible, the state of mind of a person abandoning opinions which he has hitherto held. Contempt interferes with the first part of this process, and reverence with the second. Two things are to be remembered: that a man whose opinions and theories are worth studying may be presumed to have had some intelligence, but that no man is likely to have arrived at complete and final truth on any subject whatever. When an intelligent man expresses a view which seems to us obviously absurd, we should not attempt to prove that it is somehow true, but we should try to understand how it ever came to seem true. This exercise of historical and psychological imagination at once enlarges the scope of our thinking, and helps us to realize how foolish many of our own cherished prejudices will seem to an age which has a different temper of mind.",
+  "slides": [
+    {
+      "url": "https://www.gauravmanek.com/lectures/2025/nus-bse3713-ai-startups/BSE3713 AI Startups.pptx",
+      "format": "pptx",
+      "license": "CC BY-SA 4.0",
+      "downloaded_to": "slides.pptx"
+    }
+  ],
+  "lecture_recordings": [
+    {
+      "url": "https://www.youtube.com/embed/B4xU0L1-PPE",
+      "platform": "youtube"
+    }
+  ],
+  "referenced_videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=3Fx5Q8xGU8k",
+      "platform": "youtube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wvWpdrfoEv0",
+      "platform": "youtube"
+    }
+  ],
+  "external_links": [
+    {
+      "url": "https://www.ycombinator.com/library/carousel/Early%20Stage%20Advice",
+      "label": "Y Combinator's Early Stage Advice"
+    },
+    {
+      "url": "https://www.amazon.sg/Magical-Selling-Engineering-Enterprise-Industry/dp/1735854603",
+      "label": "Magical Selling"
+    },
+    {
+      "url": "https://www.youtube.com/@ycombinator",
+      "label": "YCombinator YouTube Channel"
+    },
+    {
+      "url": "https://6startupstages.com/",
+      "label": "The Six Startup Stages"
+    },
+    {
+      "url": "https://www.amazon.sg/Start-Up-Curve-Steps-Entrepreneurial-Success/dp/162634292X",
+      "label": "The Startup J Curve"
+    },
+    {
+      "url": "https://www.ycombinator.com/library/Ek-stages-of-startups",
+      "label": "Y Combinator's Startup Stages"
+    },
+    {
+      "url": "https://www.angellist.com/blog/what-angellist-data-says-about-power-law-returns-in-venture-capital",
+      "label": "AngelList"
+    },
+    {
+      "url": "https://www.skalata.vc/blog/how-venture-returns-really-work-power-law-patience-and-portfolio-construction",
+      "label": "Skalata.VC"
+    },
+    {
+      "url": "https://www.amazon.sg/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1119594820",
+      "label": "Venture Deals"
+    },
+    {
+      "url": "https://thevcfactory.com/wp-content/uploads/2023/12/Sequoia-Capital-YouTube-Investor-Memo-1.pdf",
+      "label": "Sequoia Capital's leaked YouTube investment memo"
+    },
+    {
+      "url": "https://www.amazon.sg/Mastering-Hype-Cycle-Choose-Innovation/dp/1422121100",
+      "label": "Mastering the Hype Cycle"
+    },
+    {
+      "url": "https://www.amazon.sg/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986/",
+      "label": "Crossing the Chasm"
+    },
+    {
+      "url": "https://www.amazon.sg/Inside-Tornado-Strategies-Developing-Hypergrowth/dp/0060745819/",
+      "label": "Inside the Tornado"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_large_language_models",
+      "label": "Sizes of LLMs"
+    },
+    {
+      "url": "https://fs.blog/chestertons-fence/",
+      "label": "Chesterton's Fence"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/SMART_criteria",
+      "label": "S.M.A.R.T Goals"
+    },
+    {
+      "url": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
+      "label": "The Gervais Principle"
+    },
+    {
+      "url": "https://www.wheresyoured.at/the-men-who-killed-google/",
+      "label": "The Men Who Killed Google"
+    }
+  ],
+  "social_links": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gauravmanek/",
+      "label": "LinkedIn"
+    }
+  ],
+  "notes": "",
+  "license": "CC BY-SA 4.0"
+}

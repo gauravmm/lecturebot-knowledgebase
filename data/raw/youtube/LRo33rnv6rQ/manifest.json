@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "LRo33rnv6rQ",
+  "title": "This is AGI: Sequoia AI Ascent 2026 Keynote",
+  "channel": "Sequoia Capital",
+  "channel_id": "UCWrF0oN6unbXrWsTN7RctTw",
+  "source_url": "https://youtu.be/LRo33rnv6rQ",
+  "fetched_at": "2026-05-05",
+  "published_at": "2026-04-30",
+  "duration_seconds": 1947,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "ai-strategy",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "90edac50eeb3b36414201d3d241844234a2f9aa07eebce6474292c5b6c3c2f36",
+      "bytes": 264424
+    },
+    {
+      "path": "info.json",
+      "sha256": "61a5662860518092c476b101e36ead386a52f918d4bfbd1334e13f27ce3e89cd",
+      "bytes": 542116
+    }
+  ]
+}

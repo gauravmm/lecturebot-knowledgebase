@@ -1,0 +1,14 @@
+{
+  "id": "90b7f812",
+  "sha256": "90b7f812d46fb6d17c14652482a0c3a2fee66657202dba20e8b8148669572de2",
+  "original_filename": "original-code-meme.jpg",
+  "proposed_filename": "90b7f812--chatgpt-cant-write-original-code.jpg",
+  "width": 603,
+  "height": 401,
+  "format": "single-panel",
+  "caption": "A single panel showing two men standing side by side against a wall; the man on the left wears a plaid shirt and the man on the right wears a purple shirt and chain necklace. Bold white text appears at the top and bottom of the image.",
+  "ocr_text": "CHATGPT, CAN YOU WRITE ORIGINAL CODE?\nNO. BUT YOU CAN'T EITHER.",
+  "joke_summary": "ChatGPT deflects criticism about its inability to write truly original code by pointing out that human programmers also largely recombine existing patterns rather than creating from scratch.",
+  "topics": ["llm-limitations", "code-generation", "human-ai-equivalence", "originality"],
+  "added_at": "2026-05-03"
+}

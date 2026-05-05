@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "_1f-o0nqpEI",
+  "title": "DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex Fridman Podcast #459",
+  "channel": "Lex Fridman",
+  "channel_id": "UCSHZKyawb77ixDdsGog4iWA",
+  "source_url": "https://youtu.be/_1f-o0nqpEI",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-02-03",
+  "duration_seconds": 18378,
+  "subs_kind": "manual",
+  "subs_lang": "en-ehkg1hFWq8A",
+  "topic_tag": "ai-strategy",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-ehkg1hFWq8A.vtt",
+      "sha256": "d713ba566b28005f94bdcf342c35871248eb585672be8d9ac618bfc2fdadd9ad",
+      "bytes": 569056
+    },
+    {
+      "path": "info.json",
+      "sha256": "4749ae3e45a80d788483ba7bb9f7dbd360029db7e6a834c789ba2266037cd321",
+      "bytes": 654233
+    }
+  ]
+}

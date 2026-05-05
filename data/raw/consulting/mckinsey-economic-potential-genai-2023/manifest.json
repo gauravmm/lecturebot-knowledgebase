@@ -1,0 +1,18 @@
+{
+  "corpus": "consulting",
+  "doc_id": "mckinsey-economic-potential-genai-2023",
+  "title": "The Economic Potential of Generative AI: The Next Productivity Frontier",
+  "publisher": "McKinsey & Company",
+  "source_url": "https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20digital/our%20insights/the%20economic%20potential%20of%20generative%20ai%20the%20next%20productivity%20frontier/the-economic-potential-of-generative-ai-the-next-productivity-frontier.pdf",
+  "fetched_at": "2026-05-05",
+  "published_at": "2023-06",
+  "license": "Marketing publication. Permissive non-commercial summarization with attribution; do not redistribute the PDF itself.",
+  "files": [
+    {
+      "path": "report.pdf",
+      "sha256": "85b9098b860417c8fb9f151d858efde1f7e82241cb5139d966a864e2d0f0e7bc",
+      "bytes": 21041224,
+      "pages": 68
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "corpus": "essays",
+  "doc_id": "stratechery-checking-in-on-ai-and-the-big-five-2025",
+  "title": "Checking In on AI and the Big Five",
+  "author": "Ben Thompson",
+  "publisher": "Stratechery",
+  "category": "stratechery",
+  "source_url": "https://stratechery.com/2025/checking-in-on-ai-and-the-big-five/",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-02",
+  "license": "Subscriber-archive (free Weekly Articles only); quote with attribution + link, do not redistribute the body text.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "b2addc539fbce250e325f40b1f2f427c8bbc4b302e5bf06242eb21013b8f546d",
+      "bytes": 333363
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "9-Jl0dxWQs8",
+  "title": "How might LLMs store facts | Deep Learning Chapter 7",
+  "channel": "3Blue1Brown",
+  "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+  "source_url": "https://youtu.be/9-Jl0dxWQs8",
+  "fetched_at": "2026-05-03",
+  "published_at": "2024-08-31",
+  "duration_seconds": 1362,
+  "subs_kind": "manual",
+  "subs_lang": "en",
+  "topic_tag": "llm-mechanics",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en.vtt",
+      "sha256": "a6efcf82b32923157398f255ae53cc7bcb26c644029632d1e2cbd49fed4fa150",
+      "bytes": 34091
+    },
+    {
+      "path": "info.json",
+      "sha256": "e6ad839e713074fc28da1772a627284d37fa7d7f19704ce208252f1715f0ed40",
+      "bytes": 144674
+    }
+  ]
+}

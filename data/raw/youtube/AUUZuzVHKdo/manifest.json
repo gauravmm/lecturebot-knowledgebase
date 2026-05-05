@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "AUUZuzVHKdo",
+  "title": "Satya Nadella: Microsoft's AI Bets, Hyperscaling, Quantum Computing Breakthroughs",
+  "channel": "Y Combinator",
+  "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
+  "source_url": "https://youtu.be/AUUZuzVHKdo",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-06-25",
+  "duration_seconds": 2430,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "27081a2e7f33db1a72468fea66100221bd7586af2dd5d774fa97b72583c54719",
+      "bytes": 348187
+    },
+    {
+      "path": "info.json",
+      "sha256": "1990b952da568e7e733098e202a2179acb02b658e946b9c958c22d0690033eb8",
+      "bytes": 545622
+    }
+  ]
+}

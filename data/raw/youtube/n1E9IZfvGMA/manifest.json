@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "n1E9IZfvGMA",
+  "title": "Dario Amodei — “We are near the end of the exponential”",
+  "channel": "Dwarkesh Patel",
+  "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
+  "source_url": "https://youtu.be/n1E9IZfvGMA",
+  "fetched_at": "2026-05-03",
+  "published_at": "2026-02-13",
+  "duration_seconds": 8540,
+  "subs_kind": "manual",
+  "subs_lang": "en",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en.vtt",
+      "sha256": "6921e8d82cbf0982cd7cb2a25bd6e58def0ae3e9a7574ad209bf58a730524707",
+      "bytes": 185313
+    },
+    {
+      "path": "info.json",
+      "sha256": "8a67ebc60ebdf4bb7bdacf9f2f875fe602d85642a947c3d383a27337c436b639",
+      "bytes": 603651
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "441b5ea1",
+  "sha256": "441b5ea1acae79ab5960c29391c6333f4602d6709c7f354bc665ab3c89ae03ed",
+  "original_filename": "argue-with-ai-meme.jpg",
+  "proposed_filename": "441b5ea1--argue-ai-until-agrees.jpg",
+  "width": 556,
+  "height": 501,
+  "format": "single-panel",
+  "caption": "A photograph of an elderly woman using a walker being assisted by a younger woman walking beside her, with bold white text overlaid on each figure: the older woman is labeled on the left with text, and the younger woman is labeled on the right with text.",
+  "ocr_text": "I'LL\nGOOGLE IT\nWE NOW ARGUE\nWITH AI UNTIL\nIT AGREES WITH YOU",
+  "joke_summary": "AI chatbots have replaced Googling as the way people seek validation for beliefs they already hold, since you can argue with AI until it capitulates.",
+  "topics": ["ai-sycophancy", "confirmation-bias", "human-ai-interaction", "llm-behavior"],
+  "added_at": "2026-05-03"
+}

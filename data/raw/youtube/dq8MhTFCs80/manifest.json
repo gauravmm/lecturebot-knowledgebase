@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "dq8MhTFCs80",
+  "title": "Google's Jeff Dean on the Coming Transformations in AI",
+  "channel": "Sequoia Capital",
+  "channel_id": "UCWrF0oN6unbXrWsTN7RctTw",
+  "source_url": "https://youtu.be/dq8MhTFCs80",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-05-12",
+  "duration_seconds": 1831,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "f6326ccf14ed9f20ae248a85ff44a25e71405a917737cc4a264a3022a792a47c",
+      "bytes": 257586
+    },
+    {
+      "path": "info.json",
+      "sha256": "28e6d70737548f101641986805ae47754f44761401431be22b08c2201a82fdea",
+      "bytes": 541470
+    }
+  ]
+}

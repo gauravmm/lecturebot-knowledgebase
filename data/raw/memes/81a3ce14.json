@@ -1,0 +1,14 @@
+{
+  "id": "81a3ce14",
+  "sha256": "81a3ce14c1ee4efb76611cb1dc0871324eb3e8af85f114254351c9664cc25faf",
+  "original_filename": "1671240113820070.png",
+  "proposed_filename": "81a3ce14--openai-altruism-vs-competitive-behavior.png",
+  "width": 889,
+  "height": 893,
+  "format": "comic",
+  "caption": "A four-panel comic using the stunned/smug pigeon meme format. Top-left panel shows a pigeon labeled '@OpenAI' with text about language models being powerful and being the only group building beneficial AI. Top-right panel shows another pigeon labeled '@OpenAI' with text about winning, set against a background with flames. Bottom-left shows a smaller dark bird labeled 'DALL-E' looking upward with text about AI. Bottom-right is a close-up of the pigeon labeled '@OpenAI' with a wide-eyed smug expression.",
+  "ocr_text": "[top-left panel] AI Image models are very powerful so will be rolling out DALL-E 2 to a small group of artists at first\n@ OpenAI\n[top-right panel] Winners at chess teaching\n@ OpenAI\n[bottom-left panel] DALL-E [partial/unclear text about AI foundations]\n[bottom-right panel] @ OpenAI",
+  "joke_summary": "OpenAI publicly claims to be cautious and altruistic about AI safety while simultaneously racing to release competitive products, illustrating the gap between its stated mission and its actual behavior.",
+  "topics": ["ai-safety-theater", "openai-hypocrisy", "responsible-ai-claims", "corporate-vs-stated-values"],
+  "added_at": "2026-05-03"
+}

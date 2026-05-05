@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "brjL6iyoEhI",
+  "title": "Reid Hoffman on AI, Consciousness, and the Future of Labor",
+  "channel": "a16z",
+  "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+  "source_url": "https://youtu.be/brjL6iyoEhI",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-10-20",
+  "duration_seconds": 3182,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "ai-strategy",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "eb9d30e90788b40b94b7613b3c67dbdcb68aaab9f60b138beb5f5b6f28311592",
+      "bytes": 560194
+    },
+    {
+      "path": "info.json",
+      "sha256": "6e0c75c9335661c05b717a7e02092a84b6cbfe75bd87d55dcdbf4693b43fa4b8",
+      "bytes": 570278
+    }
+  ]
+}

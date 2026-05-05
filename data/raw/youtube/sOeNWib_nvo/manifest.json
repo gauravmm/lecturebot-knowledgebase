@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "sOeNWib_nvo",
+  "title": "S4E3 Grit & Growth | Co-Intelligence; An AI Masterclass with Ethan Mollick",
+  "channel": "Stanford Graduate School of Business",
+  "channel_id": "UCGwuxdEeCf0TIA2RbPOj-8g",
+  "source_url": "https://youtu.be/sOeNWib_nvo",
+  "fetched_at": "2026-05-05",
+  "published_at": "2024-06-21",
+  "duration_seconds": 1987,
+  "subs_kind": "manual",
+  "subs_lang": "en-7H3BTdDklXA",
+  "topic_tag": "ai-strategy",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-7H3BTdDklXA.vtt",
+      "sha256": "861557f00276860d8ec21c466371dbc158169cbcffc657cdcbe65bf298f70142",
+      "bytes": 75645
+    },
+    {
+      "path": "info.json",
+      "sha256": "143566a62bc402eddd9ac215065c17f3aa2944f8078740f7d4397f48c01f95f7",
+      "bytes": 508220
+    }
+  ]
+}

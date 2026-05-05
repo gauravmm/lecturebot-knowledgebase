@@ -1,0 +1,20 @@
+{
+  "corpus": "ai_index",
+  "doc_id": "ai_index_2026",
+  "title": "AI Index Report 2026",
+  "publisher": "Stanford HAI",
+  "source_url": "https://hai.stanford.edu/assets/files/ai_index_report_2026.pdf",
+  "landing_url": "https://hai.stanford.edu/ai-index/2026-ai-index-report",
+  "fetched_at": "2026-05-05",
+  "published_at": "2026-04-28",
+  "license": "CC BY-ND 4.0",
+  "files": [
+    {
+      "path": "report.pdf",
+      "sha256": "f2f3b6ae863957db86de108d1cec8684a3ffdcc217798ccfbfe9bd5061ab4d3c",
+      "bytes": 24911274,
+      "pages": 425
+    }
+  ],
+  "notes": "Annual canonical AI metrics: compute, funding, capability benchmarks, hiring, regulation, public opinion. Per-page chunking for v1; bot can deep-link to a specific page via <source_url>#page=<slide_number>. Section-aware chunking and figure-caption extraction deferred."
+}

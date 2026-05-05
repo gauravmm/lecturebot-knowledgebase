@@ -1,0 +1,18 @@
+{
+  "corpus": "consulting",
+  "doc_id": "deloitte-state-of-ai-enterprise-2026",
+  "title": "State of AI in the Enterprise 2026 (Global cut)",
+  "publisher": "Deloitte",
+  "source_url": "https://www.deloitte.com/content/dam/assets-shared/docs/about/2025/state-of-ai-2026-global.pdf",
+  "fetched_at": "2026-05-05",
+  "published_at": "2026-01",
+  "license": "Marketing publication. Permissive non-commercial summarization with attribution; do not redistribute the PDF itself.",
+  "files": [
+    {
+      "path": "report.pdf",
+      "sha256": "df72e674c9719adfb025105c7fd271ee1466864a200226fdb5658378d2c15c7e",
+      "bytes": 8226825,
+      "pages": 41
+    }
+  ]
+}

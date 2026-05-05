@@ -1,0 +1,19 @@
+{
+  "corpus": "letters",
+  "doc_id": "bezos-2018-ar",
+  "title": "2018 Letter to Shareholders (in 2018 Annual Report)",
+  "author": "Jeff Bezos",
+  "publisher": "Amazon",
+  "letter_year": 2018,
+  "format": "pdf-ar",
+  "source_url": "https://s2.q4cdn.com/299287126/files/doc_financials/annual/2018-Annual-Report.pdf",
+  "fetched_at": "2026-05-05",
+  "license": "Public web; canonical IR-site publication. Quote with attribution.",
+  "files": [
+    {
+      "path": "report.pdf",
+      "sha256": "489fbf0ba75c2cbd61f03f567dbadf179130f15cc73a40301f4338d299165fac",
+      "bytes": 782447
+    }
+  ]
+}

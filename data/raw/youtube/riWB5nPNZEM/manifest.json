@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "riWB5nPNZEM",
+  "title": "No Priors Ep. 82 | With CEO of Sierra Bret Taylor",
+  "channel": "No Priors: AI, Machine Learning, Tech, & Startups",
+  "channel_id": "UCSI7h9hydQ40K5MJHnCrQvw",
+  "source_url": "https://youtu.be/riWB5nPNZEM",
+  "fetched_at": "2026-05-05",
+  "published_at": "2024-09-19",
+  "duration_seconds": 2911,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "ai-strategy",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "cfc1cec1463712499047a22f653eeb86274947c314d684fc41dfb6fbe4e122e4",
+      "bytes": 486671
+    },
+    {
+      "path": "info.json",
+      "sha256": "0a4fd100951bb5f6fdbeca0a2323404edd8afd178d7639fcedd9b400f9471243",
+      "bytes": 511712
+    }
+  ]
+}

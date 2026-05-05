@@ -1,0 +1,19 @@
+{
+  "corpus": "essays",
+  "doc_id": "lecturer-6-startup-stages",
+  "title": "The Six Startup Stages",
+  "author": null,
+  "publisher": "6startupstages.com",
+  "category": "lecturer_reading_list",
+  "source_url": "https://6startupstages.com/",
+  "fetched_at": "2026-05-05",
+  "published_at": null,
+  "license": "Public web; quote with attribution + link.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "3cb395c69ec737b7aca91d71b589ad18335815d069d11d306026fc8f2bc5bdb1",
+      "bytes": 94764
+    }
+  ]
+}

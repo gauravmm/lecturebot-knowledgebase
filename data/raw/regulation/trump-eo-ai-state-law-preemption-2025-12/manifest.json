@@ -1,0 +1,20 @@
+{
+  "corpus": "regulation",
+  "doc_id": "trump-eo-ai-state-law-preemption-2025-12",
+  "title": "EO — Eliminating State Law Obstruction of National AI Policy (Trump, Dec 2025)",
+  "author": "Executive Office of the President (Trump)",
+  "publisher": "The White House",
+  "category": "us_eo",
+  "format": "html-eo",
+  "source_url": "https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-12",
+  "license": "Public domain (US Federal government publication).",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "d683f22b97dc48635f142a428d66451736a9421a663c75e406c1903a46b36940",
+      "bytes": 291621
+    }
+  ]
+}

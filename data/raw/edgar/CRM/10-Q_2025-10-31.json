@@ -1,0 +1,22 @@
+{
+  "corpus": "edgar",
+  "doc_id": "CRM-10-Q_2025-10-31",
+  "ticker": "CRM",
+  "company_name": "Salesforce Inc",
+  "cik": "0001108524",
+  "form": "10-Q",
+  "filing_date": "2025-12-04",
+  "report_date": "2025-10-31",
+  "accession": "0001108524-25-000238",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852425000238/crm-20251031.htm",
+  "filing_index_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001108524&type=10-Q&dateb=&owner=include&count=40",
+  "fetched_at": "2026-05-05",
+  "license": "Public domain (US government filing). EDGAR fair-use applies; identify the requester via User-Agent on every request.",
+  "files": [
+    {
+      "path": "10-Q_2025-10-31.htm",
+      "sha256": "c244c50e275237160d1b3e50158208d6e299e8c84753223ffe6594359e5cb38a",
+      "bytes": 2140799
+    }
+  ]
+}

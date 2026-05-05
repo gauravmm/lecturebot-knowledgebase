@@ -1,0 +1,22 @@
+{
+  "corpus": "edgar",
+  "doc_id": "GOOGL-10-K_2025-12-31",
+  "ticker": "GOOGL",
+  "company_name": "Alphabet Inc",
+  "cik": "0001652044",
+  "form": "10-K",
+  "filing_date": "2026-02-05",
+  "report_date": "2025-12-31",
+  "accession": "0001652044-26-000018",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+  "filing_index_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001652044&type=10-K&dateb=&owner=include&count=40",
+  "fetched_at": "2026-05-05",
+  "license": "Public domain (US government filing). EDGAR fair-use applies; identify the requester via User-Agent on every request.",
+  "files": [
+    {
+      "path": "10-K_2025-12-31.htm",
+      "sha256": "c2f6301004f35411a20611c14ff01d80a85c0bcbab6053c80d8cc7f6fc747161",
+      "bytes": 2616499
+    }
+  ]
+}

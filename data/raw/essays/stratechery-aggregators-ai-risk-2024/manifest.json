@@ -1,0 +1,19 @@
+{
+  "corpus": "essays",
+  "doc_id": "stratechery-aggregators-ai-risk-2024",
+  "title": "Aggregator's AI Risk",
+  "author": "Ben Thompson",
+  "publisher": "Stratechery",
+  "category": "stratechery",
+  "source_url": "https://stratechery.com/2024/aggregators-ai-risk/",
+  "fetched_at": "2026-05-05",
+  "published_at": "2024-04",
+  "license": "Subscriber-archive (free Weekly Articles only); quote with attribution + link, do not redistribute the body text.",
+  "files": [
+    {
+      "path": "page.html",
+      "sha256": "56803cc493007583070f7365ca263a11b7b168eaa5325fe7d9708fa427c4c14b",
+      "bytes": 331163
+    }
+  ]
+}

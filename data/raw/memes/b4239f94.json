@@ -1,0 +1,14 @@
+{
+  "id": "b4239f94",
+  "sha256": "b4239f94e21f68258b480a8a5c48e6924d16135a4c5c5dcef1147ec2a9529f75",
+  "original_filename": "improve-product-ai-meme.jpg",
+  "proposed_filename": "b4239f94--ai-over-understand-customer-needs.jpg",
+  "width": 548,
+  "height": 698,
+  "format": "comic",
+  "caption": "A three-panel boardroom meeting comic. In the top panel, a standing figure addresses colleagues at a conference table with a speech bubble. In the middle panel, three seated figures each hold speech bubbles, two on the left saying 'AI' and one on the right saying something different. In the bottom panel, the rightmost figure from the middle panel is shown being thrown out a window of a tall building.",
+  "ocr_text": "[speech bubble: \"We need to improve our product\"]\n[speech bubble: \"AI\"]\n[speech bubble: \"AI\"]\n[speech bubble: \"Understand our customer's needs\"]\ncaniphish",
+  "joke_summary": "In a tech company meeting about improving the product, two people shout 'AI' while the one person who suggests understanding customer needs gets thrown out the window.",
+  "topics": ["ai-hype", "product-management", "user-research", "tech-culture", "customer-focus"],
+  "added_at": "2026-05-03"
+}

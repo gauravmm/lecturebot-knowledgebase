@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "Uho2GupZSgU",
+  "title": "Sacks, Andreessen & Horowitz: How America Wins the AI Race Against China",
+  "channel": "a16z",
+  "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+  "source_url": "https://youtu.be/Uho2GupZSgU",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-11-03",
+  "duration_seconds": 4649,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "ai-strategy",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "4d2142194d61f679495bc228d870dceab328d28aefffafac02513389bccc7c07",
+      "bytes": 790041
+    },
+    {
+      "path": "info.json",
+      "sha256": "49178998c20970cea19808579ec2469e279424f5e0e98a728a1dd6b31621460d",
+      "bytes": 586413
+    }
+  ]
+}

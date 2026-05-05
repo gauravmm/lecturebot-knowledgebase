@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "IHZwWFHWa-w",
+  "title": "Gradient descent, how neural networks learn | Deep Learning Chapter 2",
+  "channel": "3Blue1Brown",
+  "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+  "source_url": "https://youtu.be/IHZwWFHWa-w",
+  "fetched_at": "2026-05-03",
+  "published_at": "2017-10-16",
+  "duration_seconds": 1233,
+  "subs_kind": "manual",
+  "subs_lang": "en",
+  "topic_tag": "llm-mechanics",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en.vtt",
+      "sha256": "29ec3365d32c34c95bdd75cb6ed7d10b9f3f13c22886d6d63c118836a790c28d",
+      "bytes": 29688
+    },
+    {
+      "path": "info.json",
+      "sha256": "20c5359cbfbb3dbaf3067529d2c4befae4f87cdfbd428200c3582e694c5fa317",
+      "bytes": 609623
+    }
+  ]
+}

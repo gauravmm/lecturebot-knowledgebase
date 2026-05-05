@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "p8Jx4qvDoSo",
+  "title": "Scaling and the Road to Human-Level AI | Anthropic Co-founder Jared Kaplan",
+  "channel": "Y Combinator",
+  "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
+  "source_url": "https://youtu.be/p8Jx4qvDoSo",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-07-29",
+  "duration_seconds": 2448,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "c3f9257d4b47c9102ec91a3e88f67810e2689d7d2f4c833a63426eba1c6d5fd6",
+      "bytes": 354684
+    },
+    {
+      "path": "info.json",
+      "sha256": "7b63a9e5f62fc484087609e8c8f2e0ca13d7f78f599be1b5cdf9e7f21f860917",
+      "bytes": 555157
+    }
+  ]
+}

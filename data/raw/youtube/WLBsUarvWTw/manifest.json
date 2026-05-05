@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "WLBsUarvWTw",
+  "title": "AGI is still 30 years away — Ege Erdil & Tamay Besiroglu",
+  "channel": "Dwarkesh Patel",
+  "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
+  "source_url": "https://youtu.be/WLBsUarvWTw",
+  "fetched_at": "2026-05-03",
+  "published_at": "2025-04-17",
+  "duration_seconds": 11343,
+  "subs_kind": "manual",
+  "subs_lang": "en",
+  "topic_tag": "ai-strategy",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en.vtt",
+      "sha256": "720495b005196f729cc6b2ab853d33209e01f78c69afcca98a5314d745e040c4",
+      "bytes": 273573
+    },
+    {
+      "path": "info.json",
+      "sha256": "b8831c8320ac5215b18f019ad8655cada329a143486344f80f15cc5a9a023630",
+      "bytes": 151211
+    }
+  ]
+}

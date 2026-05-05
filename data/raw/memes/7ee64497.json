@@ -1,0 +1,13 @@
+{
+  "id": "7ee64497",
+  "sha256": "7ee64497d82a75c1cbe264c8d9f5a2bc02d745b63d0185aa9f53d9c594cd98c2",
+  "original_filename": "51004a2f-aabf-41e7-88fc-6e99b2f87547_476x720.jpg",
+  "proposed_filename": "7ee64497--china-race-justifies-ai-development.jpg",
+  "width": 476, "height": 720,
+  "format": "two-panel",
+  "caption": "Two-panel meme. Top panel shows two large red buttons side by side, labeled 'Stop AI Research Now' and 'Develop AI Because China Will', with a hand pressing the right button. Bottom panel shows a sweating, stressed man wiping his forehead with a cloth.",
+  "ocr_text": "Stop AI\nResearch Now\n\nDevelop\nAI Because\nChina Will",
+  "joke_summary": "Despite believing AI should be stopped, the speaker compulsively chooses to develop it anyway using 'China will do it first' as an excuse, revealing the bad-faith nature of that justification.",
+  "topics": ["ai-safety", "race-dynamics", "agi-doomerism", "ai-governance", "rationalization"],
+  "added_at": "2026-05-03"
+}

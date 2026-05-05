@@ -1,0 +1,14 @@
+{
+  "id": "85c334e2",
+  "sha256": "85c334e2aa8ff38a5fe36f784733088e9da49efa24def060562e4b0a8bc306a1",
+  "original_filename": "Screenshot_20250512_174200_Instagram.jpg",
+  "proposed_filename": "85c334e2--vibe-coding-conference-localhost.jpg",
+  "width": 1080,
+  "height": 661,
+  "format": "screenshot",
+  "caption": "A Reddit post from r/ChatGPTCoding by u/Bear650, posted 3 hours ago. The post title in bold reads 'VibeCon - the biggest vibe coding conference!' with a 'Community' tag pill below it. The body text reads 'Register now: localhost:3000/registration'. Vote count shows 225 upvotes and 34 comments.",
+  "ocr_text": "r/ChatGPTCoding\nu/Bear650 • 3h\n\nVibeCon - the biggest vibe coding conference!\n\nCommunity\n\nRegister now: localhost:3000/registration",
+  "joke_summary": "A vibe-coding conference whose registration link is localhost:3000, meaning the developer forgot to replace their local dev server URL with a real one before posting.",
+  "topics": ["vibe-coding", "developer-mistakes", "ai-assisted-coding", "localhost", "shipping-culture"],
+  "added_at": "2026-05-03"
+}

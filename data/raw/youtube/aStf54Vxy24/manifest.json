@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "aStf54Vxy24",
+  "title": "No Priors Ep. 118 | With Anthropic Co-Founder Ben Mann",
+  "channel": "No Priors: AI, Machine Learning, Tech, & Startups",
+  "channel_id": "UCSI7h9hydQ40K5MJHnCrQvw",
+  "source_url": "https://youtu.be/aStf54Vxy24",
+  "fetched_at": "2026-05-05",
+  "published_at": "2025-06-12",
+  "duration_seconds": 2485,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "22724b61b5796fe1f903e23021cf4a8c7a750b3c194ffd1ff553bc6dc27d7e66",
+      "bytes": 402684
+    },
+    {
+      "path": "info.json",
+      "sha256": "5cf249c378238a3ce210efa8026fdb8635f942a0d9f76ab16c71cbac5e2a4edb",
+      "bytes": 526504
+    }
+  ]
+}

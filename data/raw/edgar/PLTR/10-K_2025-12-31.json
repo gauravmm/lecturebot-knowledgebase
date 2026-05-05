@@ -1,0 +1,22 @@
+{
+  "corpus": "edgar",
+  "doc_id": "PLTR-10-K_2025-12-31",
+  "ticker": "PLTR",
+  "company_name": "Palantir Technologies Inc",
+  "cik": "0001321655",
+  "form": "10-K",
+  "filing_date": "2026-02-17",
+  "report_date": "2025-12-31",
+  "accession": "0001321655-26-000011",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1321655/000132165526000011/pltr-20251231.htm",
+  "filing_index_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001321655&type=10-K&dateb=&owner=include&count=40",
+  "fetched_at": "2026-05-05",
+  "license": "Public domain (US government filing). EDGAR fair-use applies; identify the requester via User-Agent on every request.",
+  "files": [
+    {
+      "path": "10-K_2025-12-31.htm",
+      "sha256": "a4fef9542c4d1a99a9265df88948e5a115223940db01a0bd01f1d8b6c00acd46",
+      "bytes": 2192014
+    }
+  ]
+}

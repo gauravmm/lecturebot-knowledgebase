@@ -1,0 +1,22 @@
+{
+  "corpus": "edgar",
+  "doc_id": "IBM-10-Q_2025-03-31",
+  "ticker": "IBM",
+  "company_name": "International Business Machines Corp",
+  "cik": "0000051143",
+  "form": "10-Q",
+  "filing_date": "2025-04-24",
+  "report_date": "2025-03-31",
+  "accession": "0000051143-25-000032",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000032/ibm-20250331.htm",
+  "filing_index_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000051143&type=10-Q&dateb=&owner=include&count=40",
+  "fetched_at": "2026-05-05",
+  "license": "Public domain (US government filing). EDGAR fair-use applies; identify the requester via User-Agent on every request.",
+  "files": [
+    {
+      "path": "10-Q_2025-03-31.htm",
+      "sha256": "d720f5d0aba0115a5baa008460b0e3fb7b9d54ac19c608540f966d6dbb013b38",
+      "bytes": 2721055
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "corpus": "edgar",
+  "doc_id": "SNOW-10-Q_2025-04-30",
+  "ticker": "SNOW",
+  "company_name": "Snowflake Inc",
+  "cik": "0001640147",
+  "form": "10-Q",
+  "filing_date": "2025-05-30",
+  "report_date": "2025-04-30",
+  "accession": "0001640147-25-000110",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/000164014725000110/snow-20250430.htm",
+  "filing_index_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001640147&type=10-Q&dateb=&owner=include&count=40",
+  "fetched_at": "2026-05-05",
+  "license": "Public domain (US government filing). EDGAR fair-use applies; identify the requester via User-Agent on every request.",
+  "files": [
+    {
+      "path": "10-Q_2025-04-30.htm",
+      "sha256": "78decfbd21dde119bae65ca8a9a993538caa8af3723b4689edf4742973c6d5c2",
+      "bytes": 1992390
+    }
+  ]
+}

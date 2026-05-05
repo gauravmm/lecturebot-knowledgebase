@@ -1,0 +1,22 @@
+{
+  "corpus": "edgar",
+  "doc_id": "NVDA-10-Q_2025-04-27",
+  "ticker": "NVDA",
+  "company_name": "NVIDIA Corp",
+  "cik": "0001045810",
+  "form": "10-Q",
+  "filing_date": "2025-05-28",
+  "report_date": "2025-04-27",
+  "accession": "0001045810-25-000116",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000116/nvda-20250427.htm",
+  "filing_index_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001045810&type=10-Q&dateb=&owner=include&count=40",
+  "fetched_at": "2026-05-05",
+  "license": "Public domain (US government filing). EDGAR fair-use applies; identify the requester via User-Agent on every request.",
+  "files": [
+    {
+      "path": "10-Q_2025-04-27.htm",
+      "sha256": "9f71aa343f38059e3e99cc1c37d97efee9971f4e3fd33377e363064c3a0168f4",
+      "bytes": 1132189
+    }
+  ]
+}

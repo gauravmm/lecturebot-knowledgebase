@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "r8_2CSpcmls",
+  "title": "Ben Horowitz on Investing in AI: AI Bubbles, Economic Impact, and VC Acceleration",
+  "channel": "a16z",
+  "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+  "source_url": "https://youtu.be/r8_2CSpcmls",
+  "fetched_at": "2026-05-05",
+  "published_at": "2026-01-13",
+  "duration_seconds": 2049,
+  "subs_kind": "auto",
+  "subs_lang": "en-orig",
+  "topic_tag": "economics",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en-orig.vtt",
+      "sha256": "4539a02892ba80fa26800a8d1703fcf3b4312ef5b5e4f1419ea986a3b8f89f95",
+      "bytes": 293260
+    },
+    {
+      "path": "info.json",
+      "sha256": "9c13aadaaf60b9457a3a801af4c928b6a667a644abbeb8d50f1da87e774aba1f",
+      "bytes": 545034
+    }
+  ]
+}

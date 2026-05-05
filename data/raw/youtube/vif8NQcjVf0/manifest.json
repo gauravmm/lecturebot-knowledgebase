@@ -1,0 +1,27 @@
+{
+  "corpus": "youtube",
+  "doc_id": "vif8NQcjVf0",
+  "title": "Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494",
+  "channel": "Lex Fridman",
+  "channel_id": "UCSHZKyawb77ixDdsGog4iWA",
+  "source_url": "https://youtu.be/vif8NQcjVf0",
+  "fetched_at": "2026-05-05",
+  "published_at": "2026-03-23",
+  "duration_seconds": 8758,
+  "subs_kind": "manual",
+  "subs_lang": "en",
+  "topic_tag": "frontier-lab-interview",
+  "license": "YouTube ToS — educational use; transcript indexed for search and deep-link citation only.",
+  "files": [
+    {
+      "path": "subs.en.vtt",
+      "sha256": "ee9bd4305b93e86f529c185d3cfbbd0aff1d3ab1231b45440d527e3ea21c48f0",
+      "bytes": 194052
+    },
+    {
+      "path": "info.json",
+      "sha256": "5dc0540cd759d8d1cb0b271c124110937f94b13408af1ba962d9ed77129c913e",
+      "bytes": 620757
+    }
+  ]
+}
