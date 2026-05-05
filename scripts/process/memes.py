@@ -36,7 +36,7 @@ def process_one(sidecar: Path) -> dict:
     return {
         "id": f"meme::{m['id']}",
         "corpus": "memes",
-        "doc_title": m.get("proposed_filename") or m["original_filename"],
+        "doc_title": f"memes/{m['original_filename']}",
         "source_url": None,
         "fetched_at": m.get("added_at"),
         "image_path": f"data/raw/memes/{m['original_filename']}",
