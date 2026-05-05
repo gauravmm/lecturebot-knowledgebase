@@ -1,13 +1,16 @@
-"""MCP server exposing the corpus retriever over HTTP.
+"""MCP server exposing the corpus retriever.
 
 Wraps `lecture_knowledge.retrieve.search` and `fetch_doc` as two MCP
-tools and serves them on the Streamable HTTP transport — that's the
-modern HTTP transport for MCP, supported by any non-stdio MCP client
-(Claude Desktop via http-bridge, custom backends via the official
-SDK, IDE plugins, etc.).
+tools. Two transports are supported:
 
-Run via `uv run knowledge-mcp` (default: 127.0.0.1:8765). Override
-host/port with --host / --port. Endpoint is `http://host:port/mcp`.
+  - stdio (default) — the standard MCP transport. The chat layer (or
+    any MCP-aware client like Claude Desktop / Claude Code) launches
+    `uv run knowledge-mcp` as a child process and speaks JSON-RPC over
+    its stdin/stdout. No port, no host, no network exposure.
+  - http (Streamable HTTP) — for clients that can't spawn child
+    processes or want to share one server across consumers. Run with
+    `uv run knowledge-mcp --transport http` (default 127.0.0.1:8765,
+    endpoint `/mcp`).
 
 Decoupled from the chat layer on purpose — the same server can back
 the lecture Telegram bot, an experimental agent, an MCP-aware IDE,
@@ -18,6 +21,7 @@ in-process.
 from __future__ import annotations
 
 import argparse
+import sys
 from typing import Any
 
 from mcp.server.fastmcp import FastMCP
@@ -66,13 +70,25 @@ def fetch_doc(id: str) -> dict[str, Any]:
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--host", default="127.0.0.1")
-    parser.add_argument("--port", type=int, default=8765)
+    parser.add_argument(
+        "--transport",
+        choices=("stdio", "http"),
+        default="stdio",
+        help="MCP transport to use (default: stdio).",
+    )
+    parser.add_argument("--host", default="127.0.0.1", help="HTTP transport only.")
+    parser.add_argument("--port", type=int, default=8765, help="HTTP transport only.")
     args = parser.parse_args()
-    mcp.settings.host = args.host
-    mcp.settings.port = args.port
-    print(f"lecture-knowledge MCP server → http://{args.host}:{args.port}/mcp")
-    mcp.run(transport="streamable-http")
+
+    if args.transport == "stdio":
+        # Banner must go to stderr — stdout is the JSON-RPC channel.
+        print("lecture-knowledge MCP server → stdio", file=sys.stderr)
+        mcp.run(transport="stdio")
+    else:
+        mcp.settings.host = args.host
+        mcp.settings.port = args.port
+        print(f"lecture-knowledge MCP server → http://{args.host}:{args.port}/mcp")
+        mcp.run(transport="streamable-http")
 
 
 if __name__ == "__main__":

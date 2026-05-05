@@ -49,11 +49,14 @@ indexing, and the `search` / `fetch_doc` tool surface.
   - In-process Python: `from lecture_knowledge.retrieve import
     search, fetch_doc`. Cheapest path; the chat-layer workstream
     can use this if it wants tight coupling.
-  - HTTP MCP server: `uv run knowledge-mcp` exposes the same two
-    tools over Streamable HTTP at `http://127.0.0.1:8765/mcp`.
-    Decoupled from any specific chat backend; any MCP-aware client
-    (custom backends via the official `mcp` SDK, IDE plugins, etc.)
-    can hit it. See `lecture_knowledge/mcp_server.py`.
+  - MCP server: `uv run knowledge-mcp` exposes the same two tools
+    over **stdio by default** — the chat layer (or any MCP-aware
+    client like Claude Desktop / Claude Code) launches it as a child
+    process and speaks JSON-RPC over its stdin/stdout. Add
+    `--transport http` to serve over Streamable HTTP at
+    `http://127.0.0.1:8765/mcp` instead, for clients that can't
+    spawn subprocesses or want to share one server across consumers.
+    See `lecture_knowledge/mcp_server.py`.
 - `data/cache/embeddings/` — sha256(model_id+text)-keyed `.npy`
   per chunk. Gitignored; reproducible from `data/processed/`.
 - `data/index/` — built BM25 dump + FAISS flat-IP +
@@ -97,14 +100,16 @@ indexing, and the `search` / `fetch_doc` tool surface.
 - Ad-hoc query (in-process): `uv run python -c 'from
   lecture_knowledge.retrieve import search; print(search("EU AI
   Act high-risk", k=3))'`.
-- Serve as MCP over HTTP: `uv run knowledge-mcp` (default
-  `127.0.0.1:8765`, override with `--host`/`--port`). Endpoint is
-  `/mcp`; tools are `search` and `fetch_doc`.
+- Serve as MCP: `uv run knowledge-mcp` (default transport: **stdio**;
+  the client spawns the process and speaks JSON-RPC over stdin/stdout).
+  Add `--transport http` for Streamable HTTP mode (default
+  `127.0.0.1:8765`, override with `--host`/`--port`; endpoint `/mcp`).
+  Tools are `search` and `fetch_doc`.
 - End-to-end MCP server test: `uv run python
-  scripts/inspect/mcp_e2e.py`. Spawns the server on an ephemeral
-  port, drives it via the official `mcp` SDK client, asserts the
-  tool surface + result schemas + corpus filter, tears the server
-  down. Exit 0 = pass.
+  scripts/inspect/mcp_e2e.py`. Drives both stdio and HTTP transports
+  via the official `mcp` SDK client; asserts the tool surface +
+  result schemas + corpus filter on each, tears the server down.
+  Exit 0 = pass.
 - Run the linter manually: `uv run pre-commit run --all-files`
 - Stage a re-fetch: edit the relevant raw manifest, then re-run the
   process script for that corpus, then `uv run rebuild`.
