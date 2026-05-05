@@ -71,7 +71,15 @@ def _load() -> dict[str, Any]:
         t = time.monotonic()
         # CPU is intentional: faiss is CPU-only here, bge-base is small,
         # and pinning to CPU avoids contention with co-located GPU jobs.
-        model = SentenceTransformer(EMBEDDING_MODEL_ID, device="cpu")
+        # Try local-only first so a warm HF cache means zero network
+        # calls on startup; fall back to a network fetch only on cache
+        # miss (first run or after `huggingface-cli scan-cache --delete`).
+        try:
+            model = SentenceTransformer(
+                EMBEDDING_MODEL_ID, device="cpu", local_files_only=True
+            )
+        except Exception:
+            model = SentenceTransformer(EMBEDDING_MODEL_ID, device="cpu")
         timings["embedding_model"] = time.monotonic() - t
 
         _state.update(

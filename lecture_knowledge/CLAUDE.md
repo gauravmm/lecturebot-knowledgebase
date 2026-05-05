@@ -27,18 +27,23 @@ Per-stage timings are printed on startup (stderr for stdio,
 stdout for http). Typical numbers (warm HF cache, CPU-only):
 
 ```text
-chunk_meta_parquet       ~180 ms
+chunk_meta_parquet       ~170 ms
 bm25_index                ~15 ms
 faiss_index               ~15 ms
-embedding_model         ~5000 ms   ← dominates
-first_query               ~40 ms
-TOTAL                   ~5300 ms
+embedding_model           ~80 ms
+first_query               ~30 ms
+TOTAL                    ~310 ms
 ```
 
-The embedding model is pinned to `device="cpu"` in
-`retrieve._load`. faiss is CPU-only here, the small bge-base model
-runs fine on CPU, and pinning avoids contention with co-located
-GPU jobs (e.g., a vLLM server on the same box).
+The embedding model is pinned to `device="cpu"` in `retrieve._load`.
+faiss is CPU-only here, the small bge-base model runs fine on CPU,
+and pinning avoids contention with co-located GPU jobs (e.g., a
+vLLM server on the same box). The model load is also called with
+`local_files_only=True` first; if that misses (first-ever run, or
+after `huggingface-cli scan-cache --delete`) it falls back to a
+network fetch. With a warm HF cache there are zero HTTP calls on
+startup — that's what keeps the embedding-model stage at ~80 ms
+rather than ~5 s.
 
 ## Tests
 
