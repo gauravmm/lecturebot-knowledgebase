@@ -17,6 +17,7 @@ amortize.
 from __future__ import annotations
 
 import threading
+import time
 from typing import Any
 
 import bm25s
@@ -51,17 +52,27 @@ def _load() -> dict[str, Any]:
     with _lock:
         if _state:
             return _state
+        timings: dict[str, float] = {}
+
+        t = time.monotonic()
         meta_table = pq.read_table(CHUNK_META_PATH)
         meta = meta_table.to_pydict()
         n = len(meta["id"])
+        timings["chunk_meta_parquet"] = time.monotonic() - t
 
+        t = time.monotonic()
         bm25 = bm25s.BM25.load(str(BM25_DIR), load_corpus=False)
+        timings["bm25_index"] = time.monotonic() - t
 
+        t = time.monotonic()
         faiss_index = faiss.read_index(str(DENSE_DIR / "faiss.index"))
+        timings["faiss_index"] = time.monotonic() - t
 
+        t = time.monotonic()
         # CPU is intentional: faiss is CPU-only here, bge-base is small,
         # and pinning to CPU avoids contention with co-located GPU jobs.
         model = SentenceTransformer(EMBEDDING_MODEL_ID, device="cpu")
+        timings["embedding_model"] = time.monotonic() - t
 
         _state.update(
             n=n,
@@ -70,6 +81,7 @@ def _load() -> dict[str, Any]:
             bm25=bm25,
             faiss=faiss_index,
             model=model,
+            load_timings=timings,
         )
         return _state
 
@@ -162,7 +174,7 @@ def search(
     return [_attach_snippet_and_score(_row_to_hit(row), row, score) for row, score in top]
 
 
-def warmup() -> None:
+def warmup() -> dict[str, float]:
     """Eagerly load both indexes + the embedding model and run one
     throwaway query end-to-end.
 
@@ -171,9 +183,21 @@ def warmup() -> None:
     Loads the BM25 dump, the FAISS index, and the SentenceTransformer
     weights, then issues a single tiny `search` so the torch/FAISS
     code paths are exercised once.
+
+    Returns: per-stage wall-clock seconds, plus a `_total` key. Stage
+    keys: chunk_meta_parquet, bm25_index, faiss_index, embedding_model,
+    first_query.
     """
-    _load()
+    t_total = time.monotonic()
+    s = _load()
+    timings = dict(s["load_timings"])
+
+    t = time.monotonic()
     search("warmup", k=1)
+    timings["first_query"] = time.monotonic() - t
+
+    timings["_total"] = time.monotonic() - t_total
+    return timings
 
 
 def fetch_doc(chunk_id: str) -> dict[str, Any]:

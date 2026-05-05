@@ -22,7 +22,6 @@ from __future__ import annotations
 
 import argparse
 import sys
-import time
 from typing import Any
 
 from mcp.server.fastmcp import FastMCP
@@ -84,13 +83,17 @@ def main() -> None:
     # Stdio transport owns stdout for JSON-RPC; route logs to stderr.
     log = sys.stderr if args.transport == "stdio" else sys.stdout
     print("lecture-knowledge: warming up retrieval engine…", file=log, flush=True)
-    t0 = time.monotonic()
-    retrieve.warmup()
-    print(
-        f"lecture-knowledge: warm in {time.monotonic() - t0:.1f}s",
-        file=log,
-        flush=True,
+    timings = retrieve.warmup()
+    stage_order = (
+        "chunk_meta_parquet",
+        "bm25_index",
+        "faiss_index",
+        "embedding_model",
+        "first_query",
     )
+    for stage in stage_order:
+        print(f"  {stage:<20s} {timings[stage] * 1000:>7.0f} ms", file=log)
+    print(f"  {'TOTAL':<20s} {timings['_total'] * 1000:>7.0f} ms", file=log, flush=True)
 
     if args.transport == "stdio":
         print("lecture-knowledge MCP server → stdio", file=sys.stderr, flush=True)
